@@ -10,8 +10,6 @@ genomes_dir = "/homes/chicago/seaver/genomes/Phytozome/PhytozomeV13"
 search_path = os.path.join(genomes_dir,"*","*","annotation","*.gene.gff3.gz")
 mislinked_genomes_list = list()
 for gff_file in glob.glob(search_path):
-    if("Csativus" in gff_file):
-        continue
 
     gff_line_list=list()
     gene_ids=list()
