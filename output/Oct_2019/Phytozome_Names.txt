@@ -1,0 +1,179 @@
+Acoerulea	Aquilegia coerulea
+Acomosus	Ananas comosus
+Ahalleri	Arabidopsis halleri
+Ahypochondriacus	Amaranthus hypochondriacus
+Ahypogaea	Arachis hypogaea
+Alinifolium	Alyssum linifolium
+Alyrata	Arabidopsis lyrata
+Aoccidentale	Anacardium occidentale
+Aofficinalis	Asparagus officinalis
+Athaliana	Arabidopsis thaliana
+Atrichopoda	Amborella trichopoda
+Bbraunii	Botryococcus braunii
+Bdistachyon	Brachypodium distachyon
+BdistachyonABR2	Brachypodium distachyon ABR2
+BdistachyonABR3	Brachypodium distachyon ABR3
+BdistachyonABR4	Brachypodium distachyon ABR4
+BdistachyonABR5	Brachypodium distachyon ABR5
+BdistachyonABR6	Brachypodium distachyon ABR6
+BdistachyonABR7	Brachypodium distachyon ABR7
+BdistachyonABR8	Brachypodium distachyon ABR8
+BdistachyonABR9	Brachypodium distachyon ABR9
+BdistachyonAdi-10	Brachypodium distachyon Adi-10
+BdistachyonAdi-12	Brachypodium distachyon Adi-12
+BdistachyonAdi-2	Brachypodium distachyon Adi-2
+BdistachyonArn1	Brachypodium distachyon Arn1
+BdistachyonBd1-1	Brachypodium distachyon Bd1-1
+BdistachyonBd18-1	Brachypodium distachyon Bd18-1
+BdistachyonBd2-3	Brachypodium distachyon Bd2-3
+BdistachyonBd21-3	Brachypodium distachyon Bd21-3
+BdistachyonBd21AnntCtrl	Brachypodium distachyon Bd21 AnntCtrl
+BdistachyonBd21AsmbCtrl	Brachypodium distachyon Bd21 AsmbCtrl
+BdistachyonBd29-1	Brachypodium distachyon Bd29-1
+BdistachyonBd3-1	Brachypodium distachyon Bd3-1
+BdistachyonBd30-1	Brachypodium distachyon Bd30-1
+BdistachyonBdTR10c	Brachypodium distachyon BdTR10c
+BdistachyonBdTR11a	Brachypodium distachyon BdTR11a
+BdistachyonBdTR11g	Brachypodium distachyon BdTR11g
+BdistachyonBdTR11i	Brachypodium distachyon BdTR11i
+BdistachyonBdTR12c	Brachypodium distachyon BdTR12c
+BdistachyonBdTR13a	Brachypodium distachyon BdTR13a
+BdistachyonBdTR13c	Brachypodium distachyon BdTR13c
+BdistachyonBdTR1i	Brachypodium distachyon BdTR1i
+BdistachyonBdTR2b	Brachypodium distachyon BdTR2b
+BdistachyonBdTR2g	Brachypodium distachyon BdTR2g
+BdistachyonBdTR3c	Brachypodium distachyon BdTR3c
+BdistachyonBdTR5i	Brachypodium distachyon BdTR5i
+BdistachyonBdTR7a	Brachypodium distachyon BdTR7a
+BdistachyonBdTR8i	Brachypodium distachyon BdTR8i
+BdistachyonBdTR9k	Brachypodium distachyon BdTR9k
+BdistachyonBis-1	Brachypodium distachyon Bis-1
+BdistachyonFoz1	Brachypodium distachyon Foz1
+BdistachyonGaz-8	Brachypodium distachyon Gaz-8
+BdistachyonJer1	Brachypodium distachyon Jer1
+BdistachyonKah-1	Brachypodium distachyon Kah-1
+BdistachyonKah-5	Brachypodium distachyon Kah-5
+BdistachyonKoz-1	Brachypodium distachyon Koz-1
+BdistachyonKoz-3	Brachypodium distachyon Koz-3
+BdistachyonLuc1	Brachypodium distachyon Luc1
+BdistachyonMig3	Brachypodium distachyon Mig3
+BdistachyonMon3	Brachypodium distachyon Mon3
+BdistachyonMur1	Brachypodium distachyon Mur1
+BdistachyonPangenome	Brachypodium distachyon Pangenome
+BdistachyonPer1	Brachypodium distachyon Per1
+BdistachyonRon2	Brachypodium distachyon Ron2
+BdistachyonS8iic	Brachypodium distachyon S8iic
+BdistachyonSig2	Brachypodium distachyon Sig2
+BdistachyonTek-2	Brachypodium distachyon Tek-2
+BdistachyonTek-4	Brachypodium distachyon Tek-4
+BdistachyonUni2	Brachypodium distachyon Uni2
+Bhybridum	Brachypodium hybridum
+Boleraceacapitata	Brassica oleracea capitata
+BrapaFPsc	Brassica rapa FPsc
+Bstacei	Brachypodium stacei
+Bstricta	Boechera stricta
+Bsylvaticum	Brachypodium sylvaticum
+Camplexicaulis	Caulanthus amplexicaulis
+Carabica	Coffea arabica
+Carietinum	Cicer arietinum
+Ccitriodora	Corymbia citriodora
+Cclementina	Citrus clementina
+Cgrandiflora	Capsella grandiflora
+Chispanica	Crambe hispanica
+Ckanehirae	Cinnamomum kanehirae
+Cmaritima	Cakile maritima
+Cpapaya	Carica papaya
+Cquinoa	Chenopodium quinoa
+Creinhardtii	Chlamydomonas reinhardtii
+Crubella	Capsella rubella
+Csativus	Cucumis sativus
+Csinensis	Citrus sinensis
+CsubellipsoideaC-169	Coccomyxa subellipsoidea C-169
+Cviolacea	Cleome violacea
+Czofingiensis	Chromochloris zofingiensis
+Dalata	Dioscorea alata
+Dcarota	Daucus carota
+Dsalina	Dunaliella salina
+Dsophioides	Descurainia sophioides
+Dstrictus	Diptychocarpus strictus
+Egrandis	Eucalyptus grandis
+Esalsugineum	Eutrema salsugineum
+Esyriacum	Euclidium syriacum
+Evesicaria	Eruca vesicaria
+Fvesca	Fragaria vesca
+Gbarbadense	Gossypium barbadense
+Gdarwinii	Gossypium darwinii
+Ghirsutum	Gossypium hirsutum
+Gmax	Glycine max
+GmaxLee	Glycine max Lee
+Gmustelinum	Gossypium mustelinum
+Graimondii	Gossypium raimondii
+Gsoja	Glycine soja
+Gtomentosum	Gossypium tomentosum
+Hannuus	Helianthus annuus
+Hvulgare	Hordeum vulgare
+Iamara	Iberis amara
+Itinctoria	Isatis tinctoria
+Kfedtschenkoi	Kalanchoe fedtschenkoi
+Klaxiflora	Kalanchoe laxiflora
+Lannua	Lunaria annua
+Lsativa	Lactuca sativa
+Lsativum	Lepidium sativum
+Lusitatissimum	Linum usitatissimum
+Macuminata	Musa acuminata
+Mdomestica	Malus domestica
+Mesculenta	Manihot esculenta
+Mguttatus	Mimulus guttatus
+MguttatusNONTOL	Mimulus guttatus NONTOL
+MguttatusTOL	Mimulus guttatus TOL
+Mmaritima	Malcolmia maritima
+Mperfoliatum	Myagrum perfoliatum
+Mpolymorpha	Marchantia polymorpha
+MpusillaCCMP1545	Micromonas pusilla CCMP1545
+Msinensis	Miscanthus sinensis
+MspRCC299	Micromonas sp RCC299
+Mtruncatula	Medicago truncatula
+Oeuropaea	Olea europaea
+Olucimarinus	Ostreococcus lucimarinus
+Osativa	Oryza sativa
+OsativaKitaake	Oryza sativa Kitaake
+Othomaeum	Oropetium thomaeum
+PdeltoidesWV94	Populus deltoides WV94
+Phallii	Panicum hallii
+PhalliiHAL	Panicum hallii HAL
+Ppatens	Physcomitrella patens
+Ppersica	Prunus persica
+Ptrichocarpa	Populus trichocarpa
+PtrichocarpaStettler14	Populus trichocarpa Stettler14
+Pumbilicalis	Porphyra umbilicalis
+Pvirgatum	Panicum virgatum
+Pvulgaris	Phaseolus vulgaris
+PvulgarisUI111	Phaseolus vulgaris UI111
+Rcommunis	Ricinus communis
+Rislandica	Rorippa islandica
+Salba	Sinapis alba
+Sbicolor	Sorghum bicolor
+SbicolorRio	Sorghum bicolor Rio
+Sfallax	Sphagnum fallax
+Sitalica	Setaria italica
+Slycopersicum	Solanum lycopersicum
+Smoellendorffii	Selaginella moellendorffii
+Spinnata	Stanleya pinnata
+Spolyrhiza	Spirodela polyrhiza
+Spurpurea	Salix purpurea
+SpurpureaFishCreek	Salix purpurea Fish Creek
+Stuberosum	Solanum tuberosum
+Sviridis	Setaria viridis
+Taestivum	Triticum aestivum
+Tarvense	Thlaspi arvense
+Tcacao	Theobroma cacao
+Tintermedium	Thinopyrum intermedium
+Tpratense	Trifolium pratense
+Vcarteri	Volvox carteri
+Vunguiculata	Vigna unguiculata
+Vvinifera	Vitis vinifera
+Zmarina	Zostera marina
+Zmays	Zea mays
+ZmaysPH207	Zea mays PH207
+ZmaysPHB47	Zea mays PHB47
+ZmaysPHJ40	Zea mays PHJ40

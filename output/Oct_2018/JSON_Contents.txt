@@ -1,0 +1,164 @@
+Rhodophyta	Porphyra umbilicalis	2786	456	Porphyra umbilicalis	Pumbilicalis	Laver	v1.5	unrestricted	JGI	JGI	62.0
+Chlorophyte	Botryococcus braunii	38881	502	Botryococcus braunii	Bbraunii		v2.1	restricted	JGI	JGI	80.5
+Chlorophyte	Chlamydomonas reinhardtii	3055	281	Chlamydomonas reinhardtii	Creinhardtii	Green algae	v5.5	unrestricted	JGI	JGI	96.1
+Chlorophyte	Chromochloris zofingiensis	31302	461	Chromochloris zofingiensis	Czofingiensis		v5.2.3.2	unrestricted	UCLA	UCLA	84.5
+Chlorophyte	Coccomyxa subellipsoidea C-169	574566	227	Coccomyxa subellipsoidea C-169	CsubellipsoideaC_169		v2.0	unrestricted	JGI.FG	JGI.FG	89.2
+Chlorophyte	Dunaliella salina	3046	325	Dunaliella salina	Dsalina	Dunaliella	v1.0	restricted	JGI	JGI	77.6
+Chlorophyte	Micromonas pusilla CCMP1545	564608	228	Micromonas pusilla CCMP1545	MpusillaCCMP1545		v3.0	unrestricted	JGI.FG	JGI.FG	87.5
+Chlorophyte	Micromonas sp. RCC299	296587	229	Micromonas sp. RCC299	MspRCC299		v3.0	unrestricted	JGI.FG	JGI.FG	89.8
+Chlorophyte	Ostreococcus lucimarinus	436017	231	Ostreococcus lucimarinus	Olucimarinus		v2.0	unrestricted	JGI.FG	JGI.FG	84.5
+Chlorophyte	Volvox carteri	3067	317	Volvox carteri	Vcarteri	Volvox	v2.1	unrestricted	JGI	JGI	94.7
+Embryophyte	Marchantia polymorpha	3197	320	Marchantia polymorpha	Mpolymorpha	Common liverwort	v3.1	unrestricted	JGI	JGI	97.6
+Embryophyte	Physcomitrella patens	3218	318	Physcomitrella patens	Ppatens	Moss	v3.3	unrestricted	COSMOSS	COSMOSS	98.6
+Embryophyte	Sphagnum fallax	53036	310	Sphagnum fallax	Sfallax	Bog moss	v0.5	restricted	JGI	JGI	98.0
+Tracheophyte	Selaginella moellendorffii	88036	91	Selaginella moellendorffii	Smoellendorffii	Spikemoss	v1.0	unrestricted	JGI	JGI	95.7
+Angiosperm	Amborella trichopoda	13333	291	Amborella trichopoda	Atrichopoda	Amborella	v1.0	unrestricted	AGP	AGP	94.4
+Eudicot	Aquilegia coerulea	218851	322	Aquilegia coerulea	Acoerulea	Colorado blue columbine	v3.1	restricted	JGI	JGI	98.7
+Pentapetalae	Amaranthus hypochondriacus	28502	459	Amaranthus hypochondriacus	Ahypochondriacus	Amaranth	v2.1	unrestricted	BYU	BYU	91.7
+Pentapetalae	Chenopodium quinoa	63459	392	Chenopodium quinoa	Cquinoa	Quinoa	v1.0	unrestricted	KAUST	KAUST	96.0
+Pentapetalae	Kalanchoe fedtschenkoi	63787	382	Kalanchoe fedtschenkoi	Kfedtschenkoi	diploid Kalanchoe	v1.1	restricted	JGI	JGI	96.7
+Pentapetalae	Kalanchoe laxiflora	1670617	309	Kalanchoe laxiflora	Klaxiflora	Milky widow's thrill	v1.1	restricted	JGI	JGI	98.7
+Asterids	Coffea arabica	13443	453	Coffea arabica	Carabica	Coffee bean	v0.5	restricted	UCD	UCD	98.3
+Asterids	Daucus carota	4039	388	Daucus carota	Dcarota	Carrot	v2.0	unrestricted	WISC	WISC	92.0
+Asterids	Helianthus annuus	4232	494	Helianthus annuus	Hannuus	Sunflower	r1.2	unrestricted	INRA	INRA	98.0
+Asterids	Lactuca sativa	4236	467	Lactuca sativa	Lsativa	Lettuce	V8	unrestricted	UCDavis	UCDavis	96.4
+Asterids	Mimulus guttatus	4155	256	Mimulus guttatus	Mguttatus	Monkey flower	v2.0	unrestricted	JGI	JGI	98.0
+Asterids	Olea europaea var. sylvestris	4146	451	Olea europaea var. sylvestris	Oeuropaea	Wild olive	v1.0	unrestricted	OGC	OGC	90.1
+Asterids	Solanum lycopersicum	4081	390	Solanum lycopersicum	Slycopersicum	Tomato	ITAG2.4	unrestricted	iTAG	iTAG	96.3
+Asterids	Solanum tuberosum	4113	448	Solanum tuberosum	Stuberosum	Potato	v4.03	unrestricted	MSU	MSU	87.1
+Rosid	Eucalyptus grandis	71139	297	Eucalyptus grandis	Egrandis	Rose gum	v2.0	unrestricted	JGI	JGI	95.1
+Rosid	Vitis vinifera	29760	457	Vitis vinifera	Vvinifera	Common grape vine	v2.1	unrestricted	CRIBI	CRIBI	97.7
+Fabidae	Cicer arietinum	3827	492	Cicer arietinum	Carietinum	Chickpea	v1.0	unrestricted	CGIAR	CGIAR	95.4
+Fabidae	Cucumis sativus	3659	122	Cucumis sativus	Csativus	Cucumber	v1.0	unrestricted	Roche/JGI	Roche/JGI	95.0
+Fabidae	Fragaria vesca	57918	501	Fragaria vesca	Fvesca	Woodland strawberry	v2.0.a2	restricted	HAU	HAU	96.3
+Fabidae	Glycine max	3847	275	Glycine max	Gmax	Soybean	Wm82.a2.v1	unrestricted	JGI	JGI	98.4
+Fabidae	Malus domestica	3750	491	Malus domestica	Mdomestica	Apple	v1.1	restricted	AGE	AGE	96.3
+Fabidae	Medicago truncatula	3880	285	Medicago truncatula	Mtruncatula	Barrel medic	Mt4.0v1	unrestricted	JCVI	JCVI	97.4
+Fabidae	Phaseolus vulgaris	3885	442	Phaseolus vulgaris	Pvulgaris	Common bean	v2.1	restricted	JGI	JGI	97.6
+Fabidae	Prunus persica	3760	298	Prunus persica	Ppersica	Peach	v2.1	unrestricted	JGI	JGI	99.0
+Fabidae	Trifolium pratense	57577	385	Trifolium pratense	Tpratense	Red clover	v2	restricted	TGAC	TGAC	93.4
+Fabidae	Vigna unguiculata	3917	469	Vigna unguiculata	Vunguiculata	Cowpea	v1.1	restricted	JGI/UCR	JGI/UCR	98.3
+Malpighiales	Linum usitatissimum	4006	200	Linum usitatissimum	Lusitatissimum	Flax	v1.0	unrestricted	BGI	BGI	97.7
+Malpighiales	Manihot esculenta	3983	305	Manihot esculenta	Mesculenta	Cassava	v6.1	unrestricted	JGI	JGI	97.7
+Malpighiales	Populus deltoides WV94	3696	445	Populus deltoides WV94	PdeltoidesWV94	Eastern cottonwood	v2.1	restricted	JGI	JGI	97.7
+Malpighiales	Populus trichocarpa	3694	444	Populus trichocarpa	Ptrichocarpa	Poplar	v3.1	unrestricted	JGI	JGI	98.6
+Malpighiales	Ricinus communis	3988	119	Ricinus communis	Rcommunis	Castor bean	v0.1	unrestricted	TIGR	TIGR	94.0
+Malpighiales	Salix purpurea	77065	289	Salix purpurea	Spurpurea	Purple osier willow	v1.0	restricted	JGI/JCVI	JGI/JCVI	98.6
+SBM	Anacardium occidentale	171929	449	Anacardium occidentale	Aoccidentale	Cashew	v0.9	restricted	JGI	JGI	96.7
+Brassicales-Malvales	Carica papaya	3649	113	Carica papaya	Cpapaya	Papaya	ASGPBv0.4	unrestricted	ASGPB	ASGPB	82.5
+Brassicales-Malvales	Cleome violacea	389490	484	Cleome violacea	Cviolacea	Spiderflower	v1.1	restricted	JGI	JGI	98.7
+Brassicales-Malvales	Gossypium hirsutum	3635	458	Gossypium hirsutum	Ghirsutum	Upland cotton	v1.1	restricted	JGI	JGI	99.0
+Brassicales-Malvales	Gossypium raimondii	29730	221	Gossypium raimondii	Graimondii	Cotton	v2.1	unrestricted	JGI	JGI	98.4
+Brassicales-Malvales	Theobroma cacao	3641	233	Theobroma cacao	Tcacao	Cacao	v1.1	unrestricted	CGD	CGD	98.4
+Brassicaceae	Alyssum linifolium	457770	472	Alyssum linifolium	Alinifolium	Madwort	v1.1	restricted	JGI	JGI	98.7
+Brassicaceae	Arabidopsis halleri	81970	264	Arabidopsis halleri	Ahalleri		v1.1	restricted	JGI	JGI	89.5
+Brassicaceae	Arabidopsis lyrata	59689	384	Arabidopsis lyrata	Alyrata	Lyre-leaved rock cress	v2.1	unrestricted	MPIPZ	MPIPZ	98.0
+Brassicaceae	Arabidopsis thaliana	3702	447	Arabidopsis thaliana	Athaliana	Thale cress	Araport11	unrestricted	TAIR	Araport	98.7
+Brassicaceae	Arabidopsis thaliana columbia	3702	167	Arabidopsis thaliana columbia	Athaliana	Thale cress	TAIR10	unrestricted	TAIR	TAIR	99.0
+Brassicaceae	Boechera stricta	72658	278	Boechera stricta	Bstricta	Drummond's rock cress	v1.2	unrestricted	JGI	JGI	96.0
+Brassicaceae	Brassica oleracea capitata	3712	446	Brassica oleracea capitata	Boleraceacapitata	Savoy cabbage	v1.0	unrestricted	OCRI	OCRI	88.8
+Brassicaceae	Brassica rapa FPsc	3711	277	Brassica rapa FPsc	BrapaFPsc	Turnip mustard - FasPlant self-compatible	v1.3	restricted	JGI	JGI	97.7
+Brassicaceae	Cakile maritima	220483	481	Cakile maritima	Cmaritima	European sea rocket	v1.1	restricted	JGI	JGI	98.3
+Brassicaceae	Capsella grandiflora	264402	266	Capsella grandiflora	Cgrandiflora		v1.1	unrestricted	JGI	JGI	94.1
+Brassicaceae	Capsella rubella	81985	474	Capsella rubella	Crubella	Pink shepherd's purse	v1.1	restricted	JGI	JGI	98.3
+Brassicaceae	Caulanthus amplexicaulis	154096	470	Caulanthus amplexicaulis	Camplexicaulis	Claspingleaf wild cabbage	v1.1	restricted	JGI	JGI	98.7
+Brassicaceae	Crambe hispanica	70124	488	Crambe hispanica	Chispanica	Abyssinian kale	v1.1	restricted	JGI	JGI	98.3
+Brassicaceae	Descurainia sophioides	669666	482	Descurainia sophioides	Dsophioides	Northern tansy mustard	v1.1	restricted	JGI	JGI	98.0
+Brassicaceae	Diptychocarpus strictus	359840	489	Diptychocarpus strictus	Dstrictus		v1.1	restricted	JGI	JGI	98.0
+Brassicaceae	Eruca vesicaria	180536	487	Eruca vesicaria	Evesicaria	Rocket, eruca, arugala	v1.1	restricted	JGI	JGI	99.3
+Brassicaceae	Euclidium syriacum	345537	483	Euclidium syriacum	Esyriacum	Syrian mustard	v1.1	restricted	JGI	JGI	97.7
+Brassicaceae	Eutrema salsugineum	72664	173	Eutrema salsugineum	Esalsugineum	Salt cress	v1.0	unrestricted	JGI	JGI	98.7
+Brassicaceae	Iberis amara	190884	485	Iberis amara	Iamara	Rocket candytuft	v1.1	restricted	JGI	JGI	98.3
+Brassicaceae	Isatis tinctoria	161756	475	Isatis tinctoria	Itinctoria	Woad	v1.1	restricted	JGI	JGI	98.0
+Brassicaceae	Lepidium sativum	33125	478	Lepidium sativum	Lsativum	Garden cress	v1.1	restricted	JGI	JGI	98.7
+Brassicaceae	Lunaria annua	153659	476	Lunaria annua	Lannua	Annual honesty	v1.1	restricted	JGI	JGI	98.7
+Brassicaceae	Malcolmia maritima	313683	477	Malcolmia maritima	Mmaritima	Virginia stock	v1.1	restricted	JGI	JGI	99.0
+Brassicaceae	Myagrum perfoliatum	359867	471	Myagrum perfoliatum	Mperfoliatum	Bird's eye cress	v1.1	restricted	JGI	JGI	98.3
+Brassicaceae	Rorippa islandica	157092	473	Rorippa islandica	Rislandica	Northern marsh yellowcress	v1.1	restricted	JGI	JGI	98.7
+Brassicaceae	Sinapis alba	3728	480	Sinapis alba	Salba	White mustard	v1.1	restricted	JGI	JGI	98.0
+Brassicaceae	Stanleya pinnata	72662	486	Stanleya pinnata	Spinnata	Desert princesplume	v1.1	restricted	JGI	JGI	82.8
+Brassicaceae	Thlaspi arvense	13288	479	Thlaspi arvense	Tarvense	Field penny-cress	v1.1	restricted	JGI	JGI	98.3
+Citrus	Citrus clementina	85681	182	Citrus clementina	Cclementina	Clementine	v1.0	unrestricted	JGI	JGI	96.7
+Citrus	Citrus sinensis	2711	154	Citrus sinensis	Csinensis	Sweet orange	v1.1	unrestricted	JGI	JGI	91.4
+Monocot	Ananas comosus	4615	321	Ananas comosus	Acomosus	Pineapple	v3	unrestricted	FAFU/UIUC	FAFU/UIUC	92.1
+Monocot	Asparagus officinalis	4686	498	Asparagus officinalis	Aofficinalis	Asparagus	V1.1	unrestricted	UGA	UGA	88.8
+Monocot	Musa acuminata	4641	304	Musa acuminata	Macuminata	Banana	v1	unrestricted	Genoscope/Cirad	Genoscope/Cirad	94.1
+Monocot	Spirodela polyrhiza	29656	290	Spirodela polyrhiza	Spolyrhiza	Greater duckweed	v2	unrestricted	MIPS	MIPS	92.8
+Monocot	Zostera marina	29655	324	Zostera marina	Zmarina	Common eelgrass	v2.2	unrestricted	ORCAE	ORCAE	97.0
+Grass	Hordeum vulgare	4513	462	Hordeum vulgare	Hvulgare	Barley	r1	unrestricted	IBSC	IBSC	91.5
+Grass	Oropetium thomaeum	1148796	386	Oropetium thomaeum	Othomaeum		v1.0	unrestricted	DanforthCenter	DanforthCenter	84.2
+Grass	Oryza sativa	4530	323	Oryza sativa	Osativa	Rice	v7.0	unrestricted	MSU	MSU	95.1
+Grass	Oryza sativa Kitaake	4530	499	Oryza sativa Kitaake	OsativaKitaake	Kitaake rice	v3.1	unrestricted	JGI	JGI	98.3
+Grass	Triticum aestivum	4565	296	Triticum aestivum	Taestivum	Common wheat	v2.2	unrestricted	MIPS	MIPS	92.8
+Brachypodium	Brachypodium distachyon Bd21-3	15368	460	Brachypodium distachyon Bd21-3	BdistachyonBd21_3	Purple false brome	v1.1	restricted	JGI	JGI	98.0
+Brachypodium	Brachypodium hybridum	1071398	463	Brachypodium hybridum	Bhybridum		v1.1	unrestricted	JGI	JGI	97.7
+Brachypodium	Brachypodium stacei	1071399	316	Brachypodium stacei	Bstacei		v1.1	restricted	JGI	JGI	98.0
+Brachypodium	Brachypodium sylvaticum	29664	490	Brachypodium sylvaticum	Bsylvaticum		v1.1	restricted	JGI	JGI	98.3
+Bdistachyon	Brachypodium distachyon	15368	314	Brachypodium distachyon	Bdistachyon	Purple false brome	v3.1	unrestricted	JGI	JGI	98.4
+BrachyPanGenome	Brachypodium distachyon ABR2	15368	337	Brachypodium distachyon ABR2	BdistachyonABR2		v1.1	restricted	JGI	JGI	98.0
+BrachyPanGenome	Brachypodium distachyon ABR3	15368	343	Brachypodium distachyon ABR3	BdistachyonABR3		v1.1	restricted	JGI	JGI	98.7
+BrachyPanGenome	Brachypodium distachyon ABR4	15368	364	Brachypodium distachyon ABR4	BdistachyonABR4		v1.1	restricted	JGI	JGI	97.7
+BrachyPanGenome	Brachypodium distachyon ABR5	15368	379	Brachypodium distachyon ABR5	BdistachyonABR5		v1.1	restricted	JGI	JGI	97.4
+BrachyPanGenome	Brachypodium distachyon ABR6	15368	336	Brachypodium distachyon ABR6	BdistachyonABR6		v1.1	restricted	JGI	JGI	98.0
+BrachyPanGenome	Brachypodium distachyon ABR7	15368	369	Brachypodium distachyon ABR7	BdistachyonABR7		v1.1	restricted	JGI	JGI	97.7
+BrachyPanGenome	Brachypodium distachyon ABR8	15368	356	Brachypodium distachyon ABR8	BdistachyonABR8		v1.1	restricted	JGI	JGI	93.1
+BrachyPanGenome	Brachypodium distachyon ABR9	15368	333	Brachypodium distachyon ABR9	BdistachyonABR9		v1.1	restricted	JGI	JGI	97.7
+BrachyPanGenome	Brachypodium distachyon Adi-10	15368	381	Brachypodium distachyon Adi-10	BdistachyonAdi_10		v1.1	restricted	JGI	JGI	94.4
+BrachyPanGenome	Brachypodium distachyon Adi-12	15368	359	Brachypodium distachyon Adi-12	BdistachyonAdi_12		v1.1	restricted	JGI	JGI	96.7
+BrachyPanGenome	Brachypodium distachyon Adi-2	15368	372	Brachypodium distachyon Adi-2	BdistachyonAdi_2		v1.1	restricted	JGI	JGI	98.0
+BrachyPanGenome	Brachypodium distachyon Arn1	15368	355	Brachypodium distachyon Arn1	BdistachyonArn1		v1.1	restricted	JGI	JGI	97.4
+BrachyPanGenome	Brachypodium distachyon Bd1-1	15368	349	Brachypodium distachyon Bd1-1	BdistachyonBd1_1		v1.1	restricted	JGI	JGI	94.1
+BrachyPanGenome	Brachypodium distachyon Bd18-1	15368	362	Brachypodium distachyon Bd18-1	BdistachyonBd18_1		v1.1	restricted	JGI	JGI	98.0
+BrachyPanGenome	Brachypodium distachyon Bd2-3	15368	353	Brachypodium distachyon Bd2-3	BdistachyonBd2_3		v1.1	restricted	JGI	JGI	97.7
+BrachyPanGenome	Brachypodium distachyon Bd21	15368	283	Brachypodium distachyon Bd21	Bdistachyon	Purple false brome	v2.1	unrestricted	JGI	JGI	98.3
+BrachyPanGenome	Brachypodium distachyon Bd21-3	15368	378	Brachypodium distachyon Bd21-3	BdistachyonBd21_3		v1.Bd21-3_r.1	restricted	JGI	JGI	97.4
+BrachyPanGenome	Brachypodium distachyon Bd21AnntCtrl	15368	331	Brachypodium distachyon Bd21AnntCtrl	BdistachyonBd21AnntCtrl		Bd21AnntCtrl	restricted	JGI	JGI	97.7
+BrachyPanGenome	Brachypodium distachyon Bd21AsmbCtrl	15368	361	Brachypodium distachyon Bd21AsmbCtrl	BdistachyonBd21AsmbCtrl		Bd21AsmbCtrl	restricted	JGI	JGI	97.7
+BrachyPanGenome	Brachypodium distachyon Bd29-1	15368	346	Brachypodium distachyon Bd29-1	BdistachyonBd29_1		v1.1	restricted	JGI	JGI	94.7
+BrachyPanGenome	Brachypodium distachyon Bd3-1	15368	328	Brachypodium distachyon Bd3-1	BdistachyonBd3_1		v1.1	restricted	JGI	JGI	86.8
+BrachyPanGenome	Brachypodium distachyon Bd30-1	15368	344	Brachypodium distachyon Bd30-1	BdistachyonBd30_1		v1.1	restricted	JGI	JGI	97.0
+BrachyPanGenome	Brachypodium distachyon BdTR10c	15368	374	Brachypodium distachyon BdTR10c	BdistachyonBdTR10c		v1.1	restricted	JGI	JGI	97.0
+BrachyPanGenome	Brachypodium distachyon BdTR11a	15368	380	Brachypodium distachyon BdTR11a	BdistachyonBdTR11a		v1.1	restricted	JGI	JGI	98.0
+BrachyPanGenome	Brachypodium distachyon BdTR11g	15368	357	Brachypodium distachyon BdTR11g	BdistachyonBdTR11g		v1.1	restricted	JGI	JGI	98.3
+BrachyPanGenome	Brachypodium distachyon BdTR11i	15368	363	Brachypodium distachyon BdTR11i	BdistachyonBdTR11i		v1.1	restricted	JGI	JGI	98.0
+BrachyPanGenome	Brachypodium distachyon BdTR12c	15368	352	Brachypodium distachyon BdTR12c	BdistachyonBdTR12c		v1.1	restricted	JGI	JGI	96.7
+BrachyPanGenome	Brachypodium distachyon BdTR13a	15368	334	Brachypodium distachyon BdTR13a	BdistachyonBdTR13a		v1.1	restricted	JGI	JGI	98.7
+BrachyPanGenome	Brachypodium distachyon BdTR13c	15368	365	Brachypodium distachyon BdTR13c	BdistachyonBdTR13c		v1.1	restricted	JGI	JGI	96.7
+BrachyPanGenome	Brachypodium distachyon BdTR1i	15368	345	Brachypodium distachyon BdTR1i	BdistachyonBdTR1i		v1.1	restricted	JGI	JGI	98.3
+BrachyPanGenome	Brachypodium distachyon BdTR2b	15368	376	Brachypodium distachyon BdTR2b	BdistachyonBdTR2b		v1.1	restricted	JGI	JGI	96.7
+BrachyPanGenome	Brachypodium distachyon BdTR2g	15368	367	Brachypodium distachyon BdTR2g	BdistachyonBdTR2g		v1.1	restricted	JGI	JGI	95.7
+BrachyPanGenome	Brachypodium distachyon BdTR3c	15368	354	Brachypodium distachyon BdTR3c	BdistachyonBdTR3c		v1.1	restricted	JGI	JGI	98.0
+BrachyPanGenome	Brachypodium distachyon BdTR5i	15368	370	Brachypodium distachyon BdTR5i	BdistachyonBdTR5i		v1.1	restricted	JGI	JGI	96.4
+BrachyPanGenome	Brachypodium distachyon BdTR7a	15368	329	Brachypodium distachyon BdTR7a	BdistachyonBdTR7a		v1.1	restricted	JGI	JGI	98.0
+BrachyPanGenome	Brachypodium distachyon BdTR8i	15368	348	Brachypodium distachyon BdTR8i	BdistachyonBdTR8i		v1.1	restricted	JGI	JGI	97.7
+BrachyPanGenome	Brachypodium distachyon BdTR9k	15368	358	Brachypodium distachyon BdTR9k	BdistachyonBdTR9k		v1.1	restricted	JGI	JGI	96.0
+BrachyPanGenome	Brachypodium distachyon Bis-1	15368	338	Brachypodium distachyon Bis-1	BdistachyonBis_1		v1.1	restricted	JGI	JGI	97.7
+BrachyPanGenome	Brachypodium distachyon Foz1	15368	366	Brachypodium distachyon Foz1	BdistachyonFoz1		v1.1	restricted	JGI	JGI	98.3
+BrachyPanGenome	Brachypodium distachyon Gaz-8	15368	339	Brachypodium distachyon Gaz-8	BdistachyonGaz_8		v1.1	restricted	JGI	JGI	88.8
+BrachyPanGenome	Brachypodium distachyon Jer1	15368	375	Brachypodium distachyon Jer1	BdistachyonJer1		v1.1	restricted	JGI	JGI	97.7
+BrachyPanGenome	Brachypodium distachyon Kah-1	15368	351	Brachypodium distachyon Kah-1	BdistachyonKah_1		v1.1	restricted	JGI	JGI	89.4
+BrachyPanGenome	Brachypodium distachyon Kah-5	15368	342	Brachypodium distachyon Kah-5	BdistachyonKah_5		v1.1	restricted	JGI	JGI	98.3
+BrachyPanGenome	Brachypodium distachyon Koz-1	15368	330	Brachypodium distachyon Koz-1	BdistachyonKoz_1		v1.1	restricted	JGI	JGI	98.0
+BrachyPanGenome	Brachypodium distachyon Koz-3	15368	368	Brachypodium distachyon Koz-3	BdistachyonKoz_3		v1.1	restricted	JGI	JGI	94.7
+BrachyPanGenome	Brachypodium distachyon Luc1	15368	347	Brachypodium distachyon Luc1	BdistachyonLuc1		v1.1	restricted	JGI	JGI	98.3
+BrachyPanGenome	Brachypodium distachyon Mig3	15368	377	Brachypodium distachyon Mig3	BdistachyonMig3		v1.1	restricted	JGI	JGI	98.0
+BrachyPanGenome	Brachypodium distachyon Mon3	15368	350	Brachypodium distachyon Mon3	BdistachyonMon3		v1.1	restricted	JGI	JGI	98.0
+BrachyPanGenome	Brachypodium distachyon Mur1	15368	373	Brachypodium distachyon Mur1	BdistachyonMur1		v1.1	restricted	JGI	JGI	95.7
+BrachyPanGenome	Brachypodium distachyon Per1	15368	326	Brachypodium distachyon Per1	BdistachyonPer1		v1.1	restricted	JGI	JGI	98.3
+BrachyPanGenome	Brachypodium distachyon Ron2	15368	360	Brachypodium distachyon Ron2	BdistachyonRon2		v1.1	restricted	JGI	JGI	97.4
+BrachyPanGenome	Brachypodium distachyon S8iic	15368	340	Brachypodium distachyon S8iic	BdistachyonS8iic		v1.1	restricted	JGI	JGI	97.7
+BrachyPanGenome	Brachypodium distachyon Sig2	15368	371	Brachypodium distachyon Sig2	BdistachyonSig2		v1.1	restricted	JGI	JGI	98.7
+BrachyPanGenome	Brachypodium distachyon Tek-2	15368	341	Brachypodium distachyon Tek-2	BdistachyonTek_2		v1.1	restricted	JGI	JGI	96.7
+BrachyPanGenome	Brachypodium distachyon Tek-4	15368	332	Brachypodium distachyon Tek-4	BdistachyonTek_4		v1.1	restricted	JGI	JGI	82.2
+BrachyPanGenome	Brachypodium distachyon Uni2	15368	327	Brachypodium distachyon Uni2	BdistachyonUni2		v1.1	restricted	JGI	JGI	97.7
+BrachyPanGenome	Brachypodium distachyon pangenome	15368	335	Brachypodium distachyon pangenome	BdistachyonPangenome		v1.1	restricted	JGI	JGI	98.7
+Panicoideae	Miscanthus sinensis	62337	497	Miscanthus sinensis	Msinensis	Chinese silvergrass	v7.1	restricted	JGI	JGI	97.7
+Panicoideae	Panicum hallii	206008	495	Panicum hallii	Phallii	Hall's panicgrass	v3.1	restricted	JGI	JGI	97.4
+Panicoideae	Panicum hallii var. hallii	206008	496	Panicum hallii var. hallii	PhalliiHAL	Hall's panicgrass	v2.1	restricted	JGI	JGI	98.0
+Panicoideae	Panicum virgatum	38727	450	Panicum virgatum	Pvirgatum	Switchgrass	v4.1	restricted	JGI	JGI	98.0
+Panicoideae	Setaria italica	4555	312	Setaria italica	Sitalica	Foxtail millet	v2.2	unrestricted	JGI	JGI	98.7
+Panicoideae	Setaria viridis	4556	500	Setaria viridis	Sviridis	Green foxtail	v2.1	restricted	JGI	JGI	98.0
+Panicoideae	Sorghum bicolor	4558	454	Sorghum bicolor	Sbicolor	Cereal grass	v3.1.1	unrestricted	JGI	JGI	98.4
+Panicoideae	Sorghum bicolor Rio	4558	468	Sorghum bicolor Rio	SbicolorRio	Sorghum Rio	v2.1	restricted	JGI	JGI	97.0
+Panicoideae	Zea mays	4577	493	Zea mays	Zmays	Maize	RefGen_V4	restricted	CSHL	CSHL	97.7
+Panicoideae	Zea mays PH207	4577	443	Zea mays PH207	ZmaysPH207	Maize PH207	v1.1	unrestricted	UMN	UMN	95.1

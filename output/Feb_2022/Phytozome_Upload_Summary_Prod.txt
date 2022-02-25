@@ -1,0 +1,742 @@
+Acomosus_v3	Acomosus_321_v3.defline.txt	27024
+Acomosus_v3	Acomosus_321_v3.defline.txt	{'features': 27024, 'mrnas': 27024, 'cdss': 0}
+Acomosus_v3	Acomosus_321_v3.annotation_info.txt	11687
+Acomosus_v3	Acomosus_321_v3.annotation_info.txt	11687
+Acomosus_v3	Acomosus_321_v3.annotation_info.txt	{'features': 11687, 'mrnas': 11687, 'cdss': 0}
+Acomosus_v3	Saved
+Ahypochondriacus_v2.1	Ahypochondriacus_459_v2.1.defline.txt	19791
+Ahypochondriacus_v2.1	Ahypochondriacus_459_v2.1.defline.txt	{'features': 19791, 'mrnas': 19791, 'cdss': 0}
+Ahypochondriacus_v2.1	Ahypochondriacus_459_v2.1.annotation_info.txt	11647
+Ahypochondriacus_v2.1	Ahypochondriacus_459_v2.1.annotation_info.txt	11657
+Ahypochondriacus_v2.1	Ahypochondriacus_459_v2.1.annotation_info.txt	{'features': 11647, 'mrnas': 11657, 'cdss': 0}
+Ahypochondriacus_v2.1	Saved
+Athaliana_Araport11	Athaliana_447_Araport11.defline.txt	48456
+Athaliana_Araport11	Athaliana_447_Araport11.defline.txt	{'features': 27655, 'mrnas': 48456, 'cdss': 0}
+Athaliana_Araport11	Athaliana_447_Araport11.annotation_info.txt	14318
+Athaliana_Araport11	Athaliana_447_Araport11.annotation_info.txt	25928
+Athaliana_Araport11	Athaliana_447_Araport11.annotation_info.txt	{'features': 14318, 'mrnas': 25928, 'cdss': 0}
+Athaliana_Araport11	Athaliana_447_Araport11.synonym.txt	11864
+Athaliana_Araport11	Athaliana_447_Araport11.synonym.txt	{'features': 6270, 'mrnas': 11864, 'cdss': 0}
+Athaliana_Araport11	Saved
+Bdistachyon_v2.1	BdistachyonBd21v2_1_283_Bd21v2.1.defline.txt	12518
+Bdistachyon_v2.1	BdistachyonBd21v2_1_283_Bd21v2.1.defline.txt	{'features': 8815, 'mrnas': 12518, 'cdss': 0}
+Bdistachyon_v2.1	Bdistachyon_283_v2.1.annotation_info.txt	17083
+Bdistachyon_v2.1	Bdistachyon_283_v2.1.annotation_info.txt	24031
+Bdistachyon_v2.1	Bdistachyon_283_v2.1.annotation_info.txt	{'features': 17083, 'mrnas': 24031, 'cdss': 0}
+Bdistachyon_v2.1	BdistachyonBd21v2_1_283_Bd21v2.1.synonym.txt	1752
+Bdistachyon_v2.1	BdistachyonBd21v2_1_283_Bd21v2.1.synonym.txt	{'features': 1256, 'mrnas': 1752, 'cdss': 0}
+Bdistachyon_v2.1	Saved
+Csativus_v1.0	Csativus_122_v1.0.defline.txt	18289
+Csativus_v1.0	Csativus_122_v1.0.defline.txt	{'features': 31, 'mrnas': 18258, 'cdss': 0}
+Csativus_v1.0	Csativus_122_v1.0.annotation_info.txt	10903
+Csativus_v1.0	Csativus_122_v1.0.annotation_info.txt	16079
+Csativus_v1.0	Csativus_122_v1.0.annotation_info.txt	{'features': 10918, 'mrnas': 16064, 'cdss': 0}
+Csativus_v1.0	Saved
+Osativa_v7.0	Osativa_323_v7.0.defline.txt	52424
+Osativa_v7.0	Osativa_323_v7.0.defline.txt	{'features': 42189, 'mrnas': 52424, 'cdss': 0}
+Osativa_v7.0	Osativa_323_v7.0.annotation_info.txt	16510
+Osativa_v7.0	Osativa_323_v7.0.annotation_info.txt	22000
+Osativa_v7.0	Osativa_323_v7.0.annotation_info.txt	{'features': 16510, 'mrnas': 22000, 'cdss': 0}
+Osativa_v7.0	Saved
+Pvirgatum_v4.1	Pvirgatum_450_v4.1.defline.txt	59058
+Pvirgatum_v4.1	Pvirgatum_450_v4.1.defline.txt	{'features': 59058, 'mrnas': 59058, 'cdss': 0}
+Pvirgatum_v4.1	Pvirgatum_450_v4.1.annotation_info.txt	35004
+Pvirgatum_v4.1	Pvirgatum_450_v4.1.annotation_info.txt	49696
+Pvirgatum_v4.1	Pvirgatum_450_v4.1.annotation_info.txt	{'features': 35004, 'mrnas': 49696, 'cdss': 0}
+Pvirgatum_v4.1	Pvirgatum_450_v4.1.synonym.txt	77388
+Pvirgatum_v4.1	Pvirgatum_450_v4.1.synonym.txt	{'features': 53842, 'mrnas': 77388, 'cdss': 0}
+Pvirgatum_v4.1	Saved
+Pvirgatum_v5.1	Pvirgatum_516_v5.1.defline.txt	53948
+Pvirgatum_v5.1	Pvirgatum_516_v5.1.defline.txt	{'features': 53948, 'mrnas': 53948, 'cdss': 0}
+Pvirgatum_v5.1	Pvirgatum_516_v5.1.annotation_info.txt	31936
+Pvirgatum_v5.1	Pvirgatum_516_v5.1.annotation_info.txt	60988
+Pvirgatum_v5.1	Pvirgatum_516_v5.1.annotation_info.txt	{'features': 31936, 'mrnas': 60988, 'cdss': 0}
+Pvirgatum_v5.1	Pvirgatum_516_v5.1.synonym.txt	73959
+Pvirgatum_v5.1	Pvirgatum_516_v5.1.synonym.txt	{'features': 38459, 'mrnas': 73959, 'cdss': 0}
+Pvirgatum_v5.1	Saved
+Bplatyphylla_v1.1	Bplatyphylla_679_v1.1.defline.txt	26267
+Bplatyphylla_v1.1	Bplatyphylla_679_v1.1.defline.txt	{'features': 26267, 'mrnas': 0, 'cdss': 0}
+Bplatyphylla_v1.1	Bplatyphylla_679_v1.1.annotation_info.txt	16623
+Bplatyphylla_v1.1	Bplatyphylla_679_v1.1.annotation_info.txt	16623
+Bplatyphylla_v1.1	Bplatyphylla_679_v1.1.annotation_info.txt	{'features': 33246, 'mrnas': 0, 'cdss': 0}
+Bplatyphylla_v1.1	Saved
+BrapaFPsc_v1.3	BrapaFPsc_277_v1.3.defline.txt	35357
+BrapaFPsc_v1.3	BrapaFPsc_277_v1.3.defline.txt	{'features': 35357, 'mrnas': 35357, 'cdss': 0}
+BrapaFPsc_v1.3	BrapaFPsc_277_v1.3.annotation_info.txt	21322
+BrapaFPsc_v1.3	BrapaFPsc_277_v1.3.annotation_info.txt	22925
+BrapaFPsc_v1.3	BrapaFPsc_277_v1.3.annotation_info.txt	{'features': 21322, 'mrnas': 22925, 'cdss': 0}
+BrapaFPsc_v1.3	Saved
+Bstacei_v1.1	Bstacei_316_v1.1.defline.txt	22841
+Bstacei_v1.1	Bstacei_316_v1.1.defline.txt	{'features': 22841, 'mrnas': 22841, 'cdss': 0}
+Bstacei_v1.1	Bstacei_316_v1.1.annotation_info.txt	13828
+Bstacei_v1.1	Bstacei_316_v1.1.annotation_info.txt	17185
+Bstacei_v1.1	Bstacei_316_v1.1.annotation_info.txt	{'features': 13828, 'mrnas': 17185, 'cdss': 0}
+Bstacei_v1.1	Saved
+Bstricta_v1.2	Bstricta_278_v1.2.defline.txt	23561
+Bstricta_v1.2	Bstricta_278_v1.2.defline.txt	{'features': 23561, 'mrnas': 23561, 'cdss': 0}
+Bstricta_v1.2	Bstricta_278_v1.2.annotation_info.txt	13952
+Bstricta_v1.2	Bstricta_278_v1.2.annotation_info.txt	15230
+Bstricta_v1.2	Bstricta_278_v1.2.annotation_info.txt	{'features': 13952, 'mrnas': 15230, 'cdss': 0}
+Bstricta_v1.2	Saved
+Bvulgaris_EL10_1.0	Bvulgaris_548_EL10_1.0.defline.txt	19900
+Bvulgaris_EL10_1.0	Bvulgaris_548_EL10_1.0.defline.txt	{'features': 19900, 'mrnas': 19900, 'cdss': 0}
+Bvulgaris_EL10_1.0	Bvulgaris_548_EL10_1.0.annotation_info.txt	14785
+Bvulgaris_EL10_1.0	Bvulgaris_548_EL10_1.0.annotation_info.txt	14785
+Bvulgaris_EL10_1.0	Bvulgaris_548_EL10_1.0.annotation_info.txt	{'features': 14785, 'mrnas': 14785, 'cdss': 0}
+Bvulgaris_EL10_1.0	Saved
+Carietinum_v1.0	Carietinum_492_v1.0.defline.txt	21711
+Carietinum_v1.0	Carietinum_492_v1.0.defline.txt	{'features': 21711, 'mrnas': 0, 'cdss': 0}
+Carietinum_v1.0	Carietinum_492_v1.0.annotation_info.txt	12715
+Carietinum_v1.0	Carietinum_492_v1.0.annotation_info.txt	12715
+Carietinum_v1.0	Carietinum_492_v1.0.annotation_info.txt	{'features': 25430, 'mrnas': 0, 'cdss': 0}
+Carietinum_v1.0	Saved
+Ccitriodora_v2.1	Ccitriodora_507_v2.1.defline.txt	39900
+Ccitriodora_v2.1	Ccitriodora_507_v2.1.defline.txt	{'features': 30720, 'mrnas': 39900, 'cdss': 0}
+Ccitriodora_v2.1	Ccitriodora_507_v2.1.annotation_info.txt	19385
+Ccitriodora_v2.1	Ccitriodora_507_v2.1.annotation_info.txt	24990
+Ccitriodora_v2.1	Ccitriodora_507_v2.1.annotation_info.txt	{'features': 19385, 'mrnas': 24990, 'cdss': 0}
+Ccitriodora_v2.1	Saved
+Cclementina_v1.0	Cclementina_182_v1.0.defline.txt	21275
+Cclementina_v1.0	Cclementina_182_v1.0.defline.txt	{'features': 21275, 'mrnas': 21275, 'cdss': 0}
+Cclementina_v1.0	Cclementina_182_v1.0.annotation_info.txt	13319
+Cclementina_v1.0	Cclementina_182_v1.0.annotation_info.txt	18628
+Cclementina_v1.0	Cclementina_182_v1.0.annotation_info.txt	{'features': 13319, 'mrnas': 18628, 'cdss': 0}
+Cclementina_v1.0	Saved
+Cgrandiflora_v1.1	Cgrandiflora_266_v1.1.defline.txt	21878
+Cgrandiflora_v1.1	Cgrandiflora_266_v1.1.defline.txt	{'features': 21878, 'mrnas': 21878, 'cdss': 0}
+Cgrandiflora_v1.1	Cgrandiflora_266_v1.1.annotation_info.txt	13221
+Cgrandiflora_v1.1	Cgrandiflora_266_v1.1.annotation_info.txt	14186
+Cgrandiflora_v1.1	Cgrandiflora_266_v1.1.annotation_info.txt	{'features': 13221, 'mrnas': 14186, 'cdss': 0}
+Cgrandiflora_v1.1	Saved
+Cillinoinensis_v1.1	Cillinoinensis_573_v1.1.defline.txt	61573
+Cillinoinensis_v1.1	Cillinoinensis_573_v1.1.defline.txt	{'features': 27438, 'mrnas': 61573, 'cdss': 0}
+Cillinoinensis_v1.1	Cillinoinensis_573_v1.1.annotation_info.txt	19860
+Cillinoinensis_v1.1	Cillinoinensis_573_v1.1.annotation_info.txt	45507
+Cillinoinensis_v1.1	Cillinoinensis_573_v1.1.annotation_info.txt	{'features': 19860, 'mrnas': 45507, 'cdss': 0}
+Cillinoinensis_v1.1	Saved
+CillinoinensisPawnee_v1.1	CillinoinensisPawnee_588_v1.1.defline.txt	39884
+CillinoinensisPawnee_v1.1	CillinoinensisPawnee_588_v1.1.defline.txt	{'features': 27003, 'mrnas': 39884, 'cdss': 0}
+CillinoinensisPawnee_v1.1	CillinoinensisPawnee_588_v1.1.annotation_info.txt	19509
+CillinoinensisPawnee_v1.1	CillinoinensisPawnee_588_v1.1.annotation_info.txt	29031
+CillinoinensisPawnee_v1.1	CillinoinensisPawnee_588_v1.1.annotation_info.txt	{'features': 19509, 'mrnas': 29031, 'cdss': 0}
+CillinoinensisPawnee_v1.1	Saved
+Ckanehirae_v3	Ckanehirae_531_v3.defline.txt	24692
+Ckanehirae_v3	Ckanehirae_531_v3.defline.txt	{'features': 24692, 'mrnas': 0, 'cdss': 0}
+Ckanehirae_v3	Ckanehirae_531_v3.annotation_info.txt	18845
+Ckanehirae_v3	Ckanehirae_531_v3.annotation_info.txt	18845
+Ckanehirae_v3	Ckanehirae_531_v3.annotation_info.txt	{'features': 37690, 'mrnas': 0, 'cdss': 0}
+Ckanehirae_v3	Saved
+Cpapaya_ASGPBv0.4	Cpapaya_113_ASGPBv0.4.defline.txt	19003
+Cpapaya_ASGPBv0.4	Cpapaya_113_ASGPBv0.4.defline.txt	{'features': 395, 'mrnas': 18608, 'cdss': 0}
+Cpapaya_ASGPBv0.4	Cpapaya_113_ASGPBv0.4.annotation_info.txt	10469
+Cpapaya_ASGPBv0.4	Cpapaya_113_ASGPBv0.4.annotation_info.txt	10476
+Cpapaya_ASGPBv0.4	Cpapaya_113_ASGPBv0.4.annotation_info.txt	{'features': 10685, 'mrnas': 10260, 'cdss': 0}
+Cpapaya_ASGPBv0.4	Saved
+CpurpureusGG1_v1.1	CpurpureusGG1_539_v1.1.defline.txt	25212
+CpurpureusGG1_v1.1	CpurpureusGG1_539_v1.1.defline.txt	{'features': 17222, 'mrnas': 25212, 'cdss': 0}
+CpurpureusGG1_v1.1	CpurpureusGG1_539_v1.1.annotation_info.txt	13389
+CpurpureusGG1_v1.1	CpurpureusGG1_539_v1.1.annotation_info.txt	19481
+CpurpureusGG1_v1.1	CpurpureusGG1_539_v1.1.annotation_info.txt	{'features': 13389, 'mrnas': 19481, 'cdss': 0}
+CpurpureusGG1_v1.1	Saved
+CpurpureusR40_v1.1	CpurpureusR40_538_v1.1.defline.txt	26088
+CpurpureusR40_v1.1	CpurpureusR40_538_v1.1.defline.txt	{'features': 17818, 'mrnas': 26088, 'cdss': 0}
+CpurpureusR40_v1.1	CpurpureusR40_538_v1.1.annotation_info.txt	13799
+CpurpureusR40_v1.1	CpurpureusR40_538_v1.1.annotation_info.txt	20025
+CpurpureusR40_v1.1	CpurpureusR40_538_v1.1.annotation_info.txt	{'features': 13799, 'mrnas': 20025, 'cdss': 0}
+CpurpureusR40_v1.1	Saved
+Cquinoa_v1.0	Cquinoa_392_v1.0.defline.txt	44776
+Cquinoa_v1.0	Cquinoa_392_v1.0.defline.txt	{'features': 44776, 'mrnas': 44776, 'cdss': 0}
+Cquinoa_v1.0	Cquinoa_392_v1.0.annotation_info.txt	23133
+Cquinoa_v1.0	Cquinoa_392_v1.0.annotation_info.txt	23133
+Cquinoa_v1.0	Cquinoa_392_v1.0.annotation_info.txt	{'features': 23133, 'mrnas': 23133, 'cdss': 0}
+Cquinoa_v1.0	Saved
+Creinhardtii_v5.6	Creinhardtii_281_v5.6.defline.txt	12892
+Creinhardtii_v5.6	Creinhardtii_281_v5.6.defline.txt	{'features': 11720, 'mrnas': 12892, 'cdss': 0}
+Creinhardtii_v5.6	Creinhardtii_281_v5.6.annotation_info.txt	9138
+Creinhardtii_v5.6	Creinhardtii_281_v5.6.annotation_info.txt	10035
+Creinhardtii_v5.6	Creinhardtii_281_v5.6.annotation_info.txt	{'features': 9138, 'mrnas': 10035, 'cdss': 0}
+Creinhardtii_v5.6	Creinhardtii_281_v5.6.synonym.txt	19526
+Creinhardtii_v5.6	Creinhardtii_281_v5.6.synonym.txt	{'features': 17741, 'mrnas': 19526, 'cdss': 0}
+Creinhardtii_v5.6	Saved
+Crubella_v1.1	Crubella_474_v1.1.defline.txt	23936
+Crubella_v1.1	Crubella_474_v1.1.defline.txt	{'features': 0, 'mrnas': 0, 'cdss': 0}
+Crubella_v1.1	Crubella_474_v1.1.annotation_info.txt	14493
+Crubella_v1.1	Crubella_474_v1.1.annotation_info.txt	15471
+Crubella_v1.1	Crubella_474_v1.1.annotation_info.txt	{'features': 0, 'mrnas': 0, 'cdss': 0}
+Crubella_v1.1	Crubella_474_v1.1.synonym.txt	25980
+Crubella_v1.1	Crubella_474_v1.1.synonym.txt	{'features': 0, 'mrnas': 0, 'cdss': 0}
+Crubella_v1.1	Saved
+Csinensis_v1.1	Csinensis_154_v1.1.defline.txt	21854
+Csinensis_v1.1	Csinensis_154_v1.1.defline.txt	{'features': 21854, 'mrnas': 21854, 'cdss': 0}
+Csinensis_v1.1	Csinensis_154_v1.1.annotation_info.txt	13366
+Csinensis_v1.1	Csinensis_154_v1.1.annotation_info.txt	25773
+Csinensis_v1.1	Csinensis_154_v1.1.annotation_info.txt	{'features': 13366, 'mrnas': 25773, 'cdss': 0}
+Csinensis_v1.1	Saved
+CsubellipsoideaC169_v2.0	CsubellipsoideaC_169_227_v2.0.defline.txt	6979
+CsubellipsoideaC169_v2.0	CsubellipsoideaC_169_227_v2.0.defline.txt	{'features': 6979, 'mrnas': 6979, 'cdss': 0}
+CsubellipsoideaC169_v2.0	CsubellipsoideaC169_227_v2.0.annotation_info.txt	4901
+CsubellipsoideaC169_v2.0	CsubellipsoideaC169_227_v2.0.annotation_info.txt	4901
+CsubellipsoideaC169_v2.0	CsubellipsoideaC169_227_v2.0.annotation_info.txt	{'features': 4901, 'mrnas': 4901, 'cdss': 0}
+CsubellipsoideaC169_v2.0	Saved
+Czofingiensis_v5.2.3.2	Czofingiensis_461_v5.2.3.2.defline.txt	570
+Czofingiensis_v5.2.3.2	Czofingiensis_461_v5.2.3.2.defline.txt	{'features': 570, 'mrnas': 570, 'cdss': 0}
+Czofingiensis_v5.2.3.2	Czofingiensis_461_v5.2.3.2.annotation_info.txt	5823
+Czofingiensis_v5.2.3.2	Czofingiensis_461_v5.2.3.2.annotation_info.txt	5823
+Czofingiensis_v5.2.3.2	Czofingiensis_461_v5.2.3.2.annotation_info.txt	{'features': 5823, 'mrnas': 5823, 'cdss': 0}
+Czofingiensis_v5.2.3.2	Saved
+Dalata_v1.1	Dalata_504_v1.1.defline.txt	18751
+Dalata_v1.1	Dalata_504_v1.1.defline.txt	{'features': 18751, 'mrnas': 18751, 'cdss': 0}
+Dalata_v1.1	Dalata_504_v1.1.annotation_info.txt	11257
+Dalata_v1.1	Dalata_504_v1.1.annotation_info.txt	15286
+Dalata_v1.1	Dalata_504_v1.1.annotation_info.txt	{'features': 11257, 'mrnas': 15286, 'cdss': 0}
+Dalata_v1.1	Saved
+Dcarota_v2.0	Dcarota_388_v2.0.defline.txt	32118
+Dcarota_v2.0	Dcarota_388_v2.0.defline.txt	{'features': 32109, 'mrnas': 9, 'cdss': 0}
+Dcarota_v2.0	Dcarota_388_v2.0.annotation_info.txt	15224
+Dcarota_v2.0	Dcarota_388_v2.0.annotation_info.txt	15227
+Dcarota_v2.0	Dcarota_388_v2.0.annotation_info.txt	{'features': 30446, 'mrnas': 5, 'cdss': 0}
+Dcarota_v2.0	Saved
+Egrandis_v2.0	Egrandis_297_v2.0.defline.txt	29652
+Egrandis_v2.0	Egrandis_297_v2.0.defline.txt	{'features': 29652, 'mrnas': 29652, 'cdss': 0}
+Egrandis_v2.0	Egrandis_297_v2.0.annotation_info.txt	18833
+Egrandis_v2.0	Egrandis_297_v2.0.annotation_info.txt	24654
+Egrandis_v2.0	Egrandis_297_v2.0.annotation_info.txt	{'features': 18833, 'mrnas': 24654, 'cdss': 0}
+Egrandis_v2.0	Egrandis_297_v2.0.synonym.txt	46280
+Egrandis_v2.0	Egrandis_297_v2.0.synonym.txt	{'features': 36349, 'mrnas': 46280, 'cdss': 0}
+Egrandis_v2.0	Saved
+Esalsugineum_v1.0	Esalsugineum_173_v1.0.defline.txt	23283
+Esalsugineum_v1.0	Esalsugineum_173_v1.0.defline.txt	{'features': 23283, 'mrnas': 23283, 'cdss': 0}
+Esalsugineum_v1.0	Esalsugineum_173_v1.0.annotation_info.txt	13959
+Esalsugineum_v1.0	Esalsugineum_173_v1.0.annotation_info.txt	15669
+Esalsugineum_v1.0	Esalsugineum_173_v1.0.annotation_info.txt	{'features': 13959, 'mrnas': 15669, 'cdss': 0}
+Esalsugineum_v1.0	Saved
+Fvesca_v4.0.a2	Fvesca_677_v4.0.a2.defline.txt	53779
+Fvesca_v4.0.a2	Fvesca_677_v4.0.a2.defline.txt	{'features': 25452, 'mrnas': 53779, 'cdss': 0}
+Fvesca_v4.0.a2	Fvesca_677_v4.0.a2.annotation_info.txt	16701
+Fvesca_v4.0.a2	Fvesca_677_v4.0.a2.annotation_info.txt	36247
+Fvesca_v4.0.a2	Fvesca_677_v4.0.a2.annotation_info.txt	{'features': 16701, 'mrnas': 36247, 'cdss': 0}
+Fvesca_v4.0.a2	Saved
+Fxananassa_v1.0.a1	Fxananassa_675_v1.0.a1.defline.txt	76041
+Fxananassa_v1.0.a1	Fxananassa_675_v1.0.a1.defline.txt	{'features': 76041, 'mrnas': 76041, 'cdss': 0}
+Fxananassa_v1.0.a1	Fxananassa_675_v1.0.a1.annotation_info.txt	51491
+Fxananassa_v1.0.a1	Fxananassa_675_v1.0.a1.annotation_info.txt	51491
+Fxananassa_v1.0.a1	Fxananassa_675_v1.0.a1.annotation_info.txt	{'features': 51491, 'mrnas': 51491, 'cdss': 0}
+Fxananassa_v1.0.a1	Saved
+Gbarbadense_v1.1	Gbarbadense_526_v1.1.defline.txt	93144
+Gbarbadense_v1.1	Gbarbadense_526_v1.1.defline.txt	{'features': 62453, 'mrnas': 93144, 'cdss': 0}
+Gbarbadense_v1.1	Gbarbadense_526_v1.1.annotation_info.txt	38606
+Gbarbadense_v1.1	Gbarbadense_526_v1.1.annotation_info.txt	56691
+Gbarbadense_v1.1	Gbarbadense_526_v1.1.annotation_info.txt	{'features': 38606, 'mrnas': 56691, 'cdss': 0}
+Gbarbadense_v1.1	Saved
+Gdarwinii_v1.1	Gdarwinii_529_v1.1.defline.txt	80788
+Gdarwinii_v1.1	Gdarwinii_529_v1.1.defline.txt	{'features': 63694, 'mrnas': 80788, 'cdss': 0}
+Gdarwinii_v1.1	Gdarwinii_529_v1.1.annotation_info.txt	39114
+Gdarwinii_v1.1	Gdarwinii_529_v1.1.annotation_info.txt	49342
+Gdarwinii_v1.1	Gdarwinii_529_v1.1.annotation_info.txt	{'features': 39114, 'mrnas': 49342, 'cdss': 0}
+Gdarwinii_v1.1	Saved
+Ghirsutum_v1.1	Ghirsutum_458_v1.1.defline.txt	57221
+Ghirsutum_v1.1	Ghirsutum_458_v1.1.defline.txt	{'features': 57221, 'mrnas': 57221, 'cdss': 0}
+Ghirsutum_v1.1	Ghirsutum_458_v1.1.annotation_info.txt	35478
+Ghirsutum_v1.1	Ghirsutum_458_v1.1.annotation_info.txt	47212
+Ghirsutum_v1.1	Ghirsutum_458_v1.1.annotation_info.txt	{'features': 35478, 'mrnas': 47212, 'cdss': 0}
+Ghirsutum_v1.1	Saved
+Ghirsutum_v2.1	Ghirsutum_527_v2.1.defline.txt	91310
+Ghirsutum_v2.1	Ghirsutum_527_v2.1.defline.txt	{'features': 62715, 'mrnas': 91310, 'cdss': 0}
+Ghirsutum_v2.1	Ghirsutum_527_v2.1.annotation_info.txt	38606
+Ghirsutum_v2.1	Ghirsutum_527_v2.1.annotation_info.txt	55508
+Ghirsutum_v2.1	Ghirsutum_527_v2.1.annotation_info.txt	{'features': 38606, 'mrnas': 55508, 'cdss': 0}
+Ghirsutum_v2.1	Ghirsutum_527_v2.1.synonym.txt	1629
+Ghirsutum_v2.1	Ghirsutum_527_v2.1.synonym.txt	{'features': 1119, 'mrnas': 1629, 'cdss': 0}
+Ghirsutum_v2.1	Saved
+Gmax_Wm82.a2.v1	Gmax_275_Wm82.a2.v1.defline.txt	46283
+Gmax_Wm82.a2.v1	Gmax_275_Wm82.a2.v1.defline.txt	{'features': 46283, 'mrnas': 46283, 'cdss': 0}
+Gmax_Wm82.a2.v1	Gmax_275_Wm82.a2.v1.annotation_info.txt	27963
+Gmax_Wm82.a2.v1	Gmax_275_Wm82.a2.v1.annotation_info.txt	46167
+Gmax_Wm82.a2.v1	Gmax_275_Wm82.a2.v1.annotation_info.txt	{'features': 27963, 'mrnas': 46167, 'cdss': 0}
+Gmax_Wm82.a2.v1	Gmax_275_Wm82.a2.v1.synonym.txt	80515
+Gmax_Wm82.a2.v1	Gmax_275_Wm82.a2.v1.synonym.txt	{'features': 48606, 'mrnas': 80515, 'cdss': 0}
+Gmax_Wm82.a2.v1	Saved
+Gmax_Wm82.a4.v1	Gmax_508_Wm82.a4.v1.defline.txt	73459
+Gmax_Wm82.a4.v1	Gmax_508_Wm82.a4.v1.defline.txt	{'features': 43015, 'mrnas': 73459, 'cdss': 0}
+Gmax_Wm82.a4.v1	Gmax_508_Wm82.a4.v1.annotation_info.txt	26028
+Gmax_Wm82.a4.v1	Gmax_508_Wm82.a4.v1.annotation_info.txt	44937
+Gmax_Wm82.a4.v1	Gmax_508_Wm82.a4.v1.annotation_info.txt	{'features': 26028, 'mrnas': 44937, 'cdss': 0}
+Gmax_Wm82.a4.v1	Gmax_508_Wm82.a4.v1.synonym.txt	72921
+Gmax_Wm82.a4.v1	Gmax_508_Wm82.a4.v1.synonym.txt	{'features': 42227, 'mrnas': 72921, 'cdss': 0}
+Gmax_Wm82.a4.v1	Saved
+Gmustelinum_v1.1	Gmustelinum_524_v1.1.defline.txt	90980
+Gmustelinum_v1.1	Gmustelinum_524_v1.1.defline.txt	{'features': 62375, 'mrnas': 90980, 'cdss': 0}
+Gmustelinum_v1.1	Gmustelinum_524_v1.1.annotation_info.txt	38454
+Gmustelinum_v1.1	Gmustelinum_524_v1.1.annotation_info.txt	55496
+Gmustelinum_v1.1	Gmustelinum_524_v1.1.annotation_info.txt	{'features': 38454, 'mrnas': 55496, 'cdss': 0}
+Gmustelinum_v1.1	Saved
+Graimondii_v2.1	Graimondii_221_v2.1.defline.txt	31794
+Graimondii_v2.1	Graimondii_221_v2.1.defline.txt	{'features': 31794, 'mrnas': 31794, 'cdss': 0}
+Graimondii_v2.1	Graimondii_221_v2.1.annotation_info.txt	19700
+Graimondii_v2.1	Graimondii_221_v2.1.annotation_info.txt	42601
+Graimondii_v2.1	Graimondii_221_v2.1.annotation_info.txt	{'features': 19700, 'mrnas': 42601, 'cdss': 0}
+Graimondii_v2.1	Saved
+Gsoja_v1.1	Gsoja_509_v1.1.defline.txt	54781
+Gsoja_v1.1	Gsoja_509_v1.1.defline.txt	{'features': 40835, 'mrnas': 54781, 'cdss': 0}
+Gsoja_v1.1	Gsoja_509_v1.1.annotation_info.txt	24879
+Gsoja_v1.1	Gsoja_509_v1.1.annotation_info.txt	32975
+Gsoja_v1.1	Gsoja_509_v1.1.annotation_info.txt	{'features': 24879, 'mrnas': 32975, 'cdss': 0}
+Gsoja_v1.1	Saved
+Gtomentosum_v1.1	Gtomentosum_525_v1.1.defline.txt	94406
+Gtomentosum_v1.1	Gtomentosum_525_v1.1.defline.txt	{'features': 63494, 'mrnas': 94406, 'cdss': 0}
+Gtomentosum_v1.1	Gtomentosum_525_v1.1.annotation_info.txt	39202
+Gtomentosum_v1.1	Gtomentosum_525_v1.1.annotation_info.txt	57814
+Gtomentosum_v1.1	Gtomentosum_525_v1.1.annotation_info.txt	{'features': 39202, 'mrnas': 57814, 'cdss': 0}
+Gtomentosum_v1.1	Saved
+Hannuus_r1.2	Hannuus_494_r1.2.defline.txt	52243
+Hannuus_r1.2	Hannuus_494_r1.2.defline.txt	{'features': 52243, 'mrnas': 0, 'cdss': 0}
+Hannuus_r1.2	Hannuus_494_r1.2.annotation_info.txt	24858
+Hannuus_r1.2	Hannuus_494_r1.2.annotation_info.txt	24858
+Hannuus_r1.2	Hannuus_494_r1.2.annotation_info.txt	{'features': 49716, 'mrnas': 0, 'cdss': 0}
+Hannuus_r1.2	Saved
+Hvulgare_r1	Hvulgare_462_r1.defline.txt	30274
+Hvulgare_r1	Hvulgare_462_r1.defline.txt	{'features': 30274, 'mrnas': 30274, 'cdss': 0}
+Hvulgare_r1	Hvulgare_462_r1.annotation_info.txt	19197
+Hvulgare_r1	Hvulgare_462_r1.annotation_info.txt	125020
+Hvulgare_r1	Hvulgare_462_r1.annotation_info.txt	{'features': 19197, 'mrnas': 125020, 'cdss': 0}
+Hvulgare_r1	Saved
+HvulgareMorex_V3	HvulgareMorex_702_V3.defline.txt	31175
+HvulgareMorex_V3	HvulgareMorex_702_V3.defline.txt	{'features': 29146, 'mrnas': 31175, 'cdss': 0}
+HvulgareMorex_V3	HvulgareMorex_702_V3.annotation_info.txt	20736
+HvulgareMorex_V3	HvulgareMorex_702_V3.annotation_info.txt	22272
+HvulgareMorex_V3	HvulgareMorex_702_V3.annotation_info.txt	{'features': 20736, 'mrnas': 22272, 'cdss': 0}
+HvulgareMorex_V3	Saved
+Kfedtschenkoi_v1.1	Kfedtschenkoi_382_v1.1.defline.txt	25684
+Kfedtschenkoi_v1.1	Kfedtschenkoi_382_v1.1.defline.txt	{'features': 25684, 'mrnas': 25684, 'cdss': 0}
+Kfedtschenkoi_v1.1	Kfedtschenkoi_382_v1.1.annotation_info.txt	15424
+Kfedtschenkoi_v1.1	Kfedtschenkoi_382_v1.1.annotation_info.txt	23157
+Kfedtschenkoi_v1.1	Kfedtschenkoi_382_v1.1.annotation_info.txt	{'features': 15424, 'mrnas': 23157, 'cdss': 0}
+Kfedtschenkoi_v1.1	Saved
+Lalbus_v1	Lalbus_567_v1.defline.txt	31228
+Lalbus_v1	Lalbus_567_v1.defline.txt	{'features': 31228, 'mrnas': 0, 'cdss': 0}
+Lalbus_v1	Lalbus_567_v1.annotation_info.txt	22030
+Lalbus_v1	Lalbus_567_v1.annotation_info.txt	22030
+Lalbus_v1	Lalbus_567_v1.annotation_info.txt	{'features': 44060, 'mrnas': 0, 'cdss': 0}
+Lalbus_v1	Saved
+Ljaponicus_Lj1.0v1	Ljaponicus_571_Lj1.0v1.defline.txt	24254
+Ljaponicus_Lj1.0v1	Ljaponicus_571_Lj1.0v1.defline.txt	{'features': 24254, 'mrnas': 24254, 'cdss': 0}
+Ljaponicus_Lj1.0v1	Ljaponicus_571_Lj1.0v1.annotation_info.txt	17656
+Ljaponicus_Lj1.0v1	Ljaponicus_571_Lj1.0v1.annotation_info.txt	17656
+Ljaponicus_Lj1.0v1	Ljaponicus_571_Lj1.0v1.annotation_info.txt	{'features': 17656, 'mrnas': 17656, 'cdss': 0}
+Ljaponicus_Lj1.0v1	Saved
+Lsativa_V8	Lsativa_467_v5.defline.txt	29735
+Lsativa_V8	Lsativa_467_v5.defline.txt	{'features': 29735, 'mrnas': 29735, 'cdss': 0}
+Lsativa_V8	Lsativa_467_v5.annotation_info.txt	18635
+Lsativa_V8	Lsativa_467_v5.annotation_info.txt	31340
+Lsativa_V8	Lsativa_467_v5.annotation_info.txt	{'features': 18635, 'mrnas': 31340, 'cdss': 0}
+Lsativa_V8	Saved
+Lusitatissimum_v1.0	Lusitatissimum_200_v1.0.defline.txt	36568
+Lusitatissimum_v1.0	Lusitatissimum_200_v1.0.defline.txt	{'features': 36568, 'mrnas': 36568, 'cdss': 0}
+Lusitatissimum_v1.0	Lusitatissimum_200_v1.0.annotation_info.txt	22108
+Lusitatissimum_v1.0	Lusitatissimum_200_v1.0.annotation_info.txt	22113
+Lusitatissimum_v1.0	Lusitatissimum_200_v1.0.annotation_info.txt	{'features': 22108, 'mrnas': 22113, 'cdss': 0}
+Lusitatissimum_v1.0	Saved
+Macuminata_v1	Macuminata_304_v1.defline.txt	28654
+Macuminata_v1	Macuminata_304_v1.defline.txt	{'features': 28654, 'mrnas': 28654, 'cdss': 0}
+Macuminata_v1	Macuminata_304_v1.annotation_info.txt	17433
+Macuminata_v1	Macuminata_304_v1.annotation_info.txt	17433
+Macuminata_v1	Macuminata_304_v1.annotation_info.txt	{'features': 17433, 'mrnas': 17433, 'cdss': 0}
+Macuminata_v1	Saved
+Mesculenta_v6.1	Mesculenta_305_v6.1.defline.txt	26521
+Mesculenta_v6.1	Mesculenta_305_v6.1.defline.txt	{'features': 26521, 'mrnas': 26521, 'cdss': 0}
+Mesculenta_v6.1	Mesculenta_305_v6.1.annotation_info.txt	16164
+Mesculenta_v6.1	Mesculenta_305_v6.1.annotation_info.txt	20573
+Mesculenta_v6.1	Mesculenta_305_v6.1.annotation_info.txt	{'features': 16164, 'mrnas': 20573, 'cdss': 0}
+Mesculenta_v6.1	Mesculenta_305_v6.1.synonym.txt	31122
+Mesculenta_v6.1	Mesculenta_305_v6.1.synonym.txt	{'features': 24270, 'mrnas': 31122, 'cdss': 0}
+Mesculenta_v6.1	Saved
+Mesculenta_v7.1	Mesculenta_520_v7.1.defline.txt	58839
+Mesculenta_v7.1	Mesculenta_520_v7.1.defline.txt	{'features': 28773, 'mrnas': 58839, 'cdss': 0}
+Mesculenta_v7.1	Mesculenta_520_v7.1.annotation_info.txt	17860
+Mesculenta_v7.1	Mesculenta_520_v7.1.annotation_info.txt	35705
+Mesculenta_v7.1	Mesculenta_520_v7.1.annotation_info.txt	{'features': 17860, 'mrnas': 35705, 'cdss': 0}
+Mesculenta_v7.1	Mesculenta_520_v7.1.synonym.txt	1054
+Mesculenta_v7.1	Mesculenta_520_v7.1.synonym.txt	{'features': 541, 'mrnas': 1054, 'cdss': 0}
+Mesculenta_v7.1	Saved
+Mesculenta_v8.1	Mesculenta_671_v8.1.defline.txt	51904
+Mesculenta_v8.1	Mesculenta_671_v8.1.defline.txt	{'features': 27530, 'mrnas': 51904, 'cdss': 0}
+Mesculenta_v8.1	Mesculenta_671_v8.1.annotation_info.txt	18841
+Mesculenta_v8.1	Mesculenta_671_v8.1.annotation_info.txt	35484
+Mesculenta_v8.1	Mesculenta_671_v8.1.annotation_info.txt	{'features': 18841, 'mrnas': 35484, 'cdss': 0}
+Mesculenta_v8.1	Mesculenta_671_v8.1.synonym.txt	1705
+Mesculenta_v8.1	Mesculenta_671_v8.1.synonym.txt	{'features': 1070, 'mrnas': 1705, 'cdss': 0}
+Mesculenta_v8.1	Saved
+Mguttatus_v2.0	Mguttatus_256_v2.0.defline.txt	24064
+Mguttatus_v2.0	Mguttatus_256_v2.0.defline.txt	{'features': 24064, 'mrnas': 24064, 'cdss': 0}
+Mguttatus_v2.0	Mguttatus_256_v2.0.annotation_info.txt	14933
+Mguttatus_v2.0	Mguttatus_256_v2.0.annotation_info.txt	17910
+Mguttatus_v2.0	Mguttatus_256_v2.0.annotation_info.txt	{'features': 14933, 'mrnas': 17910, 'cdss': 0}
+Mguttatus_v2.0	Mguttatus_256_v2.0.synonym.txt	27738
+Mguttatus_v2.0	Mguttatus_256_v2.0.synonym.txt	{'features': 22852, 'mrnas': 27738, 'cdss': 0}
+Mguttatus_v2.0	Saved
+Mpolymorpha_v3.1	Mpolymorpha_320_v3.1.defline.txt	12423
+Mpolymorpha_v3.1	Mpolymorpha_320_v3.1.defline.txt	{'features': 12423, 'mrnas': 12423, 'cdss': 0}
+Mpolymorpha_v3.1	Mpolymorpha_320_v3.1.annotation_info.txt	7698
+Mpolymorpha_v3.1	Mpolymorpha_320_v3.1.annotation_info.txt	10320
+Mpolymorpha_v3.1	Mpolymorpha_320_v3.1.annotation_info.txt	{'features': 7698, 'mrnas': 10320, 'cdss': 0}
+Mpolymorpha_v3.1	Saved
+MpusillaCCMP1545_v3.0	MpusillaCCMP1545_228_v3.0.defline.txt	7432
+MpusillaCCMP1545_v3.0	MpusillaCCMP1545_228_v3.0.defline.txt	{'features': 7432, 'mrnas': 7432, 'cdss': 0}
+MpusillaCCMP1545_v3.0	MpusillaCCMP1545_228_v3.0.annotation_info.txt	4269
+MpusillaCCMP1545_v3.0	MpusillaCCMP1545_228_v3.0.annotation_info.txt	4269
+MpusillaCCMP1545_v3.0	MpusillaCCMP1545_228_v3.0.annotation_info.txt	{'features': 4269, 'mrnas': 4269, 'cdss': 0}
+MpusillaCCMP1545_v3.0	Saved
+Msinensis_v7.1	Msinensis_497_v7.1.defline.txt	49016
+Msinensis_v7.1	Msinensis_497_v7.1.defline.txt	{'features': 49016, 'mrnas': 49016, 'cdss': 0}
+Msinensis_v7.1	Msinensis_497_v7.1.annotation_info.txt	29680
+Msinensis_v7.1	Msinensis_497_v7.1.annotation_info.txt	40551
+Msinensis_v7.1	Msinensis_497_v7.1.annotation_info.txt	{'features': 29680, 'mrnas': 40551, 'cdss': 0}
+Msinensis_v7.1	Saved
+MspRCC299_v3.0	MspRCC299_229_v3.0.defline.txt	7471
+MspRCC299_v3.0	MspRCC299_229_v3.0.defline.txt	{'features': 7471, 'mrnas': 7471, 'cdss': 0}
+MspRCC299_v3.0	MspRCC299_229_v3.0.annotation_info.txt	4417
+MspRCC299_v3.0	MspRCC299_229_v3.0.annotation_info.txt	4417
+MspRCC299_v3.0	MspRCC299_229_v3.0.annotation_info.txt	{'features': 4417, 'mrnas': 4417, 'cdss': 0}
+MspRCC299_v3.0	Saved
+Mtruncatula_Mt4.0v1	Mtruncatula_285_Mt4.0v1.defline.txt	33648
+Mtruncatula_Mt4.0v1	Mtruncatula_285_Mt4.0v1.defline.txt	{'features': 33648, 'mrnas': 33648, 'cdss': 0}
+Mtruncatula_Mt4.0v1	Mtruncatula_285_Mt4.0v1.annotation_info.txt	20715
+Mtruncatula_Mt4.0v1	Mtruncatula_285_Mt4.0v1.annotation_info.txt	27157
+Mtruncatula_Mt4.0v1	Mtruncatula_285_Mt4.0v1.annotation_info.txt	{'features': 20715, 'mrnas': 27157, 'cdss': 0}
+Mtruncatula_Mt4.0v1	Saved
+Ncolorata_v1.2	Ncolorata_566_v1.2.defline.txt	38534
+Ncolorata_v1.2	Ncolorata_566_v1.2.defline.txt	{'features': 20205, 'mrnas': 38534, 'cdss': 0}
+Ncolorata_v1.2	Ncolorata_566_v1.2.annotation_info.txt	15496
+Ncolorata_v1.2	Ncolorata_566_v1.2.annotation_info.txt	29098
+Ncolorata_v1.2	Ncolorata_566_v1.2.annotation_info.txt	{'features': 15496, 'mrnas': 29098, 'cdss': 0}
+Ncolorata_v1.2	Ncolorata_566_v1.2.synonym.txt	31214
+Ncolorata_v1.2	Ncolorata_566_v1.2.synonym.txt	{'features': 15366, 'mrnas': 31214, 'cdss': 0}
+Ncolorata_v1.2	Saved
+Oeuropaea_v1.0	Oeuropaea_451_v1.0.defline.txt	34520
+Oeuropaea_v1.0	Oeuropaea_451_v1.0.defline.txt	{'features': 34520, 'mrnas': 0, 'cdss': 0}
+Oeuropaea_v1.0	Oeuropaea_451_v1.0.annotation_info.txt	19434
+Oeuropaea_v1.0	Oeuropaea_451_v1.0.annotation_info.txt	19434
+Oeuropaea_v1.0	Oeuropaea_451_v1.0.annotation_info.txt	{'features': 38868, 'mrnas': 0, 'cdss': 0}
+Oeuropaea_v1.0	Saved
+Olucimarinus_v2.0	Olucimarinus_231_v2.0.defline.txt	6137
+Olucimarinus_v2.0	Olucimarinus_231_v2.0.defline.txt	{'features': 6137, 'mrnas': 6137, 'cdss': 0}
+Olucimarinus_v2.0	Olucimarinus_231_v2.0.annotation_info.txt	3706
+Olucimarinus_v2.0	Olucimarinus_231_v2.0.annotation_info.txt	3706
+Olucimarinus_v2.0	Olucimarinus_231_v2.0.annotation_info.txt	{'features': 3706, 'mrnas': 3706, 'cdss': 0}
+Olucimarinus_v2.0	Saved
+OsativaKitaake_v3.1	OsativaKitaake_499_v3.1.defline.txt	25768
+OsativaKitaake_v3.1	OsativaKitaake_499_v3.1.defline.txt	{'features': 25768, 'mrnas': 25768, 'cdss': 0}
+OsativaKitaake_v3.1	OsativaKitaake_499_v3.1.annotation_info.txt	15828
+OsativaKitaake_v3.1	OsativaKitaake_499_v3.1.annotation_info.txt	22794
+OsativaKitaake_v3.1	OsativaKitaake_499_v3.1.annotation_info.txt	{'features': 15828, 'mrnas': 22794, 'cdss': 0}
+OsativaKitaake_v3.1	Saved
+Othomaeum_v1.0	Othomaeum_386_v1.0.defline.txt	19482
+Othomaeum_v1.0	Othomaeum_386_v1.0.defline.txt	{'features': 19482, 'mrnas': 19482, 'cdss': 0}
+Othomaeum_v1.0	Othomaeum_386_v1.0.annotation_info.txt	10848
+Othomaeum_v1.0	Othomaeum_386_v1.0.annotation_info.txt	10848
+Othomaeum_v1.0	Othomaeum_386_v1.0.annotation_info.txt	{'features': 10848, 'mrnas': 10848, 'cdss': 0}
+Othomaeum_v1.0	Saved
+Pacutifolius_v1.0	Pacutifolius_580_v1.0.defline.txt	50635
+Pacutifolius_v1.0	Pacutifolius_580_v1.0.defline.txt	{'features': 27538, 'mrnas': 50635, 'cdss': 0}
+Pacutifolius_v1.0	Pacutifolius_580_v1.0.annotation_info.txt	17147
+Pacutifolius_v1.0	Pacutifolius_580_v1.0.annotation_info.txt	32699
+Pacutifolius_v1.0	Pacutifolius_580_v1.0.annotation_info.txt	{'features': 17147, 'mrnas': 32699, 'cdss': 0}
+Pacutifolius_v1.0	Saved
+PacutifoliusWLD_v2.0	PacutifoliusWLD_581_v2.0.defline.txt	40833
+PacutifoliusWLD_v2.0	PacutifoliusWLD_581_v2.0.defline.txt	{'features': 27095, 'mrnas': 40833, 'cdss': 0}
+PacutifoliusWLD_v2.0	PacutifoliusWLD_581_v2.0.annotation_info.txt	16296
+PacutifoliusWLD_v2.0	PacutifoliusWLD_581_v2.0.annotation_info.txt	25340
+PacutifoliusWLD_v2.0	PacutifoliusWLD_581_v2.0.annotation_info.txt	{'features': 16296, 'mrnas': 25340, 'cdss': 0}
+PacutifoliusWLD_v2.0	Saved
+Phallii_v3.1	Phallii_495_v3.1.defline.txt	24251
+Phallii_v3.1	Phallii_495_v3.1.defline.txt	{'features': 24251, 'mrnas': 24251, 'cdss': 0}
+Phallii_v3.1	Phallii_495_v3.1.annotation_info.txt	14715
+Phallii_v3.1	Phallii_495_v3.1.annotation_info.txt	20298
+Phallii_v3.1	Phallii_495_v3.1.annotation_info.txt	{'features': 14715, 'mrnas': 20298, 'cdss': 0}
+Phallii_v3.1	Phallii_495_v3.1.synonym.txt	35807
+Phallii_v3.1	Phallii_495_v3.1.synonym.txt	{'features': 26008, 'mrnas': 35807, 'cdss': 0}
+Phallii_v3.1	Saved
+Phallii_v3.2	Phallii_590_v3.2.defline.txt	32479
+Phallii_v3.2	Phallii_590_v3.2.defline.txt	{'features': 24863, 'mrnas': 32479, 'cdss': 0}
+Phallii_v3.2	Phallii_590_v3.2.annotation_info.txt	18250
+Phallii_v3.2	Phallii_590_v3.2.annotation_info.txt	24055
+Phallii_v3.2	Phallii_590_v3.2.annotation_info.txt	{'features': 18250, 'mrnas': 24055, 'cdss': 0}
+Phallii_v3.2	Phallii_590_v3.2.synonym.txt	32514
+Phallii_v3.2	Phallii_590_v3.2.synonym.txt	{'features': 24756, 'mrnas': 32514, 'cdss': 0}
+Phallii_v3.2	Saved
+PhalliiHAL_v2.1	PhalliiHAL_496_v2.1.defline.txt	24086
+PhalliiHAL_v2.1	PhalliiHAL_496_v2.1.defline.txt	{'features': 24086, 'mrnas': 24086, 'cdss': 0}
+PhalliiHAL_v2.1	PhalliiHAL_496_v2.1.annotation_info.txt	14679
+PhalliiHAL_v2.1	PhalliiHAL_496_v2.1.annotation_info.txt	19469
+PhalliiHAL_v2.1	PhalliiHAL_496_v2.1.annotation_info.txt	{'features': 14679, 'mrnas': 19469, 'cdss': 0}
+PhalliiHAL_v2.1	Saved
+PhalliiHAL_v2.2	PhalliiHAL_591_v2.2.defline.txt	32053
+PhalliiHAL_v2.2	PhalliiHAL_591_v2.2.defline.txt	{'features': 24822, 'mrnas': 32053, 'cdss': 0}
+PhalliiHAL_v2.2	PhalliiHAL_591_v2.2.annotation_info.txt	18296
+PhalliiHAL_v2.2	PhalliiHAL_591_v2.2.annotation_info.txt	23782
+PhalliiHAL_v2.2	PhalliiHAL_591_v2.2.annotation_info.txt	{'features': 18296, 'mrnas': 23782, 'cdss': 0}
+PhalliiHAL_v2.2	Saved
+Ppatens_v3.3	Ppatens_318_v3.3.defline.txt	21077
+Ppatens_v3.3	Ppatens_318_v3.3.defline.txt	{'features': 21077, 'mrnas': 21077, 'cdss': 0}
+Ppatens_v3.3	Ppatens_318_v3.3.annotation_info.txt	12564
+Ppatens_v3.3	Ppatens_318_v3.3.annotation_info.txt	39723
+Ppatens_v3.3	Ppatens_318_v3.3.annotation_info.txt	{'features': 12564, 'mrnas': 39723, 'cdss': 0}
+Ppatens_v3.3	Ppatens_318_v3.3.synonym.txt	87533
+Ppatens_v3.3	Ppatens_318_v3.3.synonym.txt	{'features': 32926, 'mrnas': 87533, 'cdss': 0}
+Ppatens_v3.3	Saved
+Ppersica_v2.1	Ppersica_298_v2.1.defline.txt	22245
+Ppersica_v2.1	Ppersica_298_v2.1.defline.txt	{'features': 22245, 'mrnas': 22245, 'cdss': 0}
+Ppersica_v2.1	Ppersica_298_v2.1.annotation_info.txt	13662
+Ppersica_v2.1	Ppersica_298_v2.1.annotation_info.txt	24906
+Ppersica_v2.1	Ppersica_298_v2.1.annotation_info.txt	{'features': 13662, 'mrnas': 24906, 'cdss': 0}
+Ppersica_v2.1	Ppersica_298_v2.1.synonym.txt	39615
+Ppersica_v2.1	Ppersica_298_v2.1.synonym.txt	{'features': 21464, 'mrnas': 39615, 'cdss': 0}
+Ppersica_v2.1	Saved
+Ptrichocarpa_v3.1	Ptrichocarpa_444_v3.1.defline.txt	41025
+Ptrichocarpa_v3.1	Ptrichocarpa_444_v3.1.defline.txt	{'features': 34218, 'mrnas': 41025, 'cdss': 0}
+Ptrichocarpa_v3.1	Ptrichocarpa_444_v3.1.annotation_info.txt	20295
+Ptrichocarpa_v3.1	Ptrichocarpa_444_v3.1.annotation_info.txt	31167
+Ptrichocarpa_v3.1	Ptrichocarpa_444_v3.1.annotation_info.txt	{'features': 20295, 'mrnas': 31167, 'cdss': 0}
+Ptrichocarpa_v3.1	Ptrichocarpa_444_v3.1.synonym.txt	47879
+Ptrichocarpa_v3.1	Ptrichocarpa_444_v3.1.synonym.txt	{'features': 30806, 'mrnas': 47879, 'cdss': 0}
+Ptrichocarpa_v3.1	Saved
+Ptrichocarpa_v4.1	Ptrichocarpa_533_v4.1.defline.txt	46638
+Ptrichocarpa_v4.1	Ptrichocarpa_533_v4.1.defline.txt	{'features': 30088, 'mrnas': 46638, 'cdss': 0}
+Ptrichocarpa_v4.1	Ptrichocarpa_533_v4.1.annotation_info.txt	22436
+Ptrichocarpa_v4.1	Ptrichocarpa_533_v4.1.annotation_info.txt	34964
+Ptrichocarpa_v4.1	Ptrichocarpa_533_v4.1.annotation_info.txt	{'features': 22436, 'mrnas': 34964, 'cdss': 0}
+Ptrichocarpa_v4.1	Ptrichocarpa_533_v4.1.synonym.txt	40317
+Ptrichocarpa_v4.1	Ptrichocarpa_533_v4.1.synonym.txt	{'features': 25579, 'mrnas': 40317, 'cdss': 0}
+Ptrichocarpa_v4.1	Saved
+Ptrifoliata_v1.3.1	Ptrifoliata_565_v1.3.1.defline.txt	28815
+Ptrifoliata_v1.3.1	Ptrifoliata_565_v1.3.1.defline.txt	{'features': 21754, 'mrnas': 28815, 'cdss': 0}
+Ptrifoliata_v1.3.1	Ptrifoliata_565_v1.3.1.annotation_info.txt	16379
+Ptrifoliata_v1.3.1	Ptrifoliata_565_v1.3.1.annotation_info.txt	21606
+Ptrifoliata_v1.3.1	Ptrifoliata_565_v1.3.1.annotation_info.txt	{'features': 16379, 'mrnas': 21606, 'cdss': 0}
+Ptrifoliata_v1.3.1	Saved
+Pumbilicalis_v1.5	Pumbilicalis_456_v1.5.defline.txt	792
+Pumbilicalis_v1.5	Pumbilicalis_456_v1.5.defline.txt	{'features': 791, 'mrnas': 792, 'cdss': 0}
+Pumbilicalis_v1.5	Pumbilicalis_456_v1.5.annotation_info.txt	3494
+Pumbilicalis_v1.5	Pumbilicalis_456_v1.5.annotation_info.txt	3580
+Pumbilicalis_v1.5	Pumbilicalis_456_v1.5.annotation_info.txt	{'features': 3494, 'mrnas': 3580, 'cdss': 0}
+Pumbilicalis_v1.5	Pumbilicalis_456_v1.5.synonym.txt	184
+Pumbilicalis_v1.5	Pumbilicalis_456_v1.5.synonym.txt	{'features': 184, 'mrnas': 184, 'cdss': 0}
+Pumbilicalis_v1.5	Saved
+Rcommunis_v0.1	Rcommunis_119_v0.1.defline.txt	31221
+Rcommunis_v0.1	Rcommunis_119_v0.1.defline.txt	{'features': 31221, 'mrnas': 31221, 'cdss': 0}
+Rcommunis_v0.1	Rcommunis_119_v0.1.annotation_info.txt	13072
+Rcommunis_v0.1	Rcommunis_119_v0.1.annotation_info.txt	13072
+Rcommunis_v0.1	Rcommunis_119_v0.1.annotation_info.txt	{'features': 13072, 'mrnas': 13072, 'cdss': 0}
+Rcommunis_v0.1	Saved
+Sbicolor_v3.1.1	Sbicolor_454_v3.1.1.defline.txt	35317
+Sbicolor_v3.1.1	Sbicolor_454_v3.1.1.defline.txt	{'features': 26873, 'mrnas': 35317, 'cdss': 0}
+Sbicolor_v3.1.1	Sbicolor_454_v3.1.1.annotation_info.txt	15391
+Sbicolor_v3.1.1	Sbicolor_454_v3.1.1.annotation_info.txt	22137
+Sbicolor_v3.1.1	Sbicolor_454_v3.1.1.annotation_info.txt	{'features': 15391, 'mrnas': 22137, 'cdss': 0}
+Sbicolor_v3.1.1	Sbicolor_454_v3.1.1.synonym.txt	32038
+Sbicolor_v3.1.1	Sbicolor_454_v3.1.1.synonym.txt	{'features': 22308, 'mrnas': 32038, 'cdss': 0}
+Sbicolor_v3.1.1	Saved
+SbicolorRio_v2.1	SbicolorRio_468_v2.1.defline.txt	25440
+SbicolorRio_v2.1	SbicolorRio_468_v2.1.defline.txt	{'features': 25440, 'mrnas': 25440, 'cdss': 0}
+SbicolorRio_v2.1	SbicolorRio_468_v2.1.annotation_info.txt	15599
+SbicolorRio_v2.1	SbicolorRio_468_v2.1.annotation_info.txt	18407
+SbicolorRio_v2.1	SbicolorRio_468_v2.1.annotation_info.txt	{'features': 15599, 'mrnas': 18407, 'cdss': 0}
+SbicolorRio_v2.1	Saved
+Sitalica_v2.2	Sitalica_312_v2.2.defline.txt	26439
+Sitalica_v2.2	Sitalica_312_v2.2.defline.txt	{'features': 26439, 'mrnas': 26439, 'cdss': 0}
+Sitalica_v2.2	Sitalica_312_v2.2.annotation_info.txt	16376
+Sitalica_v2.2	Sitalica_312_v2.2.annotation_info.txt	20834
+Sitalica_v2.2	Sitalica_312_v2.2.annotation_info.txt	{'features': 16376, 'mrnas': 20834, 'cdss': 0}
+Sitalica_v2.2	Sitalica_312_v2.2.synonym.txt	32630
+Sitalica_v2.2	Sitalica_312_v2.2.synonym.txt	{'features': 25535, 'mrnas': 32630, 'cdss': 0}
+Sitalica_v2.2	Saved
+Slycopersicum_ITAG2.4	Slycopersicum_390_ITAG2.4.defline.txt	26428
+Slycopersicum_ITAG2.4	Slycopersicum_390_ITAG2.4.defline.txt	{'features': 26428, 'mrnas': 26428, 'cdss': 0}
+Slycopersicum_ITAG2.4	Slycopersicum_390_ITAG2.4.annotation_info.txt	15928
+Slycopersicum_ITAG2.4	Slycopersicum_390_ITAG2.4.annotation_info.txt	15928
+Slycopersicum_ITAG2.4	Slycopersicum_390_ITAG2.4.annotation_info.txt	{'features': 15928, 'mrnas': 15928, 'cdss': 0}
+Slycopersicum_ITAG2.4	Saved
+Slycopersicum_ITAG3.2	Slycopersicum_514_ITAG3.2.defline.txt	27440
+Slycopersicum_ITAG3.2	Slycopersicum_514_ITAG3.2.defline.txt	{'features': 27440, 'mrnas': 27440, 'cdss': 0}
+Slycopersicum_ITAG3.2	Slycopersicum_514_ITAG3.2.annotation_info.txt	16496
+Slycopersicum_ITAG3.2	Slycopersicum_514_ITAG3.2.annotation_info.txt	16496
+Slycopersicum_ITAG3.2	Slycopersicum_514_ITAG3.2.annotation_info.txt	{'features': 16496, 'mrnas': 16496, 'cdss': 0}
+Slycopersicum_ITAG3.2	Slycopersicum_514_ITAG3.2.synonym.txt	35768
+Slycopersicum_ITAG3.2	Slycopersicum_514_ITAG3.2.synonym.txt	{'features': 35768, 'mrnas': 35768, 'cdss': 0}
+Slycopersicum_ITAG3.2	Saved
+Slycopersicum_ITAG4.0	Slycopersicum_691_ITAG4.0.defline.txt	27210
+Slycopersicum_ITAG4.0	Slycopersicum_691_ITAG4.0.defline.txt	{'features': 27210, 'mrnas': 27210, 'cdss': 0}
+Slycopersicum_ITAG4.0	Slycopersicum_691_ITAG4.0.annotation_info.txt	18950
+Slycopersicum_ITAG4.0	Slycopersicum_691_ITAG4.0.annotation_info.txt	18950
+Slycopersicum_ITAG4.0	Slycopersicum_691_ITAG4.0.annotation_info.txt	{'features': 18950, 'mrnas': 18950, 'cdss': 0}
+Slycopersicum_ITAG4.0	Saved
+Smoellendorffii_v1.0	Smoellendorffii_91_v1.0.defline.txt	17194
+Smoellendorffii_v1.0	Smoellendorffii_91_v1.0.defline.txt	{'features': 17194, 'mrnas': 0, 'cdss': 0}
+Smoellendorffii_v1.0	Smoellendorffii_91_v1.0.annotation_info.txt	9852
+Smoellendorffii_v1.0	Smoellendorffii_91_v1.0.annotation_info.txt	9852
+Smoellendorffii_v1.0	Smoellendorffii_91_v1.0.annotation_info.txt	{'features': 19704, 'mrnas': 0, 'cdss': 0}
+Smoellendorffii_v1.0	Smoellendorffii_91_v1.0.synonym.txt	22285
+Smoellendorffii_v1.0	Smoellendorffii_91_v1.0.synonym.txt	{'features': 22285, 'mrnas': 0, 'cdss': 0}
+Smoellendorffii_v1.0	Saved
+Soleracea_Spov3	Soleracea_575_Spov3.defline.txt	25110
+Soleracea_Spov3	Soleracea_575_Spov3.defline.txt	{'features': 25110, 'mrnas': 0, 'cdss': 0}
+Soleracea_Spov3	Soleracea_575_Spov3.annotation_info.txt	16460
+Soleracea_Spov3	Soleracea_575_Spov3.annotation_info.txt	16460
+Soleracea_Spov3	Soleracea_575_Spov3.annotation_info.txt	{'features': 32920, 'mrnas': 0, 'cdss': 0}
+Soleracea_Spov3	Saved
+Sparvula_v2.2	Sparvula_574_v2.2.defline.txt	21561
+Sparvula_v2.2	Sparvula_574_v2.2.defline.txt	{'features': 21561, 'mrnas': 21561, 'cdss': 0}
+Sparvula_v2.2	Sparvula_574_v2.2.annotation_info.txt	15218
+Sparvula_v2.2	Sparvula_574_v2.2.annotation_info.txt	15218
+Sparvula_v2.2	Sparvula_574_v2.2.annotation_info.txt	{'features': 15218, 'mrnas': 15218, 'cdss': 0}
+Sparvula_v2.2	Saved
+Spolyrhiza_v2	Spolyrhiza_290_v2.defline.txt	16532
+Spolyrhiza_v2	Spolyrhiza_290_v2.defline.txt	{'features': 16532, 'mrnas': 0, 'cdss': 0}
+Spolyrhiza_v2	Spolyrhiza_290_v2.annotation_info.txt	9259
+Spolyrhiza_v2	Spolyrhiza_290_v2.annotation_info.txt	9259
+Spolyrhiza_v2	Spolyrhiza_290_v2.annotation_info.txt	{'features': 18518, 'mrnas': 0, 'cdss': 0}
+Spolyrhiza_v2	Saved
+Spurpurea_v1.0	Spurpurea_289_v1.0.defline.txt	61520
+Spurpurea_v1.0	Spurpurea_289_v1.0.defline.txt	{'features': 37865, 'mrnas': 61520, 'cdss': 0}
+Spurpurea_v1.0	Spurpurea_289_v1.0.annotation_info.txt	19260
+Spurpurea_v1.0	Spurpurea_289_v1.0.annotation_info.txt	32136
+Spurpurea_v1.0	Spurpurea_289_v1.0.annotation_info.txt	{'features': 19260, 'mrnas': 32136, 'cdss': 0}
+Spurpurea_v1.0	Saved
+Spurpurea_v5.1	Spurpurea_519_v5.1.defline.txt	46384
+Spurpurea_v5.1	Spurpurea_519_v5.1.defline.txt	{'features': 25440, 'mrnas': 46384, 'cdss': 0}
+Spurpurea_v5.1	Spurpurea_519_v5.1.annotation_info.txt	17664
+Spurpurea_v5.1	Spurpurea_519_v5.1.annotation_info.txt	29947
+Spurpurea_v5.1	Spurpurea_519_v5.1.annotation_info.txt	{'features': 17664, 'mrnas': 29947, 'cdss': 0}
+Spurpurea_v5.1	Spurpurea_519_v5.1.synonym.txt	49750
+Spurpurea_v5.1	Spurpurea_519_v5.1.synonym.txt	{'features': 28183, 'mrnas': 49750, 'cdss': 0}
+Spurpurea_v5.1	Saved
+SpurpureaFishCreek_v3.1	SpurpureaFishCreek_518_v3.1.defline.txt	39389
+SpurpureaFishCreek_v3.1	SpurpureaFishCreek_518_v3.1.defline.txt	{'features': 28187, 'mrnas': 39389, 'cdss': 0}
+SpurpureaFishCreek_v3.1	SpurpureaFishCreek_518_v3.1.annotation_info.txt	17188
+SpurpureaFishCreek_v3.1	SpurpureaFishCreek_518_v3.1.annotation_info.txt	23835
+SpurpureaFishCreek_v3.1	SpurpureaFishCreek_518_v3.1.annotation_info.txt	{'features': 17188, 'mrnas': 23835, 'cdss': 0}
+SpurpureaFishCreek_v3.1	Saved
+Stuberosum_v4.03	Stuberosum_448_v4.03.defline.txt	56215
+Stuberosum_v4.03	Stuberosum_448_v4.03.defline.txt	{'features': 39028, 'mrnas': 56215, 'cdss': 0}
+Stuberosum_v4.03	Stuberosum_448_v4.03.annotation_info.txt	15515
+Stuberosum_v4.03	Stuberosum_448_v4.03.annotation_info.txt	23460
+Stuberosum_v4.03	Stuberosum_448_v4.03.annotation_info.txt	{'features': 15515, 'mrnas': 23460, 'cdss': 0}
+Stuberosum_v4.03	Saved
+Stuberosum_v6.1	Stuberosum_686_v6.1.defline.txt	39298
+Stuberosum_v6.1	Stuberosum_686_v6.1.defline.txt	{'features': 28235, 'mrnas': 39298, 'cdss': 0}
+Stuberosum_v6.1	Stuberosum_686_v6.1.annotation_info.txt	20490
+Stuberosum_v6.1	Stuberosum_686_v6.1.annotation_info.txt	28175
+Stuberosum_v6.1	Stuberosum_686_v6.1.annotation_info.txt	{'features': 20490, 'mrnas': 28175, 'cdss': 0}
+Stuberosum_v6.1	Saved
+Sviridis_v2.1	Sviridis_500_v2.1.defline.txt	26368
+Sviridis_v2.1	Sviridis_500_v2.1.defline.txt	{'features': 26368, 'mrnas': 26368, 'cdss': 0}
+Sviridis_v2.1	Sviridis_500_v2.1.annotation_info.txt	16075
+Sviridis_v2.1	Sviridis_500_v2.1.annotation_info.txt	23650
+Sviridis_v2.1	Sviridis_500_v2.1.annotation_info.txt	{'features': 16075, 'mrnas': 23650, 'cdss': 0}
+Sviridis_v2.1	Sviridis_500_v2.1.synonym.txt	262
+Sviridis_v2.1	Sviridis_500_v2.1.synonym.txt	{'features': 208, 'mrnas': 262, 'cdss': 0}
+Sviridis_v2.1	Saved
+Taestivum_v2.2	Taestivum_296_v2.2.defline.txt	82834
+Taestivum_v2.2	Taestivum_296_v2.2.defline.txt	{'features': 82834, 'mrnas': 82834, 'cdss': 0}
+Taestivum_v2.2	Taestivum_296_v2.2.annotation_info.txt	50498
+Taestivum_v2.2	Taestivum_296_v2.2.annotation_info.txt	139563
+Taestivum_v2.2	Taestivum_296_v2.2.annotation_info.txt	{'features': 50498, 'mrnas': 139563, 'cdss': 0}
+Taestivum_v2.2	Saved
+Tcacao_v1.1	Tcacao_233_v1.1.defline.txt	44404
+Tcacao_v1.1	Tcacao_233_v1.1.defline.txt	{'features': 29452, 'mrnas': 44404, 'cdss': 0}
+Tcacao_v1.1	Tcacao_233_v1.1.annotation_info.txt	13119
+Tcacao_v1.1	Tcacao_233_v1.1.annotation_info.txt	21806
+Tcacao_v1.1	Tcacao_233_v1.1.annotation_info.txt	{'features': 13119, 'mrnas': 21806, 'cdss': 0}
+Tcacao_v1.1	Saved
+Tpratense_v2	Tpratense_385_v2.defline.txt	31660
+Tpratense_v2	Tpratense_385_v2.defline.txt	{'features': 31660, 'mrnas': 31660, 'cdss': 0}
+Tpratense_v2	Tpratense_385_v2.annotation_info.txt	17933
+Tpratense_v2	Tpratense_385_v2.annotation_info.txt	18593
+Tpratense_v2	Tpratense_385_v2.annotation_info.txt	{'features': 17933, 'mrnas': 18593, 'cdss': 0}
+Tpratense_v2	Saved
+Vcarteri_v2.1	Vcarteri_317_v2.1.defline.txt	9360
+Vcarteri_v2.1	Vcarteri_317_v2.1.defline.txt	{'features': 9204, 'mrnas': 9360, 'cdss': 0}
+Vcarteri_v2.1	Vcarteri_317_v2.1.annotation_info.txt	5251
+Vcarteri_v2.1	Vcarteri_317_v2.1.annotation_info.txt	5990
+Vcarteri_v2.1	Vcarteri_317_v2.1.annotation_info.txt	{'features': 5251, 'mrnas': 5990, 'cdss': 0}
+Vcarteri_v2.1	Vcarteri_317_v2.1.synonym.txt	9896
+Vcarteri_v2.1	Vcarteri_317_v2.1.synonym.txt	{'features': 8731, 'mrnas': 9896, 'cdss': 0}
+Vcarteri_v2.1	Saved
+Vunguiculata_v1.1	Vunguiculata_469_v1.1.defline.txt	25020
+Vunguiculata_v1.1	Vunguiculata_469_v1.1.defline.txt	{'features': 25020, 'mrnas': 25020, 'cdss': 0}
+Vunguiculata_v1.1	Vunguiculata_469_v1.1.annotation_info.txt	15797
+Vunguiculata_v1.1	Vunguiculata_469_v1.1.annotation_info.txt	22713
+Vunguiculata_v1.1	Vunguiculata_469_v1.1.annotation_info.txt	{'features': 15797, 'mrnas': 22713, 'cdss': 0}
+Vunguiculata_v1.1	Saved
+Vvinifera_v2.1	Vvinifera_457_v2.1.defline.txt	47469
+Vvinifera_v2.1	Vvinifera_457_v2.1.defline.txt	{'features': 25280, 'mrnas': 47469, 'cdss': 0}
+Vvinifera_v2.1	Vvinifera_457_v2.1.annotation_info.txt	15226
+Vvinifera_v2.1	Vvinifera_457_v2.1.annotation_info.txt	28485
+Vvinifera_v2.1	Vvinifera_457_v2.1.annotation_info.txt	{'features': 15226, 'mrnas': 28485, 'cdss': 0}
+Vvinifera_v2.1	Saved
+Zmarina_v2.2	Zmarina_324_v2.2.defline.txt	17670
+Zmarina_v2.2	Zmarina_324_v2.2.defline.txt	{'features': 17670, 'mrnas': 17670, 'cdss': 0}
+Zmarina_v2.2	Zmarina_324_v2.2.annotation_info.txt	10199
+Zmarina_v2.2	Zmarina_324_v2.2.annotation_info.txt	10199
+Zmarina_v2.2	Zmarina_324_v2.2.annotation_info.txt	{'features': 10199, 'mrnas': 10199, 'cdss': 0}
+Zmarina_v2.2	Saved
+Zmarina_v3.1	Zmarina_668_v3.1.defline.txt	17088
+Zmarina_v3.1	Zmarina_668_v3.1.defline.txt	{'features': 17088, 'mrnas': 17088, 'cdss': 0}
+Zmarina_v3.1	Zmarina_668_v3.1.annotation_info.txt	11639
+Zmarina_v3.1	Zmarina_668_v3.1.annotation_info.txt	11639
+Zmarina_v3.1	Zmarina_668_v3.1.annotation_info.txt	{'features': 11639, 'mrnas': 11639, 'cdss': 0}
+Zmarina_v3.1	Saved
+Zmays_RefGen_V4	Zmays_493_RefGen_V4.defline.txt	120301
+Zmays_RefGen_V4	Zmays_493_RefGen_V4.defline.txt	{'features': 32404, 'mrnas': 120301, 'cdss': 0}
+Zmays_RefGen_V4	Zmays_493_RefGen_V4.annotation_info.txt	19343
+Zmays_RefGen_V4	Zmays_493_RefGen_V4.annotation_info.txt	67346
+Zmays_RefGen_V4	Zmays_493_RefGen_V4.annotation_info.txt	{'features': 19343, 'mrnas': 67346, 'cdss': 0}
+Zmays_RefGen_V4	Saved
+ZmaysB84_v1.2	ZmaysB84_681_v1.2.defline.txt	37080
+ZmaysB84_v1.2	ZmaysB84_681_v1.2.defline.txt	{'features': 27822, 'mrnas': 37080, 'cdss': 0}
+ZmaysB84_v1.2	ZmaysB84_681_v1.2.annotation_info.txt	18873
+ZmaysB84_v1.2	ZmaysB84_681_v1.2.annotation_info.txt	25133
+ZmaysB84_v1.2	ZmaysB84_681_v1.2.annotation_info.txt	{'features': 18873, 'mrnas': 25133, 'cdss': 0}
+ZmaysB84_v1.2	Saved
+ZmaysLH145_v1.2	ZmaysLH145_682_v1.2.defline.txt	37597
+ZmaysLH145_v1.2	ZmaysLH145_682_v1.2.defline.txt	{'features': 28269, 'mrnas': 37597, 'cdss': 0}
+ZmaysLH145_v1.2	ZmaysLH145_682_v1.2.annotation_info.txt	19097
+ZmaysLH145_v1.2	ZmaysLH145_682_v1.2.annotation_info.txt	25424
+ZmaysLH145_v1.2	ZmaysLH145_682_v1.2.annotation_info.txt	{'features': 19097, 'mrnas': 25424, 'cdss': 0}
+ZmaysLH145_v1.2	Saved
+ZmaysNKH8431_v1.2	ZmaysNKH8431_683_v1.2.defline.txt	36957
+ZmaysNKH8431_v1.2	ZmaysNKH8431_683_v1.2.defline.txt	{'features': 27794, 'mrnas': 36957, 'cdss': 0}
+ZmaysNKH8431_v1.2	ZmaysNKH8431_683_v1.2.annotation_info.txt	18805
+ZmaysNKH8431_v1.2	ZmaysNKH8431_683_v1.2.annotation_info.txt	25057
+ZmaysNKH8431_v1.2	ZmaysNKH8431_683_v1.2.annotation_info.txt	{'features': 18805, 'mrnas': 25057, 'cdss': 0}
+ZmaysNKH8431_v1.2	Saved
+ZmaysPH207_v1.1	ZmaysPH207_443_v1.1.defline.txt	31926
+ZmaysPH207_v1.1	ZmaysPH207_443_v1.1.defline.txt	{'features': 31926, 'mrnas': 31926, 'cdss': 0}
+ZmaysPH207_v1.1	ZmaysPH207_443_v1.1.annotation_info.txt	18533
+ZmaysPH207_v1.1	ZmaysPH207_443_v1.1.annotation_info.txt	18533
+ZmaysPH207_v1.1	ZmaysPH207_443_v1.1.annotation_info.txt	{'features': 18533, 'mrnas': 18533, 'cdss': 0}
+ZmaysPH207_v1.1	Saved
+ZmaysPHB47_v1.1	ZmaysPHB47_513_v1.1.defline.txt	49027
+ZmaysPHB47_v1.1	ZmaysPHB47_513_v1.1.defline.txt	{'features': 29465, 'mrnas': 49027, 'cdss': 0}
+ZmaysPHB47_v1.1	ZmaysPHB47_513_v1.1.annotation_info.txt	17626
+ZmaysPHB47_v1.1	ZmaysPHB47_513_v1.1.annotation_info.txt	29632
+ZmaysPHB47_v1.1	ZmaysPHB47_513_v1.1.annotation_info.txt	{'features': 17626, 'mrnas': 29632, 'cdss': 0}
+ZmaysPHB47_v1.1	Saved
+ZmaysPHB47_v1.2	ZmaysPHB47_684_v1.2.defline.txt	37220
+ZmaysPHB47_v1.2	ZmaysPHB47_684_v1.2.defline.txt	{'features': 27822, 'mrnas': 37220, 'cdss': 0}
+ZmaysPHB47_v1.2	ZmaysPHB47_684_v1.2.annotation_info.txt	18838
+ZmaysPHB47_v1.2	ZmaysPHB47_684_v1.2.annotation_info.txt	25209
+ZmaysPHB47_v1.2	ZmaysPHB47_684_v1.2.annotation_info.txt	{'features': 18838, 'mrnas': 25209, 'cdss': 0}
+ZmaysPHB47_v1.2	Saved
+ZmaysPHJ40_v1.1	ZmaysPHJ40_512_v1.1.defline.txt	48160
+ZmaysPHJ40_v1.1	ZmaysPHJ40_512_v1.1.defline.txt	{'features': 28555, 'mrnas': 48160, 'cdss': 0}
+ZmaysPHJ40_v1.1	ZmaysPHJ40_512_v1.1.annotation_info.txt	17029
+ZmaysPHJ40_v1.1	ZmaysPHJ40_512_v1.1.annotation_info.txt	28971
+ZmaysPHJ40_v1.1	ZmaysPHJ40_512_v1.1.annotation_info.txt	{'features': 17029, 'mrnas': 28971, 'cdss': 0}
+ZmaysPHJ40_v1.1	Saved
+ZmaysPHJ40_v1.2	ZmaysPHJ40_685_v1.2.defline.txt	36760
+ZmaysPHJ40_v1.2	ZmaysPHJ40_685_v1.2.defline.txt	{'features': 27654, 'mrnas': 36760, 'cdss': 0}
+ZmaysPHJ40_v1.2	ZmaysPHJ40_685_v1.2.annotation_info.txt	18696
+ZmaysPHJ40_v1.2	ZmaysPHJ40_685_v1.2.annotation_info.txt	24846
+ZmaysPHJ40_v1.2	ZmaysPHJ40_685_v1.2.annotation_info.txt	{'features': 18696, 'mrnas': 24846, 'cdss': 0}
+ZmaysPHJ40_v1.2	Saved

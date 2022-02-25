@@ -1,0 +1,236 @@
+Aamericanus_v1.1	Acorus americanus
+Acoerulea_v3.1	Aquilegia coerulea
+Acomosus_v3	Ananas comosus
+Ahalleri_v1.1	Arabidopsis halleri
+Ahypochondriacus_v2.1	Amaranthus hypochondriacus
+Ahypogaea_v1.0	Arachis hypogaea
+Alinifolium_v1.1	Alyssum linifolium
+Alyrata_v2.1	Arabidopsis lyrata
+Aoccidentale_v0.9	Anacardium occidentale
+Aofficinalis_V1.1	Asparagus officinalis
+Athaliana_Araport11	Arabidopsis thaliana
+Athaliana_TAIR10	Arabidopsis thaliana
+Atrichopoda_v1.0	Amborella trichopoda
+Bbraunii_v2.1	Botryococcus braunii
+BdistachyonABR2_v1	Brachypodium distachyon ABR2
+BdistachyonABR3_v1	Brachypodium distachyon ABR3
+BdistachyonABR4_v1	Brachypodium distachyon ABR4
+BdistachyonABR5_v1	Brachypodium distachyon ABR5
+BdistachyonABR6_v1	Brachypodium distachyon ABR6
+BdistachyonABR7_v1	Brachypodium distachyon ABR7
+BdistachyonABR8_v1	Brachypodium distachyon ABR8
+BdistachyonABR9_v1	Brachypodium distachyon ABR9
+BdistachyonAdi-10_v1	Brachypodium distachyon Adi-10
+BdistachyonAdi-12_v1	Brachypodium distachyon Adi-12
+BdistachyonAdi-2_v1	Brachypodium distachyon Adi-2
+BdistachyonArn1_v1	Brachypodium distachyon Arn1
+BdistachyonBd1-1_v1	Brachypodium distachyon Bd1-1
+BdistachyonBd1-1_v1.1	Brachypodium distachyon Bd1-1
+BdistachyonBd18-1_v1	Brachypodium distachyon Bd18-1
+BdistachyonBd2-3_v1	Brachypodium distachyon Bd2-3
+BdistachyonBd21-3_v1	Brachypodium distachyon Bd21-3
+BdistachyonBd21-3_v1.1	Brachypodium distachyon Bd21-3
+BdistachyonBd21-3_v1.2	Brachypodium distachyon Bd21-3
+BdistachyonBd21AnntCtrl_v1	Brachypodium distachyon Bd21 AnntCtrl
+BdistachyonBd21AsmbCtrl_v1	Brachypodium distachyon Bd21 AsmbCtrl
+BdistachyonBd29-1_v1	Brachypodium distachyon Bd29-1
+BdistachyonBd3-1_v1	Brachypodium distachyon Bd3-1
+BdistachyonBd30-1_v1	Brachypodium distachyon Bd30-1
+BdistachyonBd30-1_v1.1	Brachypodium distachyon Bd30-1
+BdistachyonBdTR10c_v1	Brachypodium distachyon BdTR10c
+BdistachyonBdTR11a_v1	Brachypodium distachyon BdTR11a
+BdistachyonBdTR11g_v1	Brachypodium distachyon BdTR11g
+BdistachyonBdTR11i_v1	Brachypodium distachyon BdTR11i
+BdistachyonBdTR12c_v1	Brachypodium distachyon BdTR12c
+BdistachyonBdTR13a_v1	Brachypodium distachyon BdTR13a
+BdistachyonBdTR13c_v1	Brachypodium distachyon BdTR13c
+BdistachyonBdTR1i_v1	Brachypodium distachyon BdTR1i
+BdistachyonBdTR2b_v1	Brachypodium distachyon BdTR2b
+BdistachyonBdTR2g_v1	Brachypodium distachyon BdTR2g
+BdistachyonBdTR3c_v1	Brachypodium distachyon BdTR3c
+BdistachyonBdTR5i_v1	Brachypodium distachyon BdTR5i
+BdistachyonBdTR7a_v1	Brachypodium distachyon BdTR7a
+BdistachyonBdTR8i_v1	Brachypodium distachyon BdTR8i
+BdistachyonBdTR9k_v1	Brachypodium distachyon BdTR9k
+BdistachyonBis-1_v1	Brachypodium distachyon Bis-1
+BdistachyonFoz1_v1	Brachypodium distachyon Foz1
+BdistachyonGaz-8_v1	Brachypodium distachyon Gaz-8
+BdistachyonJer1_v1	Brachypodium distachyon Jer1
+BdistachyonKah-1_v1	Brachypodium distachyon Kah-1
+BdistachyonKah-5_v1	Brachypodium distachyon Kah-5
+BdistachyonKoz-1_v1	Brachypodium distachyon Koz-1
+BdistachyonKoz-3_v1	Brachypodium distachyon Koz-3
+BdistachyonLuc1_v1	Brachypodium distachyon Luc1
+BdistachyonMig3_v1	Brachypodium distachyon Mig3
+BdistachyonMon3_v1	Brachypodium distachyon Mon3
+BdistachyonMur1_v1	Brachypodium distachyon Mur1
+BdistachyonPangenome_v1	Brachypodium distachyon Pangenome
+BdistachyonPer1_v1	Brachypodium distachyon Per1
+BdistachyonRon2_v1	Brachypodium distachyon Ron2
+BdistachyonS8iic_v1	Brachypodium distachyon S8iic
+BdistachyonSig2_v1	Brachypodium distachyon Sig2
+BdistachyonTek-2_v1	Brachypodium distachyon Tek-2
+BdistachyonTek-4_v1	Brachypodium distachyon Tek-4
+BdistachyonUni2_v1	Brachypodium distachyon Uni2
+Bdistachyon_v2.1	Brachypodium distachyon
+Bdistachyon_v3.1	Brachypodium distachyon
+Bdistachyon_v3.2	Brachypodium distachyon
+Bhybridum_v1.1	Brachypodium hybridum
+Bmexicanum_v1.1	Brachypodium mexicanum
+Boleraceacapitata_v1.0	Brassica oleracea capitata
+BrapaFPsc_v1.3	Brassica rapa FPsc
+Bstacei_v1.1	Brachypodium stacei
+Bstricta_v1.2	Boechera stricta
+Bsylvaticum_v1.1	Brachypodium sylvaticum
+Bvulgaris_EL10_1.0	Beta vulgaris
+Camplexicaulis_v1.1	Caulanthus amplexicaulis
+Carabica_v0.5	Coffea arabica
+Carietinum_v1.0	Cicer arietinum
+Ccitriodora_v2.1	Corymbia citriodora
+Cclementina_v1.0	Citrus clementina
+Cgrandiflora_v1.1	Capsella grandiflora
+Chispanica_v1.1	Crambe hispanica
+CillinoinensisElliott_v1.1	Carya illinoinensis Elliott
+CillinoinensisLakota_v1.1	Carya illinoinensis Lakota
+CillinoinensisPawnee_v1.1	Carya illinoinensis Pawnee
+Cillinoinensis_v1.1	Carya illinoinensis
+Ckanehirae_v3	Cinnamomum kanehirae
+Cmaritima_v1.1	Cakile maritima
+Cpapaya_ASGPBv0.4	Carica papaya
+CpurpureusGG1_v1.1	Ceratodon purpureus GG1
+CpurpureusR40_v1.1	Ceratodon purpureus R40
+Cquinoa_v1.0	Chenopodium quinoa
+Creinhardtii_v5.6	Chlamydomonas reinhardtii
+Crubella_v1.1	Capsella rubella
+Csativus_v1.0	Cucumis sativus
+Csinensis_v1.1	Citrus sinensis
+CsubellipsoideaC-169_v2.0	Coccomyxa subellipsoidea C-169
+Cviolacea_v1.1	Cleome violacea
+Cviolacea_v2.1	Cleome violacea
+Czofingiensis_v5.2.3.2	Chromochloris zofingiensis
+Dalata_v1.1	Dioscorea alata
+Dalata_v2.1	Dioscorea alata
+Dcarota_v2.0	Daucus carota
+Dsalina_v1.0	Dunaliella salina
+Dsophioides_v1.1	Descurainia sophioides
+Dstrictus_v1.1	Diptychocarpus strictus
+Dstrictus_v2.1	Diptychocarpus strictus
+Ecoracana_v1.1	Eleusine coracana
+Egrandis_v2.0	Eucalyptus grandis
+Esalsugineum_v1.0	Eutrema salsugineum
+Esyriacum_v1.1	Euclidium syriacum
+Evesicaria_v1.1	Eruca vesicaria
+Fvesca_v2.0.a2	Fragaria vesca
+Gbarbadense_v1.1	Gossypium barbadense
+Gdarwinii_v1.1	Gossypium darwinii
+Ghirsutum_v1.1	Gossypium hirsutum
+Ghirsutum_v2.1	Gossypium hirsutum
+GmaxLee_v1.1	Glycine max Lee
+Gmax_Wm82.a2.v1	Glycine max
+Gmax_Wm82.a4.v1	Glycine max
+Gmustelinum_v1.1	Gossypium mustelinum
+Graimondii_v2.1	Gossypium raimondii
+Gsoja_v1.1	Glycine soja
+Gtomentosum_v1.1	Gossypium tomentosum
+Hannuus_r1.2	Helianthus annuus
+Hvulgare_r1	Hordeum vulgare
+Iamara_v1.1	Iberis amara
+Itinctoria_v1.1	Isatis tinctoria
+Jascendens_v1.1	Joinvillea ascendens
+Kfedtschenkoi_v1.1	Kalanchoe fedtschenkoi
+Klaxiflora_v1.1	Kalanchoe laxiflora
+Lalbus_v1	Lupinus albus
+Lannua_v1.1	Lunaria annua
+Ljaponicus_Lj1.0v1	Lotus japonicus
+Lsativa_V8	Lactuca sativa
+Lsativum_v1.1	Lepidium sativum
+Lusitatissimum_v1.0	Linum usitatissimum
+Macuminata_v1	Musa acuminata
+Mdomestica_v1.1	Malus domestica
+Mesculenta_v6.1	Manihot esculenta
+Mesculenta_v7.1	Manihot esculenta
+MguttatusNONTOL_v3.1	Mimulus guttatus NONTOL
+MguttatusNONTOL_v4.0	Mimulus guttatus NONTOL
+MguttatusTOL_v3.1	Mimulus guttatus TOL
+MguttatusTOL_v5.0	Mimulus guttatus TOL
+Mguttatus_v2.0	Mimulus guttatus
+Mmaritima_v1.1	Malcolmia maritima
+Mperfoliatum_v1.1	Myagrum perfoliatum
+Mperfoliatum_v2.1	Myagrum perfoliatum
+Mpolymorpha_v3.1	Marchantia polymorpha
+MpusillaCCMP1545_v3.0	Micromonas pusilla CCMP1545
+Msinensis_v7.1	Miscanthus sinensis
+MspRCC299_v3.0	Micromonas sp RCC299
+Mtruncatula_Mt4.0v1	Medicago truncatula
+Ncolorata_v1.2	Nymphaea colorata
+Oeuropaea_v1.0	Olea europaea
+Olucimarinus_v2.0	Ostreococcus lucimarinus
+OsativaKitaake_v3.1	Oryza sativa Kitaake
+Osativa_v7.0	Oryza sativa
+Othomaeum_v1.0	Oropetium thomaeum
+PacutifoliusWLD_v2.0	Phaseolus acutifolius WLD
+Pacutifolius_v1.0	Phaseolus acutifolius
+PdeltoidesWV94_v2.1	Populus deltoides WV94
+PhalliiHAL_v2.1	Panicum hallii HAL
+Phallii_v2.0	Panicum hallii
+Phallii_v3.1	Panicum hallii
+Plunatus_V1	Phaseolus lunatus
+Ppatens_v3.3	Physcomitrella patens
+Ppersica_v2.1	Prunus persica
+PtrichocarpaStettler14_v1.1	Populus trichocarpa Stettler14
+Ptrichocarpa_v3.0	Populus trichocarpa
+Ptrichocarpa_v3.1	Populus trichocarpa
+Ptrichocarpa_v4.1	Populus trichocarpa
+Ptrifoliata_v1.3.1	Poncirus trifoliata
+Pumbilicalis_v1.5	Porphyra umbilicalis
+Pvirgatum_v4.1	Panicum virgatum
+Pvirgatum_v5.1	Panicum virgatum
+PvulgarisUI111_v1.1	Phaseolus vulgaris UI111
+Pvulgaris_v2.1	Phaseolus vulgaris
+Rcommunis_v0.1	Ricinus communis
+Rislandica_v1.1	Rorippa islandica
+Salba_v1.1	Sinapis alba
+Salba_v3.1	Sinapis alba
+SbicolorBTx642_v1.1	Sorghum bicolor BTx642
+SbicolorRTx430_v2.1	Sorghum bicolor RTx430
+SbicolorRio_v2.1	Sorghum bicolor Rio
+Sbicolor_v3.1.1	Sorghum bicolor
+Sfallax_v0.5	Sphagnum fallax
+Sfallax_v1.1	Sphagnum fallax
+Sitalica_v2.2	Setaria italica
+Slycopersicum_ITAG2.4	Solanum lycopersicum
+Slycopersicum_ITAG3.2	Solanum lycopersicum
+Smagellanicum_v1.1	Sphagnum magellanicum
+Smoellendorffii_v1.0	Selaginella moellendorffii
+Soleracea_Spov3	Spinacia oleracea
+Sparvula_v2.2	Schrenkiella parvula
+Spinnata_v1.1	Stanleya pinnata
+Spolyrhiza_v2	Spirodela polyrhiza
+SpurpureaFishCreek_v3.1	Salix purpurea Fish Creek
+Spurpurea_v1.0	Salix purpurea
+Spurpurea_v5.1	Salix purpurea
+Stuberosum_v4.03	Solanum tuberosum
+Sviridis_v1.1	Setaria viridis
+Sviridis_v2.1	Setaria viridis
+Taestivum_v2.2	Triticum aestivum
+Tarvense_v1.1	Thlaspi arvense
+Tcacao_v1.1	Theobroma cacao
+Tcacao_v2.1	Theobroma cacao
+Tintermedium_v2.1	Thinopyrum intermedium
+Tplicata_v3.1	Thuja plicata
+Tpratense_v2	Trifolium pratense
+Vcarteri_v2.1	Volvox carteri
+VunguiculataCB5-2_v1.1	Vigna unguiculata CB5-2
+VunguiculataSanzi_v1.1	Vigna unguiculata Sanzi
+VunguiculataSuvita2_v1.1	Vigna unguiculata Suvita2
+VunguiculataTZ30_v1.2	Vigna unguiculata TZ30
+VunguiculataUCR779_v1.1	Vigna unguiculata UCR779
+VunguiculataZN016_v1.2	Vigna unguiculata ZN016
+Vunguiculata_v1.1	Vigna unguiculata
+Vunguiculata_v1.2	Vigna unguiculata
+Vvinifera_v2.1	Vitis vinifera
+Zmarina_v2.2	Zostera marina
+ZmaysPH207_v1.1	Zea mays PH207
+ZmaysPHB47_v1.1	Zea mays PHB47
+ZmaysPHJ40_v1.1	Zea mays PHJ40
+Zmays_RefGen_V4	Zea mays
