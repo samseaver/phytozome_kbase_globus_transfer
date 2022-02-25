@@ -3,16 +3,19 @@ use warnings;
 use strict;
 my @temp=undef;
 
-my $Root = "Phytozome_Feb2022";
+my $Root = "Feb_2022";
 my $Release = "V13";
 
-open(FH, "< ${Root}/JSON_Contents.txt");
+open(FH, "< ../output/${Root}/JSON_Contents.txt");
 my %Unrestricted=();
 my %Restricted=();
+my %Names=();
 while(<FH>){
     chomp;
     @temp=split(/\t/,$_,-1);
 
+    $Names{$temp[3]}=$temp[0];
+    
     if($temp[9] eq "restricted"){
 
 	$Restricted{$temp[3]}{$temp[7]}=$temp[1];
@@ -22,7 +25,9 @@ while(<FH>){
 	$Unrestricted{$temp[3]}{$temp[7]}=$temp[1];
 
 	$temp[3] =~ s/BdistachyonS8iic/BdistachyonS8iiC/;
-
+	$temp[3] =~ s/Pangenome/pangenome/;
+	$Names{$temp[3]}=$temp[0];
+	
 	my $spp_ver = $temp[3];
 	$spp_ver =~ s/Bdistachyon//;
 	next if $spp_ver eq "";
@@ -38,9 +43,7 @@ while(<FH>){
 	    $spp_ver =~ s/${id}/${new_id}/;
 	}
 
-	$temp[3] =~ s/Pangenome/pangenome/;
 	$spp_ver =~ s/Pangenome/pangenome/;
-
 	$spp_ver = "v1.".$spp_ver.".1" if $spp_ver !~ /Ctrl$/;
 	$spp_ver =~ s/(v1\.ABR[69])\.1$/$1/;
 	
@@ -50,6 +53,7 @@ while(<FH>){
 
 	#Exception
 	$temp[3] =~ s/CsubellipsoideaC-169/CsubellipsoideaC169/;
+	$Names{$temp[3]}=$temp[0];
 	
 	$Unrestricted{$temp[3]}{$temp[7]}=$temp[1];
 
@@ -59,7 +63,7 @@ while(<FH>){
 close(FH);
 
 my %Phytozome=();
-open(FH, "< ${Root}/Phytozome_Versions_GeneModels_Phytozome".${Release}.".txt");
+open(FH, "< ../output/${Root}/Phytozome_Versions_GeneModels_Phytozome".${Release}.".txt");
 
 while(<FH>){
     chomp;
@@ -145,12 +149,12 @@ foreach my $species (sort keys %Species_Releases){
     }
 }
 
-open(FH, "> ${Root}/Accepted_Phytozome_Versions_GeneModels.new");
+open(FH, "> ../output/${Root}/Accepted_Phytozome_Versions_GeneModels.new");
 foreach my $species (sort keys %Final_Numbers){
     foreach my $number (sort keys %{$Final_Numbers{$species}}){
 	foreach my $version (sort keys %{$Final_Numbers{$species}{$number}}){
 	    print FH $Final_Numbers{$species}{$number}{$version},"\t",$species,"\t",$number,"\t",$version,"\t";
-	    print FH $Tax_IDs{$species},"\n";
+	    print FH $Tax_IDs{$species},"\t",$Names{$species},"\n";
 	}
     }
 }

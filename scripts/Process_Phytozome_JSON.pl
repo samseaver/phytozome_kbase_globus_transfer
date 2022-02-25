@@ -5,14 +5,10 @@ use JSON;
 my $JSON=undef;
 
 my $Root="Phytozome_Feb2022";
-open(FH, "< ${Root}.json");
+open(FH, "< ../files/${Root}.json");
 while(<FH>){$JSON.=$_}close(FH);$JSON=from_json($JSON);
 
-if(!-d $Root){
-    mkdir $Root;
-}
-
-open(OUT, "> ${Root}/JSON_Contents.txt");
+open(OUT, "> ../output/Feb_2022/JSON_Contents.txt");
 my %Names=();
 foreach my $organism (@$JSON){
 
@@ -40,9 +36,3 @@ foreach my $organism (@$JSON){
     print OUT $organism->{data_restriction_policy},"\t";
     print OUT $organism->{embryophyte_busco_completeness},"\n";
 }
-
-open(NAMES, "> ${Root}/Phytozome_Names.txt");
-foreach my $species (sort keys %Names){
-    print NAMES $species,"\t",$Names{$species},"\n";
-}
-close(NAMES);
