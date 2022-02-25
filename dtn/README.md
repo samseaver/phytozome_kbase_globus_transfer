@@ -1,0 +1,121 @@
+# Phytozome Genome Upload on DTN
+
+## Overview
+
+This directory contains the files I need in place to load Phytozome
+genomes using GFU and here I describe how I use the `kb-sdk test`
+approach to do so. It's contingent on the files being transferred to
+the DTN in the first place, as described in the parent [README](../README.md).
+
+### Data Files
+
+The scripts process whether there's five files available for each
+combination of a species genome assembly and gene model (each of which
+may have separate versions). Two of these are required and the other
+three are optional and allow me to integrate additional information
+for the features into the KBase Genome Object, if they are present:
+
+* Required Files:
+    * Assembly in FASTA format i.e. `Athaliana_167_TAIR9.fa.gz`
+    * Gene models in GFF3 format i.e. `Athaliana_167_TAIR10.gene.gff3.gz`
+* Optional Files:
+    * Functions in tab-separated format, denoted as 'defline'
+      i.e. `Athaliana_167_TAIR10.defline.txt`
+    * Gene names in tab-separated format, denoted as 'synonym'
+      i.e. `Athaliana_167_TAIR10.synonym.txt`
+    * Predicted annotations in tab-separated format, denoted as
+      'annotation_info' i.e. `Athaliana_167_TAIR10.annotation_info.txt`
+
+#### Columns in optional files
+
+* The functions file should only have two columns, the first
+  indicating transcript ID and the second indicating the
+  function. These are loaded into the `functions` field of each `mrna`
+  and parent `feature` dicts.
+
+* The synonyms file can have multiple columns, but the first column
+  indicates the transcript ID, and all other columns will contain
+  alternative gene names. These are loaded into the `aliases` field of
+  the `mrna` and parent `feature` dicts.
+
+* The annotation_info file has multiple unique columns, and we do not
+  load all of these. The file has a column header, and we load a
+  combination of the "ec" column and "GO" column which stand for
+  "Enzyme Commission" and "Gene Ontology" respectively. These are
+  loaded as `ontology_terms` dicts in the `cds`, `mrna`, and `feature`
+  dicts, for each of which an identifier is listed in columns 2-4.
+
+When loading a genome using the optional files, the result can be
+checked in the Genome widget in a narrative, wherein the functions,
+names, and ontology fields will be populated in the features table.
+
+NB: We _could_ load more of the ontology in the annotation_info file,
+but the redundancy and size of the `ontology_terms` dicts that must be
+stored will push many of the genomes (which can have more than 50,000
+or even 100,000 features, let alone mrna and cds objects) over the 1GB
+limit for the workspace.
+
+## KB-SDK Files
+
+### Processing GFF files
+
+First of all, there is a case of the gene identifiers and the
+transcript identifiers being identical in a few of the GFF files
+transferred from Phytozome, and leads to broken links within the
+genome object (the code will not populate the `parent_feature` and
+`parent_mrna` field in the mrna and cds objects respectively). I wrote
+a separate script that will load these GFF files and edit the
+transcript identifiers so that they have a `.mRNA` suffix, to make
+them distinct. This is `process_gff_files.py` and needs to be run on
+the entire Phytozome directory (it will step through to find the
+appropriate GFF files). It copies them so that the original file is
+preserved, if needed, before modifying the original itself.
+
+### Mounting the genomes folder
+
+As the DTN gets cleaned out regularly, I copy the transferred files
+from the bulk share into my home directory (see parent
+[README](../README.md)), but in order to use these I modify the script
+for running the tests to include these as a separate mount, so the
+`run_tests.sh` script in the test_local directory needs to be modified
+to mount them using an additional -v parameter. The example
+`run_tests.sh` script in this directory can be copied into the
+appropriate place in the GFU hierarchy (i.e. into `test_local`)
+
+### Directing the tests to run Phytozome script
+
+The latest iteration of GFU gives the user to pick the specific test
+script they need to run. As I use `kb-sdk test` to perform the
+Phytozome upload (as it sets up the container and its environment for
+me) I modify the `run_tests_within_container.sh` script in `scripts`
+to specifically run the script for loading Phytozome genomes
+(`load_phytozome.py`). The example in this folder can be copied into
+the GFU's script folder.
+
+### Loading the genomes
+
+The actual script that processes all of the genomes is
+`load_phytozome.py`, it's structured like a typical test script, and
+needs to be copied into the test folder. It will read the list of
+genomes from the `Accepted_Phytozome_Versions_GeneModels.txt` file
+which includes the taxonomy ID and species names too. As this changes
+with every load, I keep copies of it in dated folders in the
+[`output`](../output) directory.
+
+### "Accepted" genomes
+
+The `Accepted_Phytozome_Versions_GeneModels.txt` file is generated by
+`../scripts/Process_Phytozome_Species.pl`, and should be placed in the
+`test/data` folder.
+
+## Loading of genomes
+
+With all these files in place, the actual loading can simply be run as
+`kb-sdk test -s`. It does fail from time to time mostly due to
+transient network issues, and on rare occasions due to file
+location/formatting and versioning, so it needs to be checked. It
+prints out a list of the genome assemblies and gene models that it has
+successfully saved in `genomes/Phytozome/Phytozome_Upload_Summary.txt`
+so if the contents of this file is copied back into `test/data` it
+will read it and not attempt to re-process/load the genomes that have
+already been successfully loaded.
