@@ -31,10 +31,12 @@ print("Listing received")
 for Phytozome_Version in list_response['DATA']:
 	if(Version not in Phytozome_Version['name']):
 		continue
-
-	phytozome_listing=open(Root+"/Phytozome_Versions_GeneModels_"+Phytozome_Version['name']+".txt",'w')
+	
 	species_list = transfer_client.operation_ls(JGI_Endpoint,**{"path":JGI_Path+Phytozome_Version['name']})
 	for species in species_list:
+		if('Creinhardtii' not in species['name']):
+			continue
+
 		if(species['type'] != 'dir'):
 			continue
 
@@ -59,36 +61,38 @@ for Phytozome_Version in list_response['DATA']:
 						   annotation['name'].endswith('defline.txt') or \
 						   annotation['name'].endswith('synonym.txt') or \
 							annotation['name'].endswith('protein.fa.gz')):
+						print(annotation['name'])
 						gene_file=1
-						phytozome_listing.write(Phytozome_Version['name']+"\t"+species['name']+"\t"+annotation['name']+"\n")
 			if(version['name']=='assembly'):
 				assembly=1
 				assembly_list = transfer_client.operation_ls(JGI_Endpoint,**{"path":JGI_Path+Phytozome_Version['name']+"/"+species['name']+"/"+version['name']})
 				for assembly in assembly_list:
 					if('.fa' in assembly['name'] and 'mask' not in assembly['name']):
-						phytozome_listing.write(Phytozome_Version['name']+"\t"+species['name']+"\t"+assembly['name']+"\n")
+						print(assembly['name'])
 
 		#Go through versions
 		if(annotation==0):
 			for version in versions_list:
+				print(version['name'])
 				dir_list = transfer_client.operation_ls(JGI_Endpoint,**{"path":JGI_Path+Phytozome_Version['name']+"/"+species['name']+"/"+version['name']})
 				for dir in dir_list:
+					print(dir['name'])
 					if(dir['name']=='annotation'):
 						annotation_list = transfer_client.operation_ls(JGI_Endpoint,**{"path":JGI_Path+Phytozome_Version['name']+"/"+species['name']+"/"+version['name']+"/"+dir['name']})
 						for annotation in annotation_list:
+							print(annotation['name'])
 							if(annotation['name'].endswith('gene.gff3.gz') or \
 								   annotation['name'].endswith('annotation_info.txt') or \
 								   annotation['name'].endswith('defline.txt') or \
 								   annotation['name'].endswith('synonym.txt') or \
 									annotation['name'].endswith('protein.fa.gz')):
 								gene_file=1
-								phytozome_listing.write(Phytozome_Version['name']+"\t"+species['name']+"\t"+annotation['name']+"\t"+version['name']+"\n")
+								print(annotation['name'])
 					if(dir['name']=='assembly'):
 						assembly_list = transfer_client.operation_ls(JGI_Endpoint,**{"path":JGI_Path+Phytozome_Version['name']+"/"+species['name']+"/"+version['name']+"/assembly"})
 						for assembly in assembly_list:
 							if('.fa' in assembly['name'] and 'mask' not in assembly['name'] and 'Mask' not in assembly['name']):
-								phytozome_listing.write(Phytozome_Version['name']+"\t"+species['name']+"\t"+assembly['name']+"\t"+version['name']+"\n")
-
+								print(assembly['name'])
 		if(gene_file==0):
 			print("Warning: no gene file for "+Phytozome_Version['name']+" "+species['name'])
 

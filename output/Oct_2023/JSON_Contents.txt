@@ -1,0 +1,374 @@
+Chromochloris zofingiensis	31302	461	Czofingiensis		v5	UCLA	v5.2.3.2	UCLA	unrestricted	27.0
+Citrus clementina	85681	182	Cclementina	clementine	v1	JGI	v1.0	JGI	unrestricted	94.6
+Ricinus communis	3988	119	Rcommunis	castor bean plant	TIGR.0.1	TIGR	v0.1	TIGR	unrestricted	90.0
+Linum usitatissimum	4006	200	Lusitatissimum	flax	BGIv1.0	BGI	v1.0	BGI	unrestricted	92.1
+Musa acuminata	4641	304	Macuminata	banana	v1	Genoscope/Cirad	v1	Genoscope/Cirad	unrestricted	86.7
+Arabidopsis halleri	81970	264	Ahalleri		v1	JGI	v1.1	JGI	restricted	85.9
+Selaginella moellendorffii	88036	91	Smoellendorffii	spikemoss	v1	JGI	v1.0	JGI	unrestricted	61.8
+Populus trichocarpa	3694	210	Ptrichocarpa	western poplar	v3.0	JGI	v3.0	JGI	unrestricted	97.6
+Theobroma cacao	3641	233	Tcacao	cocoa bean	CGDv1.0	CGD	v1.1	CGD	unrestricted	97.7
+Gossypium raimondii	29730	221	Graimondii	cotton	v2.0	JGI	v2.1	JGI	unrestricted	97.4
+Vitis vinifera	29760	457	Vvinifera	grape vine	Genoscope.12X	CRIBI	v2.1	CRIBI	unrestricted	95.8
+Micromonas pusilla CCMP1545	564608	228	MpusillaCCMP1545		v3.0	JGI.FG	v3.0	JGI.FG	unrestricted	21.1
+Brachypodium sylvaticum	29664	490	Bsylvaticum		v1.0	JGI	v1.1	JGI	restricted	97.2
+Arabidopsis thaliana	3702	167	Athaliana	thale cress	TAIR9	TAIR	TAIR10	TAIR	unrestricted	99.3
+Setaria viridis	4556	311	Sviridis	green foxtail millet	v1.0	JGI	v1.1	JGI	unrestricted	97.5
+Thuja plicata	3316	572	Tplicata	western red-cedar	v3	UBC	v3.1	JGI	unrestricted	84.5
+Brachypodium stacei	1071399	316	Bstacei		v1.0	JGI	v1.1	JGI	unrestricted	98.6
+Brachypodium distachyon	15368	314	Bdistachyon	purple false brome	v3.0	JGI	v3.1	JGI	unrestricted	98.6
+Trifolium pratense	57577	385	Tpratense	red clover	v2	TGAC	v2	TGAC	unrestricted	87.6
+Malus domestica	3750	491	Mdomestica	apple	GDDH13v1.1	AGE	v1.1	AGE	restricted	96.8
+Eutrema salsugineum	72664	173	Esalsugineum	salt cress	v1	JGI	v1.0	JGI	unrestricted	98.4
+Populus trichocarpa	3694	444	Ptrichocarpa	western poplar	v3.0	JGI	v3.1	JGI	unrestricted	97.4
+Zea mays	4577	493	Zmays	maize	APGv4	CSHL	RefGen_V4	CSHL	unrestricted	95.2
+Zea mays PH207	4577	443	ZmaysPH207	maize	v1.0	UMN	v1.1	UMN	unrestricted	87.9
+Solanum tuberosum	4113	448	Stuberosum	potato	v4.03	MSU	v4.03	MSU	unrestricted	85.5
+Arabidopsis thaliana	3702	447	Athaliana	thale cress	TAIR9	TAIR	Araport11	Araport	unrestricted	99.3
+Brassica oleracea capitata	3712	446	Boleraceacapitata	cabbage	v1.0	OCRI	v1.0	OCRI	unrestricted	78.4
+Triticum aestivum	4565	296	Taestivum	wheat	v2	MIPS	v2.2	MIPS	unrestricted	89.4
+Lunaria annua	153659	476	Lannua	annual honesty	v1	JGI	v1.1	JGI	restricted	97.6
+Amborella trichopoda	13333	291	Atrichopoda	amborella	v1.0	AGP	v1.0	AGP	unrestricted	84.5
+Cicer arietinum	3827	492	Carietinum	chickpea	v1.0	CGIAR	v1.0	CGIAR	unrestricted	89.6
+Brachypodium distachyon Bd21-3	15368	460	BdistachyonBd21-3	purple false brome	v1.0	JGI	v1.1	JGI	restricted	98.0
+Setaria italica	4555	312	Sitalica	foxtail millet	v2	JGI	v2.2	JGI	unrestricted	98.4
+Eucalyptus grandis	71139	297	Egrandis	eucalyptus	v2.0	JGI	v2.0	JGI	unrestricted	92.3
+Prunus persica	3760	298	Ppersica	peach	v2.0	JGI	v2.1	JGI	unrestricted	98.8
+Brassica rapa FPsc	3711	277	BrapaFPsc	turnip mustard	v1	JGI	v1.3	JGI	unrestricted	96.9
+Sorghum bicolor Rio	4558	468	SbicolorRio	sorghum	v2.0	JGI	v2.1	JGI	unrestricted	97.0
+Panicum virgatum	38727	450	Pvirgatum	switchgrass	v4.0	JGI	v4.1	JGI	unrestricted	98.3
+Glycine max	3847	275	Gmax	soybean	v2.0	JGI	Wm82.a2.v1	JGI	unrestricted	97.4
+Chlamydomonas reinhardtii	3055	281	Creinhardtii	green algae	v5.0	JGI	v5.6	JGI	unrestricted	27.6
+Kalanchoe laxiflora	1670617	309	Klaxiflora		v1.0	JGI	v1.1	JGI	restricted	94.3
+Setaria viridis	4556	500	Sviridis	green foxtail millet	v2.0	JGI	v2.1	JGI	unrestricted	99.0
+Brachypodium distachyon	15368	283	Bdistachyon	purple false brome	v2.0	JGI	v2.1	JGI	unrestricted	98.3
+Stanleya pinnata	72662	486	Spinnata	Princes Plume	v1	JGI	v1.1	JGI	restricted	71.2
+Physcomitrium patens	3218	318	Ppatens	moss Physcomitrella patens	v3	COSMOSS	v3.3	COSMOSS	unrestricted	67.9
+Volvox carteri	3067	317	Vcarteri	volvox	v2	JGI	v2.1	JGI	unrestricted	26.0
+Zostera marina	29655	324	Zmarina	common eelgrass	v2.2	ORCAE	v2.2	ORCAE	unrestricted	85.0
+Dunaliella salina	3046	325	Dsalina		v1	JGI	v1.0	JGI	unrestricted	18.6
+Ananas comosus	4615	321	Acomosus	pineapple	v3	FAFU/UIUC	v3	FAFU/UIUC	unrestricted	89.3
+Manihot esculenta	3983	305	Mesculenta	cassava	v6.0	JGI	v6.1	JGI	unrestricted	95.3
+Oryza sativa	39947	323	Osativa	rice	v7.0	MSU	v7.0	MSU	unrestricted	95.6
+Aquilegia coerulea	218851	322	Acoerulea	Colorado blue columbine	v3	JGI	v3.1	JGI	unrestricted	95.8
+Marchantia polymorpha	3197	320	Mpolymorpha	common liverwort	v3.0	JGI	v3.1	JGI	unrestricted	66.7
+Brachypodium distachyon BdTR7a	15368	329	BdistachyonBdTR7a	purple false brome	1.0	JGI	v1	JGI	unrestricted	97.2
+Brachypodium distachyon ABR9	15368	333	BdistachyonABR9	purple false brome	1.0	JGI	v1	JGI	unrestricted	96.8
+Brachypodium distachyon BdTR13a	15368	334	BdistachyonBdTR13a	purple false brome	1.0	JGI	v1	JGI	unrestricted	97.8
+Brachypodium distachyon ABR6	15368	336	BdistachyonABR6	purple false brome	1.0	JGI	v1	JGI	unrestricted	97.9
+Brachypodium distachyon ABR2	15368	337	BdistachyonABR2	purple false brome	1.0	JGI	v1	JGI	unrestricted	97.4
+Brachypodium distachyon ABR3	15368	343	BdistachyonABR3	purple false brome	1.0	JGI	v1	JGI	unrestricted	97.4
+Brachypodium distachyon Bd30-1	15368	344	BdistachyonBd30-1	purple false brome	1.0	JGI	v1	JGI	unrestricted	96.0
+Brachypodium distachyon BdTR1i	15368	345	BdistachyonBdTR1i	purple false brome	1.0	JGI	v1	JGI	unrestricted	97.8
+Brachypodium distachyon Bd29-1	15368	346	BdistachyonBd29-1	purple false brome	1.0	JGI	v1	JGI	unrestricted	93.6
+Brachypodium distachyon BdTR8i	15368	348	BdistachyonBdTR8i	purple false brome	1.0	JGI	v1	JGI	unrestricted	97.2
+Brachypodium distachyon Bd1-1	15368	349	BdistachyonBd1-1	purple false brome	1.0	JGI	v1	JGI	unrestricted	96.1
+Brachypodium distachyon BdTR12c	15368	352	BdistachyonBdTR12c	purple false brome	1.0	JGI	v1	JGI	unrestricted	94.8
+Brachypodium distachyon Bd2-3	15368	353	BdistachyonBd2-3	purple false brome	1.0	JGI	v1	JGI	unrestricted	95.4
+Brachypodium distachyon BdTR3c	15368	354	BdistachyonBdTR3c	purple false brome	1.0	JGI	v1	JGI	unrestricted	98.0
+Brachypodium distachyon Arn1	15368	355	BdistachyonArn1	purple false brome	1.0	JGI	v1	JGI	unrestricted	97.8
+Brachypodium distachyon ABR8	15368	356	BdistachyonABR8	purple false brome	1.0	JGI	v1	JGI	unrestricted	91.5
+Brachypodium distachyon BdTR11g	15368	357	BdistachyonBdTR11g	purple false brome	1.0	JGI	v1	JGI	unrestricted	97.6
+Brachypodium distachyon Adi-12	15368	359	BdistachyonAdi-12	purple false brome	1.0	JGI	v1	JGI	unrestricted	95.8
+Brachypodium distachyon Bd21 AsmbCtrl	15368	361	BdistachyonBd21AsmbCtrl	purple false brome	1.0	JGI	v1	JGI	unrestricted	97.1
+Brachypodium distachyon Bd18-1	15368	362	BdistachyonBd18-1	purple false brome	1.0	JGI	v1	JGI	unrestricted	98.4
+Brachypodium distachyon ABR4	15368	364	BdistachyonABR4	purple false brome	1.0	JGI	v1	JGI	unrestricted	97.2
+Brachypodium distachyon BdTR13c	15368	365	BdistachyonBdTR13c	purple false brome	1.0	JGI	v1	JGI	unrestricted	95.1
+Brachypodium distachyon BdTR2g	15368	367	BdistachyonBdTR2g	purple false brome	1.0	JGI	v1	JGI	unrestricted	95.3
+Brachypodium distachyon ABR7	15368	369	BdistachyonABR7	purple false brome	1.0	JGI	v1	JGI	unrestricted	98.1
+Brachypodium distachyon BdTR5i	15368	370	BdistachyonBdTR5i	purple false brome	1.0	JGI	v1	JGI	unrestricted	94.1
+Brachypodium distachyon Adi-2	15368	372	BdistachyonAdi-2	purple false brome	1.0	JGI	v1	JGI	unrestricted	97.6
+Brachypodium distachyon BdTR10c	15368	374	BdistachyonBdTR10c	purple false brome	1.0	JGI	v1	JGI	unrestricted	93.3
+Brachypodium distachyon BdTR2b	15368	376	BdistachyonBdTR2b	purple false brome	1.0	JGI	v1	JGI	unrestricted	96.7
+Brachypodium distachyon Bd21-3	15368	378	BdistachyonBd21-3	purple false brome	1.0	JGI	v1	JGI	unrestricted	96.7
+Brachypodium distachyon ABR5	15368	379	BdistachyonABR5	purple false brome	1.0	JGI	v1	JGI	unrestricted	96.4
+Brachypodium distachyon Koz-1	15368	330	BdistachyonKoz-1	purple false brome	1.0	JGI	v1	JGI	unrestricted	98.3
+Brachypodium distachyon Bd21 AnntCtrl	15368	331	BdistachyonBd21AnntCtrl	purple false brome	1.0	JGI	v1	JGI	unrestricted	98.1
+Brachypodium distachyon Tek-4	15368	332	BdistachyonTek-4	purple false brome	1.0	JGI	v1	JGI	unrestricted	75.1
+Brachypodium distachyon Pangenome	15368	335	BdistachyonPangenome	purple false brome	1.0	JGI	v1	JGI	unrestricted	98.7
+Brachypodium distachyon Bis-1	15368	338	BdistachyonBis-1	purple false brome	1.0	JGI	v1	JGI	unrestricted	96.9
+Brachypodium distachyon Gaz-8	15368	339	BdistachyonGaz-8	purple false brome	1.0	JGI	v1	JGI	unrestricted	75.0
+Brachypodium distachyon Tek-2	15368	341	BdistachyonTek-2	purple false brome	1.0	JGI	v1	JGI	unrestricted	96.7
+Brachypodium distachyon Kah-5	15368	342	BdistachyonKah-5	purple false brome	1.0	JGI	v1	JGI	unrestricted	97.8
+Brachypodium distachyon Luc1	15368	347	BdistachyonLuc1	purple false brome	1.0	JGI	v1	JGI	unrestricted	97.8
+Brachypodium distachyon Mon3	15368	350	BdistachyonMon3	purple false brome	1.0	JGI	v1	JGI	unrestricted	96.6
+Brachypodium distachyon Kah-1	15368	351	BdistachyonKah-1	purple false brome	1.0	JGI	v1	JGI	unrestricted	86.5
+Brachypodium distachyon BdTR9k	15368	358	BdistachyonBdTR9k	purple false brome	1.0	JGI	v1	JGI	unrestricted	94.5
+Brachypodium distachyon Ron2	15368	360	BdistachyonRon2	purple false brome	1.0	JGI	v1	JGI	unrestricted	97.6
+Brachypodium distachyon Foz1	15368	366	BdistachyonFoz1	purple false brome	1.0	JGI	v1	JGI	unrestricted	96.8
+Brachypodium distachyon Koz-3	15368	368	BdistachyonKoz-3	purple false brome	1.0	JGI	v1	JGI	unrestricted	95.6
+Brachypodium distachyon Sig2	15368	371	BdistachyonSig2	purple false brome	1.0	JGI	v1	JGI	unrestricted	96.7
+Brachypodium distachyon Mur1	15368	373	BdistachyonMur1	purple false brome	1.0	JGI	v1	JGI	unrestricted	96.2
+Brachypodium distachyon Jer1	15368	375	BdistachyonJer1	purple false brome	1.0	JGI	v1	JGI	unrestricted	96.5
+Brachypodium distachyon Mig3	15368	377	BdistachyonMig3	purple false brome	1.0	JGI	v1	JGI	unrestricted	97.4
+Kalanchoe fedtschenkoi	63787	382	Kfedtschenkoi	lavender scallops	v1.0	JGI	v1.1	JGI	unrestricted	89.5
+Brachypodium hybridum	1071398	463	Bhybridum		v1.0	JGI	v1.1	JGI	unrestricted	99.4
+Olea europaea	4146	451	Oeuropaea	olive	v1.0	OGC	v1.0	OGC	unrestricted	79.9
+Daucus carota	4039	388	Dcarota	carrot	v2.0	WISC	v2.0	WISC	unrestricted	83.2
+Oryza sativa Kitaake	39947	499	OsativaKitaake	rice	v3.0	JGI	v3.1	JGI	unrestricted	99.1
+Oropetium thomaeum	1148796	386	Othomaeum		v1.0	DanforthCenter	v1.0	DanforthCenter	unrestricted	70.2
+Anacardium occidentale	171929	449	Aoccidentale	cashew	v0.9	JGI	v0.9	JGI	restricted	91.1
+Coffea arabica	13443	453	Carabica	coffee	v0.5	UCD	v0.5	UCD	restricted	94.8
+Arabidopsis lyrata	59689	384	Alyrata	Lyrate rockcress	v1	JGI	v2.1	MPIPZ	unrestricted	98.2
+Solanum lycopersicum	4081	390	Slycopersicum	tomato	v2.5	iTAG	ITAG2.4	iTAG	unrestricted	95.5
+Brachypodium distachyon Bd30-1	15368	515	BdistachyonBd30-1	purple false brome	v1.0	JGI	v1.1	JGI	restricted	98.1
+Panicum hallii	206008	308	Phallii	Hall's panicgrass	v2.0	JGI	v2.0	JGI	unrestricted	96.6
+Chenopodium quinoa	63459	392	Cquinoa	quinoa	v1.0	KAUST	v1.0	KAUST	unrestricted	90.6
+Phaseolus vulgaris	3885	442	Pvulgaris	common bean	v2.0	JGI	v2.1	JGI	restricted	96.4
+Porphyra umbilicalis	2786	456	Pumbilicalis	seaweed	v1.5	JGI	v1.5	JGI	unrestricted	7.7
+Sorghum bicolor	4558	454	Sbicolor	sorghum	v3.0	JGI	v3.1.1	JGI	unrestricted	98.3
+Hordeum vulgare	112509	462	Hvulgare	barley	r1	IBSC	r1	IBSC	unrestricted	84.7
+Rorippa islandica	157092	473	Rislandica	marsh cress	v1	JGI	v1.1	JGI	restricted	98.1
+Amaranthus hypochondriacus	28502	459	Ahypochondriacus	grain amaranth	v2.0	BYU	v2.1	BYU	unrestricted	77.6
+Vigna unguiculata	3917	469	Vunguiculata	cowpea	v1.0	UCR	v1.1	JGI	unrestricted	95.9
+Lactuca sativa	4236	467	Lsativa	lettuce	v8	UCDavis	V8	UCDavis	unrestricted	92.5
+Citrus sinensis	2711	154	Csinensis	sweet orange	v1	JGI	v1.1	JGI	unrestricted	87.2
+Medicago truncatula	3880	285	Mtruncatula	barrel medic	Mt4.0	JCVI	Mt4.0v1	JCVI	unrestricted	93.6
+Capsella grandiflora	264402	266	Cgrandiflora		v1	JGI	v1.1	JGI	unrestricted	94.6
+Boechera stricta	72658	278	Bstricta	Drummond's rockcress	v1	JGI	v1.2	JGI	unrestricted	97.4
+Spirodela polyrhiza	29656	290	Spolyrhiza	greater duckweed	v1	MIPS	v2	MIPS	unrestricted	79.6
+Salix purpurea	77065	289	Spurpurea	shrub willow	v1.0	JGI/JCVI	v1.0	JGI/JCVI	unrestricted	97.0
+Caulanthus amplexicaulis	154096	470	Camplexicaulis	claspingleaf wild cabbage	v1	JGI	v1.1	JGI	restricted	98.8
+Myagrum perfoliatum	359867	471	Mperfoliatum	bird's eye cress	v1	JGI	v1.1	JGI	restricted	97.6
+Alyssum linifolium	457770	472	Alinifolium		v1	JGI	v1.1	JGI	restricted	98.5
+Descurainia sophioides	669666	482	Dsophioides	northern tansymustard	v1	JGI	v1.1	JGI	restricted	96.5
+Isatis tinctoria	161756	475	Itinctoria	dyer's woad	v1	JGI	v1.1	JGI	restricted	96.8
+Malcolmia maritima	313683	477	Mmaritima	Virginia stock	v1	JGI	v1.1	JGI	restricted	98.8
+Lepidium sativum	33125	478	Lsativum	garden cress	v1	JGI	v1.1	JGI	restricted	98.0
+Thlaspi arvense	13288	479	Tarvense	field pennycress	v1	JGI	v1.1	JGI	restricted	97.5
+Sinapis alba	3728	480	Salba	white mustard	v1	JGI	v1.1	JGI	restricted	98.2
+Cakile maritima	220483	481	Cmaritima	european searocket	v1	JGI	v1.1	JGI	restricted	97.9
+Euclidium syriacum	345537	483	Esyriacum	syrian mustard	v1	JGI	v1.1	JGI	restricted	96.7
+Iberis amara	190884	485	Iamara	rocket candytuft	v1	JGI	v1.1	JGI	restricted	96.5
+Populus deltoides WV94	3696	445	PdeltoidesWV94	eastern cottonwood	v2.0	JGI	v2.1	JGI	restricted	94.4
+Eruca vesicaria	180536	487	Evesicaria	arugula	v1	JGI	v1.1	JGI	restricted	98.3
+Crambe hispanica	70124	488	Chispanica		v1	JGI	v1.1	JGI	restricted	97.8
+Diptychocarpus strictus	359840	489	Dstrictus		v1	JGI	v1.1	JGI	restricted	93.9
+Capsella rubella	81985	474	Crubella	Pink shepherd's purse	v1	JGI	v1.1	JGI	unrestricted	97.2
+Cleome violacea	389490	484	Cviolacea	spider plant	v1.0	JGI	v1.1	JGI	restricted	97.6
+Panicum hallii HAL	206008	496	PhalliiHAL	Hall's panicgrass	v2.0	JGI	v2.1	JGI	unrestricted	98.9
+Helianthus annuus	4232	494	Hannuus	sunflower	r1.0	INRA	r1.2	INRA	unrestricted	93.6
+Panicum hallii	206008	495	Phallii	Hall's panicgrass	v3.0	JGI	v3.1	JGI	unrestricted	98.1
+Miscanthus sinensis	62337	497	Msinensis	Chinese silver grass	v7.0	JGI	v7.1	JGI	unrestricted	97.6
+Asparagus officinalis	4686	498	Aofficinalis	garden asparagus	Aspof.V1	UGA	V1.1	UGA	unrestricted	79.0
+Brachypodium distachyon Per1	15368	326	BdistachyonPer1	purple false brome	1.0	JGI	v1	JGI	unrestricted	97.8
+Brachypodium distachyon Uni2	15368	327	BdistachyonUni2	purple false brome	1.0	JGI	v1	JGI	unrestricted	97.5
+Brachypodium distachyon Bd3-1	15368	328	BdistachyonBd3-1	purple false brome	1.0	JGI	v1	JGI	unrestricted	85.6
+Brachypodium distachyon S8iic	15368	340	BdistachyonS8iic	purple false brome	1.0	JGI	v1	JGI	unrestricted	97.5
+Brachypodium distachyon BdTR11i	15368	363	BdistachyonBdTR11i	purple false brome	1.0	JGI	v1	JGI	unrestricted	97.4
+Brachypodium distachyon BdTR11a	15368	380	BdistachyonBdTR11a	purple false brome	1.0	JGI	v1	JGI	unrestricted	95.9
+Brachypodium distachyon Adi-10	15368	381	BdistachyonAdi-10	purple false brome	1.0	JGI	v1	JGI	unrestricted	84.7
+Thinopyrum intermedium	85679	503	Tintermedium	intermediate wheatgrass	v3.0	JGI	v2.1	JGI	restricted	97.4
+Dioscorea alata	55571	504	Dalata	yam	v1.0	JGI	v1.1	JGI	unrestricted	79.5
+Corymbia citriodora	34329	507	Ccitriodora	lemon-scented gum	v2.0	JGI	v2.1	JGI	unrestricted	95.1
+Glycine max	3847	508	Gmax	soybean	v4.0	JGI	Wm82.a4.v1	JGI	unrestricted	97.6
+Cucumis sativus	3659	122	Csativus	cucumber	v1	Roche/JGI	v1.0	Roche/JGI	unrestricted	89.0
+Glycine soja	3848	509	Gsoja	soybean	v1.0	JGI	v1.1	JGI	unrestricted	96.7
+Glycine max Lee	3847	510	GmaxLee	soybean	v1.0	JGI	v1.1	JGI	restricted	97.3
+Zea mays PHB47	4577	513	ZmaysPHB47	maize	v1.0	JGI	v1.1	JGI	unrestricted	97.4
+Zea mays PHJ40	4577	512	ZmaysPHJ40	maize	v1.0	JGI	v1.1	JGI	unrestricted	98.0
+Solanum lycopersicum	4081	514	Slycopersicum	tomato	SL3.0	iTAG	ITAG3.2	ITAG	unrestricted	94.5
+Acorus americanus	263995	586	Aamericanus	sweetflag	v1.0	JGI	v1.1	JGI	restricted	94.2
+Panicum virgatum	38727	516	Pvirgatum	switchgrass	v5.0	JGI	v5.1	JGI	unrestricted	99.4
+Botryococcus braunii	38881	502	Bbraunii		v2.0	JGI	v2.1	JGI	restricted	22.6
+Salix purpurea Fish Creek	77065	518	SpurpureaFishCreek	shrub willow	v3.0	JGI	v3.1	JGI	unrestricted	97.2
+Salix purpurea	77065	519	Spurpurea	shrub willow	v5.0	JGI	v5.1	JGI	unrestricted	97.0
+Manihot esculenta	3983	520	Mesculenta	cassava	v7	UC Berkeley	v7.1	JGI	unrestricted	98.1
+Brachypodium mexicanum	52141	813	Bmexicanum		v2.0		v2.1	JGI	unrestricted	99.5
+Theobroma cacao	3641	523	Tcacao	cocoa bean	v2.0	JGI	v2.1	JGI	restricted	98.1
+Populus trichocarpa Stettler14	3694	532	PtrichocarpaStettler14	western poplar	v1.0	JGI	v1.1	JGI	unrestricted	98.3
+Fragaria vesca	57918	501	Fvesca	woodland strawberry	v2.0.a2	HAU	v2.0.a2	HAU	unrestricted	95.8
+Arachis hypogaea	3818	530	Ahypogaea	peanut	v1.0	PeanutBase	v1.0	PeanutBase	unrestricted	92.8
+Sorghum bicolor RTx430	4558	552	SbicolorRTx430	sorghum	v2.0	JGI	v2.1	JGI	restricted	99.2
+Populus trichocarpa	3694	533	Ptrichocarpa	western poplar	v4.0	JGI	v4.1	JGI	unrestricted	98.9
+Phaseolus vulgaris UI111	3885	534	PvulgarisUI111	common bean	v1.0	JGI	v1.1	JGI	restricted	96.9
+Rubus argutus	59490	840	Rargutus		v1.0	DNA_Zoo	v1.2	JGI	restricted	93.5
+Brachypodium distachyon	15368	556	Bdistachyon	purple false brome	v3.0	JGI	v3.2	JGI	restricted	99.3
+Vigna unguiculata TZ30	3917	558	VunguiculataTZ30	cowpea	v1.0	UCR	v1.2	JGI	restricted	95.3
+Vigna unguiculata ZN016	3917	559	VunguiculataZN016	cowpea	v1.0	UCR	v1.2	JGI	restricted	95.6
+Poncirus trifoliata	37690	565	Ptrifoliata	hardy orange	v1.3	JGI	v1.3.1	JGI	unrestricted	97.2
+Phaseolus lunatus	3884	563	Plunatus	lima bean	v1	Uniandes	V1	Uniandes	restricted	93.7
+Cinnamomum kanehirae	337451	531	Ckanehirae	stout camphor tree	v3	BRCAS	v3	BRCAS	unrestricted	89.8
+Brachypodium distachyon Bd21-3	15368	537	BdistachyonBd21-3	purple false brome	v1.0	JGI	v1.2	JGI	restricted	99.0
+Ceratodon purpureus R40	3225	538	CpurpureusR40		v1.0	JGI	v1.1	JGI	unrestricted	69.0
+Paspalum vaginatum	158149	672	Pvaginatum	biscuit grass	v3.0	HA	v3.1	JGI	unrestricted	98.9
+Ceratodon purpureus GG1	3225	539	CpurpureusGG1		v1.0	JGI	v1.1	JGI	unrestricted	69.1
+Dioscorea alata	55571	550	Dalata	yam	v2.0	UC Berkeley	v2.1	JGI	restricted	94.9
+Beta vulgaris	161934	548	Bvulgaris	beet	EL10_1.0	MSU	EL10_1.0	MSU	unrestricted	89.2
+Vigna unguiculata Suvita2	3917	541	VunguiculataSuvita2	cowpea	v1.0	UCR	v1.1	JGI	restricted	95.3
+Vigna unguiculata UCR779	3917	543	VunguiculataUCR779	cowpea	v1.0	UCR	v1.1	JGI	restricted	95.6
+Sorghum bicolor BTx642	4558	564	SbicolorBTx642	sorghum	v1.0	JGI	v1.1	JGI	restricted	99.4
+Sorghum bicolor PI_154844	4558	734	SbicolorPI154844	sorghum	v1.0	HA	v1.1	JGI	restricted	99.4
+Vigna unguiculata Sanzi	3917	544	VunguiculataSanzi	cowpea	v1.0	UCR	v1.1	JGI	restricted	95.6
+Vigna unguiculata CB5-2	3917	545	VunguiculataCB5-2	cowpea	v1.0	UCR	v1.1	JGI	restricted	95.1
+Brachypodium distachyon Bd1-1	15368	549	BdistachyonBd1-1	purple false brome	v1.0	JGI	v1.1	JGI	restricted	99.4
+Vigna unguiculata	3917	540	Vunguiculata	cowpea	v1.0	UCR	v1.2	JGI	restricted	96.0
+Nymphaea colorata	210225	566	Ncolorata	water lilly	v1.0	Zhejiang University	v1.2	JGI	unrestricted	92.5
+Lupinus albus	3870	567	Lalbus	white lupine	r1	PeretLab	v1	PeretLab	unrestricted	95.0
+Joinvillea ascendens	38723	587	Jascendens	`ohe	v1.0	JGI	v1.1	JGI	restricted	98.0
+Lotus japonicus	34305	571	Ljaponicus		Lj1.0	HAU	Lj1.0v1	HAU	unrestricted	96.7
+Carica papaya	3649	113	Cpapaya	papaya	r.Dec2008	ASGPB	ASGPBv0.4	ASGPB	unrestricted	72.0
+Carya illinoinensis	32201	573	Cillinoinensis	pecan	v1.0	HA	v1.1	JGI	unrestricted	97.8
+Spinacia oleracea	3562	575	Soleracea	spinach	Spov3	UCD	Spov3	UCD	unrestricted	83.9
+Schrenkiella parvula	98039	574	Sparvula		v2.0	LSU	v2.2	LSU	unrestricted	96.8
+Sorghum bicolor	4558	730	Sbicolor	sorghum	v5.0	JGI	v5.1	JGI	restricted	99.7
+Phaseolus acutifolius	33129	580	Pacutifolius	tepary bean	v1.0	HA	v1.0	MSU	unrestricted	94.7
+Phaseolus acutifolius WLD	33129	581	PacutifoliusWLD	tepary bean	v2.0	U Saskatchewan	v2.0	MSU	unrestricted	95.8
+Diptychocarpus strictus	359840	582	Dstrictus		v2.0	JGI	v2.1	JGI	restricted	94.6
+Myagrum perfoliatum	359867	583	Mperfoliatum	bird's eye cress	v2.0	JGI	v2.1	JGI	restricted	98.5
+Sinapis alba	3728	584	Salba	white mustard	v3.0	JGI	v3.1	JGI	restricted	98.1
+Cleome violacea	389490	585	Cviolacea	spider plant	v2.0	JGI	v2.1	JGI	restricted	98.1
+Rubus ulmifolius	75099	841	Rulmifolius		v1.0	DNA_Zoo	v1.1	JGI	restricted	95.2
+Panicum hallii	206008	590	Phallii	Hall's panicgrass	v3.0	JGI	v3.2	JGI	unrestricted	99.3
+Panicum hallii HAL	206008	591	PhalliiHAL	Hall's panicgrass	v2.0	JGI	v2.2	JGI	unrestricted	99.2
+Zostera marina	29655	668	Zmarina	common eelgrass	v2.0	JGI	v3.1	Ghent	unrestricted	85.3
+Betula platyphylla	78630	679	Bplatyphylla	Asian white birch	v1.0	NEFU	v1.1	NEFU	unrestricted	92.4
+Pharus latifolius	38686	680	Platifolius		v1.0	JGI	v1.1	JGI	restricted	98.4
+Solanum lycopersicum	4081	691	Slycopersicum	tomato	SL4.0	SGN	ITAG4.0	ITAG	unrestricted	93.6
+Zea mays B84	4577	681	ZmaysB84	maize	v1.0	JGI	v1.2	JGI	unrestricted	99.2
+Zea mays LH145	4577	682	ZmaysLH145	maize	v1.0	JGI	v1.2	JGI	unrestricted	99.1
+Zea mays NKH8431	4577	683	ZmaysNKH8431	maize	v1.0	JGI	v1.2	JGI	unrestricted	99.2
+Zea mays PHB47	4577	684	ZmaysPHB47	maize	v1.0	JGI	v1.2	JGI	unrestricted	99.0
+Zea mays PHJ40	4577	685	ZmaysPHJ40	maize	v1.0	JGI	v1.2	JGI	unrestricted	99.2
+Solanum tuberosum	4113	686	Stuberosum	potato	v6.1	MSU	v6.1	MSU	unrestricted	95.1
+Urochloa fusca	744485	669	Ufusca		v1.0	JGI	v1.1	JGI	restricted	97.2
+Lindenbergia philippensis	86093	689	Lphilippensis		v1.0	JGI	v1.1	JGI	restricted	96.7
+Manihot esculenta	3983	671	Mesculenta	cassava	v8.0	UCB	v8.1	JGI	unrestricted	98.7
+Fragaria x ananassa	3747	675	Fxananassa	strawberry	v1.0	UCD	v1.0.a1	UCD	unrestricted	96.9
+Coccomyxa subellipsoidea C-169	574566	227	CsubellipsoideaC-169		v2.0	JGI.FG	v2.0	JGI.FG	unrestricted	26.5
+Ostreococcus lucimarinus	436017	231	Olucimarinus		v2.0	JGI.FG	v2.0	JGI.FG	unrestricted	20.2
+Micromonas sp RCC299	296587	229	MspRCC299		v3.0	JGI.FG	v3.0	JGI.FG	unrestricted	22.7
+Ceratopteris richardii	49495	676	Crichardii		v2.0	JGI	v2.1	JGI	unrestricted	71.0
+Fragaria vesca	57918	677	Fvesca	woodland strawberry	v4.0.a1	UCD	v4.0.a2	HAU	unrestricted	97.8
+Populus nigra x maximowiczii NM6	75703	688	PnigraxmaximowicziiNM6	hybrid poplar	v1.0	JGI	v1.1	JGI	restricted	98.6
+Glycine max Fiskeby	3847	678	GmaxFiskeby	soybean	v1.0	HA	v1.1	JGI	restricted	97.7
+Chlamydomonas reinhardtii CC-4532	3055	707	CreinhardtiiCC-4532	green algae	v6.0	JGI	v6.1	JGI	unrestricted	28.5
+Chasmanthium laxum	40583	690	Claxum	Slender wood oats	v1.0	JGI	v1.1	JGI	restricted	98.1
+Portulaca amilis	996330	692	Pamilis	Paraguayan purslane	v1.0	Yale	v1.0	Yale	unrestricted	89.0
+Brachypodium hybridum Bhyb26	1071398	693	BhybridumBhyb26		v2.0	JGI	v2.1	JGI	restricted	99.7
+Sorghum bicolor SC187	4558	694	SbicolorSC187	sorghum	v1.0	JGI	v1.1	JGI	restricted	99.4
+Kalanchoe laxiflora FTBG2000359A	1670617	699	KlaxifloraFTBG2000359A		v3.0	JGI	v3.1	JGI	restricted	93.2
+Vaccinium darrowii	229202	700	Vdarrowii	evergreen blueberry	v1.2	USDA/UTK	v1.2	USDA/UTK	unrestricted	90.1
+Fragaria x ananassa Royal Royce	3747	701	FxananassaRoyalRoyce	allo-octoploid strawberry	v1.0	UCDAVIS	v1.0	UCDAVIS	restricted	97.4
+Hordeum vulgare Morex	112509	702	HvulgareMorex	Morex barley	V3	HA	V3	IPK	unrestricted	94.7
+Panicum virgatum var. DAC6 HAP2	38727	775	PvirgatumvarDAC6HAP2	switchgrass	v1.0	JGI	v1.1	JGI	restricted	99.4
+Panicum virgatum var. VS16 HAP1	38727	776	PvirgatumvarVS16HAP1	switchgrass	v1.0	JGI	v1.1	JGI	restricted	99.7
+Populus tremula x Populus alba HAP2	113636	716	PtremulaxPopulusalbaHAP2		v5.0	JGI	v5.1	JGI	restricted	98.7
+Populus tremula x Populus alba HAP1	113636	717	PtremulaxPopulusalbaHAP1		v5.0	JGI	v5.1	JGI	restricted	98.7
+Brachypodium arbuscula BARB1	52140	720	BarbusculaBARB1		v3.0	JGI	v3.1	JGI	restricted	99.0
+Brachypodium sylvaticum Ain-1	29664	721	BsylvaticumAin-1		v2.0	JGI	v2.1	JGI	restricted	99.1
+Panicum virgatum var. DAC6 HAP1	38727	774	PvirgatumvarDAC6HAP1	switchgrass	v1.0	JGI	v1.1	JGI	restricted	99.7
+Panicum virgatum var. VS16 HAP2	38727	777	PvirgatumvarVS16HAP2	switchgrass	v1.0	JGI	v1.1	JGI	restricted	99.6
+Diphasiastrum complanatum	34168	723	Dcomplanatum		v3.0	JGI	v3.1	JGI	restricted	76.5
+Setaria viridis	4556	726	Sviridis	green foxtail millet	v4.0	JGI	v4.1	JGI	restricted	99.2
+Amborella trichopoda var. SantaCruz_75 HAP1	13333	727	AtrichopodavarSantaCruz75HAP1		v2.0	JGI	v2.1	JGI	restricted	93.5
+Amborella trichopoda var. SantaCruz_75 HAP2	13333	728	AtrichopodavarSantaCruz75HAP2		v2.0	JGI	v2.1	JGI	restricted	94.0
+Sorghum bicolor PI_154987	4558	735	SbicolorPI154987	sorghum	v2.0	JGI	v2.1	JGI	restricted	99.3
+Sorghum bicolor PI_156178	4558	736	SbicolorPI156178	sorghum	v1.0	JGI	v1.1	JGI	restricted	99.4
+Sorghum bicolor PI_180348	4558	737	SbicolorPI180348	sorghum	v1.0	JGI	v1.1	JGI	restricted	99.6
+Sorghum bicolor PI_276816	4558	738	SbicolorPI276816	sorghum	v1.0	HA	v1.1	JGI	restricted	99.5
+Sorghum bicolor PI_513676	4558	742	SbicolorPI513676	sorghum	v1.0	HA	v1.1	JGI	restricted	99.4
+Sorghum bicolor PI_533766	4558	743	SbicolorPI533766	sorghum	v1.0	HA	v1.1	JGI	restricted	99.3
+Sorghum bicolor PI_533869	4558	744	SbicolorPI533869	sorghum	v1.0	HA	v1.1	JGI	restricted	99.4
+Sorghum bicolor PI_534133	4558	745	SbicolorPI534133	sorghum	v1.0	HA	v1.1	JGI	restricted	99.4
+Sorghum bicolor PI_565121	4558	746	SbicolorPI565121	sorghum	v1.0	HA	v1.1	JGI	restricted	99.7
+Sorghum bicolor PI_569459	4558	747	SbicolorPI569459	sorghum	v1.0	JGI	v1.1	JGI	restricted	99.7
+Sorghum bicolor PI_570071	4558	748	SbicolorPI570071	sorghum	v1.0	JGI	v1.1	JGI	restricted	98.2
+Sorghum bicolor PI_576434	4558	749	SbicolorPI576434	sorghum	v1.0	HA	v1.1	JGI	restricted	99.5
+Sorghum bicolor PI_585966	4558	750	SbicolorPI585966	sorghum	v2.0	JGI	v2.1	JGI	restricted	97.7
+Sorghum bicolor PI_597980	4558	751	SbicolorPI597980	sorghum	v1.0	HA	v1.1	JGI	restricted	99.6
+Sorghum bicolor PI_655981	4558	752	SbicolorPI655981	sorghum	v1.0	HA	v1.1	JGI	restricted	99.5
+Sorghum bicolor PI_655988	4558	753	SbicolorPI655988	sorghum	v1.0	JGI	v1.1	JGI	restricted	99.7
+Sorghum bicolor PI_656015	4558	754	SbicolorPI656015	sorghum	v1.0	HA	v1.1	JGI	restricted	99.6
+Sorghum bicolor PI_656023	4558	755	SbicolorPI656023	sorghum	v1.0	HA	v1.1	JGI	restricted	99.4
+Sorghum bicolor PI_656027	4558	756	SbicolorPI656027	sorghum	v1.0	HA	v1.1	JGI	restricted	99.7
+Sorghum bicolor PI_656031	4558	757	SbicolorPI656031	sorghum	v1.0	HA	v1.1	JGI	restricted	99.6
+Sorghum bicolor PI_656044	4558	758	SbicolorPI656044	sorghum	v1.0	JGI	v1.1	JGI	restricted	99.6
+Sorghum bicolor PI_656050	4558	759	SbicolorPI656050	sorghum	v1.0	HA	v1.1	JGI	restricted	99.5
+Sorghum bicolor PI_656057	4558	760	SbicolorPI656057	sorghum	v1.0	HA	v1.1	JGI	restricted	99.4
+Sorghum bicolor PI_656111	4558	761	SbicolorPI656111	sorghum	v1.0	HA	v1.1	JGI	restricted	99.4
+Sorghum bicolor PI_660557	4558	762	SbicolorPI660557	sorghum	v1.0	HA	v1.1	JGI	restricted	99.3
+Sorghum bicolor PI_660563	4558	763	SbicolorPI660563	sorghum	v1.0	HA	v1.1	JGI	restricted	99.4
+Sorghum bicolor PI_660565	4558	764	SbicolorPI660565	sorghum	v1.0	HA	v1.1	JGI	restricted	99.4
+Arabidopsis halleri	81970	765	Ahalleri		v2.03	MPIB	v2.1.0	MGPP-RUB	unrestricted	94.0
+Sorghum bicolor PI_276837	4558	739	SbicolorPI276837	sorghum	v1.0	HA	v1.1	JGI	restricted	99.7
+Sorghum bicolor PI_329301	4558	740	SbicolorPI329301	sorghum	v1.0	JGI	v1.1	JGI	restricted	99.7
+Sorghum bicolor PI_329501	4558	741	SbicolorPI329501	sorghum	v2.0	JGI	v2.1	JGI	restricted	99.2
+Liriodendron tulipifera YP108A	3415	766	LtulipiferaYP108A		v1.0	JGI	v1.1	JGI	restricted	98.3
+Liriodendron tulipifera YP108A alt	3415	767	LtulipiferaYP108Aalt		v1.0	JGI	v1.1	JGI	restricted	94.7
+Thinopyrum intermedium	85679	770	Tintermedium	intermediate wheatgrass	v3.0	JGI	v3.1	JGI	unrestricted	99.7
+Triticum aestivum cv. Chinese Spring	4565	725	TaestivumcvChineseSpring	bread wheat	v2.1	IWGSC	v2.1	IWGSC	unrestricted	99.3
+Beta vulgaris ssp. vulgaris	3555	782	Bvulgarissspvulgaris	sugar beet EL10	EL10.2	USDA	EL10.2_2	JGI	unrestricted	92.2
+Solanum lycopersicum	4081	796	Slycopersicum	tomato	SL5.0	AGI_CAAS_Shenzhen	ITAG5.0	AGI_CAAS_Shenzhen	restricted	93.5
+Eleusine coracana	4511	560	Ecoracana	finger millet	v1.0	UGA/MIPS	v1.1	UGA/MIPS	unrestricted	94.9
+Mimulus guttatus var. IM767	4155	836	MguttatusvarIM767	monkeyflower	v1.0	JGI	v1.1	JGI	restricted	98.8
+Camelina sativa CAM116	90675	802	CsativaCAM116	false flax	v1.0	JGI	v1.1	JGI	restricted	99.1
+Camelina sativa Prytzh	90675	801	CsativaPrytzh	false flax	v1.0	JGI	v1.1	JGI	restricted	99.1
+Mimulus nasutus var. SF	4158	822	MnasutusvarSF	monkeyflower	v2.0	JGI	v2.1	JGI	restricted	96.7
+Camelina sativa Borowska	90675	803	CsativaBorowska	false flax	v1.0	JGI	v1.1	JGI	restricted	99.1
+Camelina sativa Svalof	90675	812	CsativaSvalof	false flax	v1.0	JGI	v1.1	JGI	restricted	99.1
+Camelina sativa Lindo	90675	804	CsativaLindo	false flax	v1.0	JGI	v1.1	JGI	restricted	99.1
+Camelina sativa Acsn-226	90675	805	CsativaAcsn-226	false flax	v1.0	JGI	v1.1	JGI	restricted	99.2
+Camelina sativa Giessen4	90675	806	CsativaGiessen4	false flax	v1.0	JGI	v1.1	JGI	restricted	99.1
+Camelina sativa Joelle	90675	807	CsativaJoelle	false flax	v1.0	JGI	v1.1	JGI	restricted	99.1
+Camelina sativa Licalla	90675	808	CsativaLicalla	false flax	v1.0	JGI	v1.1	JGI	restricted	99.1
+Camelina sativa CN113611	90675	809	CsativaCN113611	false flax	v1.0	JGI	v1.1	JGI	restricted	99.1
+Camelina sativa Ames 1043	90675	810	CsativaAmes1043	false flax	v1.0	JGI	v1.1	JGI	restricted	99.1
+Camelina sativa CAM70	90675	811	CsativaCAM70	false flax	v1.0	JGI	v1.1	JGI	restricted	99.2
+Mimulus guttatus var. AHQT1	4155	800	MguttatusvarAHQT1	monkeyflower	v1.0	JGI	v1.1	JGI	restricted	96.9
+Mimulus guttatus var. IM62	4155	797	MguttatusvarIM62	monkeyflower	v3.0	JGI	v3.1	JGI	restricted	96.8
+Mimulus guttatus NONTOL	4155	553	MguttatusNONTOL	monkeyflower	v4.0	JGI	v4.0	JGI	restricted	91.8
+Mimulus guttatus NONTOL	4155	506	MguttatusNONTOL	monkeyflower	v3.0	JGI	v3.1	JGI	restricted	91.9
+Cercis canadensis	49801	705	Ccanadensis	eastern redbud	V3.0	JGI	V3.1	JGI	restricted	99.0
+Cercis canadensis HAP2	49801	706	CcanadensisHAP2	eastern redbud	V3.0	JGI	V3.1	JGI	restricted	99.0
+Mimulus guttatus TOL	4155	551	MguttatusTOL	monkeyflower	v5.0	JGI	v5.0	JGI	restricted	93.1
+Mimulus guttatus TOL	4155	505	MguttatusTOL	monkeyflower	v3.0	JGI	v3.1	JGI	restricted	93.0
+Mimulus guttatus	4155	256	Mguttatus	monkeyflower	v2.0	JGI	v2.0	JGI	unrestricted	94.5
+Lens culinaris	3864	718	Lculinaris	lentil	v1	USask	v1	USask	unrestricted	92.4
+Lens ervoides	41257	719	Lervoides	wild lentil	v1	USask	v1	USask	unrestricted	92.7
+Sorghum bicolor Wray	4558	781	SbicolorWray	sorghum	v1.0	JGI	v1.1	JGI	restricted	99.4
+Castanea mollissima Mahogany HAP2	60419	729	CmollissimaMahoganyHAP2	Chinese chestnut	v1.0	HA	v1.1	HA	restricted	97.4
+Gossypium hirsutum UGA230	3635	568	GhirsutumUGA230	upland cotton	v1.0	HA	v1.1	HA	restricted	98.5
+Gossypium hirsutum UA48	3635	569	GhirsutumUA48	upland cotton	v1.0	HA	v1.1	HA	restricted	98.3
+Gossypium hirsutum	3635	578	Ghirsutum	upland cotton	v3.0	HA	v3.1	HA	restricted	98.6
+Carya illinoinensis Pawnee	32201	588	CillinoinensisPawnee	pecan	v1.0	HA	v1.1	HA	unrestricted	95.9
+Hydrangea quercifolia	60124	589	Hquercifolia	oakleaf hydrangea	v1.0	HA	v1.1	HA	restricted	93.1
+Castanea dentata	134033	673	Cdentata	American chestnut	v1.0	HA	v1.1	HA	restricted	98.7
+Saponaria officinalis	3572	780	Sofficinalis	soapwort	v1.0	JGI	v1.1	JGI	restricted	95.2
+Phaseolus vulgaris Labor Ovalle	3885	670	PvulgarisLaborOvalle	common bean	v1.0	HA	v1.1	HA	restricted	95.1
+Quercus rubra	3512	687	Qrubra	northern red oak	v2.0	HA	v2.1	HA	restricted	97.4
+Gossypium hirsutum CSX8308	3635	570	GhirsutumCSX8308	upland cotton	v1.0	HA	v1.1	HA	restricted	98.5
+Gossypium hirsutum DeltaPearl	3635	695	GhirsutumDeltaPearl	upland cotton	v1.0	HA	v1.1	HA	restricted	98.7
+Phaseolus vulgaris 5-593	3885	696	Pvulgaris5-593	common bean	v1.0	HA	v1.1	HA	restricted	96.0
+Gossypium hirsutum FM958	3635	697	GhirsutumFM958	upland cotton	v1.0	HA	v1.1	HA	restricted	98.5
+Gossypium hirsutum Coker	3635	698	GhirsutumCoker	upland cotton	v1.0	HA	v1.1	HA	restricted	98.7
+Castanea mollissima Nanking HAP2	60419	731	CmollissimaNankingHAP2	Chinese chestnut	v1.0	HA	v1.1	HA	restricted	97.9
+Castanea mollissima Nanking HAP1	60419	732	CmollissimaNankingHAP1	Chinese chestnut	v1.0	HA	v1.1	HA	restricted	98.1
+Castanea mollissima Mahogany HAP1	60419	733	CmollissimaMahoganyHAP1	Chinese chestnut	v1.0	HA	v1.1	HA	restricted	97.6
+Gossypium hirsutum	3635	458	Ghirsutum	upland cotton	v1.0	HA	v1.1	HA	unrestricted	97.8
+Gossypium mustelinum	34275	524	Gmustelinum	cotton	v1.0	HA	v1.1	HA	unrestricted	98.3
+Gossypium hirsutum	3635	527	Ghirsutum	upland cotton	v2.0	HA	v2.1	HA	unrestricted	98.5
+Gossypium darwinii	34276	529	Gdarwinii	cotton	v1.0	HA	v1.1	HA	unrestricted	98.5
+Gossypium tomentosum	34277	525	Gtomentosum	cotton	v1.0	HA	v1.1	HA	unrestricted	98.6
+Gossypium barbadense	3634	526	Gbarbadense	cotton	v1.0	HA	v1.1	HA	unrestricted	98.2
+Carya illinoinensis Elliott	32201	562	CillinoinensisElliott	pecan	v1.0	HA	v1.1	HA	unrestricted	94.4
+Carya illinoinensis Lakota	32201	561	CillinoinensisLakota	pecan	v1.0	HA	v1.1	HA	unrestricted	97.5
+Ehretia anacua AZ 03848 HAP2	99303	789	EanacuaAZ03848HAP2	anacua	v1.0	JGI	v1.1	JGI	restricted	98.5
+Ehretia anacua AZ 03848 HAP1	99303	788	EanacuaAZ03848HAP1	anacua	v1.0	JGI	v1.1	JGI	restricted	98.5
+Saccharum officinarum x spontaneum R570	4547	771	SofficinarumxspontaneumR570	sugarcane	v2.0	JGI	v2.1	JGI	restricted	99.8
+Agave tequilana var. Weber's Blue HAP1	386106	790	AtequilanavarWeber'sBlueHAP1	Weber's Blue agave	v2.0	JGI	v2.1	JGI	restricted	97.0
+Andropogon gerardi HAP1	79824	783	AgerardiHAP1	Big bluestem	v1.0	JGI	v1.1	JGI	restricted	99.7
+Panicum virgatum var. AP13 HAP2	38727	773	PvirgatumvarAP13HAP2	switchgrass	v6.0	JGI	v6.1	JGI	restricted	99.7
+Panicum virgatum var. AP13 HAP1	38727	772	PvirgatumvarAP13HAP1	switchgrass	v6.0	JGI	v6.1	JGI	restricted	99.7
+Andropogon gerardi HAP2	79824	784	AgerardiHAP2	Big bluestem	v1.0	JGI	v1.1	JGI	restricted	99.7
+Agave tequilana var. Weber's Blue HAP2	386106	791	AtequilanavarWeber'sBlueHAP2	Weber's Blue agave	v2.0	JGI	v2.1	JGI	restricted	97.4
+Sphagnum fallax	53036	310	Sfallax	flat-topped bogmoss	v0.5	JGI	v0.5	JGI	unrestricted	71.1
+Sphagnum magellanicum	128215	521	Smagellanicum	magellanic bogmoss Sphagnum divinum	v1.0	JGI	v1.1	JGI	unrestricted	71.6
+Sphagnum fallax	53036	522	Sfallax	flat-topped bogmoss	v1.0	JGI	v1.1	JGI	unrestricted	71.3
+Zea mays	4577	833	Zmays	maize	Zm-B73-REFERENCE-NAM-5.0	MaizeGDB	Zm-B73-REFERENCE-NAM-5.0.55	nam-genomes	unrestricted	96.4
+Eschscholzia californica var. Aurantiaca Orange King Plant1.1 HAP2	3467	827	EcalifornicavarAurantiacaOrangeKingPlant11HAP2	California poppy	v1.0	JGI	v1.1	JGI	restricted	97.4
+Glycine max Wm82 ISU-01	3847	724	GmaxWm82ISU-01	soybean	v2.0	JGI	v2.1	JGI	restricted	97.7
+Eschscholzia californica var. Aurantiaca Orange King Plant1.1 HAP1	3467	828	EcalifornicavarAurantiacaOrangeKingPlant11HAP1	California poppy	v1.0	JGI	v1.1	JGI	restricted	97.6
+Brachypodium mexicanum	52141	577	Bmexicanum		v1.0	JGI	v1.1	JGI	unrestricted	99.5
+Corylus americana var. winkler	78632	834	Camericanavarwinkler	American hazelnut Winkler	v1.0	JGI	v1.1	JGI	unrestricted	95.1
+Corylus americana var. rush	78632	835	Camericanavarrush	American hazelnut Rush	v1.0	JGI	v1.1	JGI	unrestricted	98.8
+Brassica rapa ssp. trilocularis R500	1813537	795	BrapassptrilocularisR500		v2.0	JGI	v2.1	JGI	restricted	99.0

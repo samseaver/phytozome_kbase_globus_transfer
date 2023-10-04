@@ -4,11 +4,11 @@ use strict;
 use JSON;
 my $JSON=undef;
 
-my $Root="Phytozome_Feb2022";
+my $Root="Phytozome_Oct2023";
 open(FH, "< ../files/${Root}.json");
 while(<FH>){$JSON.=$_}close(FH);$JSON=from_json($JSON);
 
-open(OUT, "> ../output/Feb_2022/JSON_Contents.txt");
+open(OUT, "> ../output/Oct_2023/JSON_Contents.txt");
 my %Names=();
 foreach my $organism (@$JSON){
 
